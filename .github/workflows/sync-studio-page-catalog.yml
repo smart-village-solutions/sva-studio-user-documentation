@@ -55,6 +55,19 @@ jobs:
       - run: npm ci
       - run: npm test
 
+      - name: Vorhandene Entwürfe des Automations-PR übernehmen
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin "refs/heads/$SYNC_BRANCH:refs/remotes/origin/$SYNC_BRANCH"; then
+            git switch --create "$SYNC_BRANCH" --track "origin/$SYNC_BRANCH"
+            git merge --no-edit origin/main
+          else
+            git switch --create "$SYNC_BRANCH"
+          fi
+
       - name: Fehlende Dokumentationsseiten additiv anlegen
         run: npm run catalog:sync -- "$RUNNER_TEMP/studio-page-catalog.json"
 
@@ -77,13 +90,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin "refs/heads/$SYNC_BRANCH:refs/remotes/origin/$SYNC_BRANCH" || true
-          git switch -C "$SYNC_BRANCH"
           git add catalog.json docs/pages
           git commit -m "docs: Studio-Seitenkatalog synchronisieren (${STUDIO_SHA:0:12})"
-          git push --force-with-lease origin "HEAD:refs/heads/$SYNC_BRANCH"
+          git push origin "$SYNC_BRANCH"
 
           printf '%s\n' \
             'Dieser Pull Request wurde nach einer Änderung des Studio-Seitenkatalogs automatisch erzeugt.' \

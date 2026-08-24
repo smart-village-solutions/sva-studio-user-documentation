@@ -21,8 +21,9 @@ aktualisiert den Branch `automation/sync-studio-page-catalog` mit einem Pull Req
 
 Für neue IDs entstehen deutschsprachige, mit `status: draft` und `TODO` gekennzeichnete
 Markdown-Seiten. Der Workflow überschreibt keine vorhandene Seite und löscht keine verwaisten
-Inhalte. Erst der redaktionell geprüfte Merge des Pull Requests veröffentlicht die neue Seite über
-GitHub Pages.
+Inhalte. Redaktionelle Änderungen, die bereits auf dem offenen Automationsbranch liegen, werden
+bei einem weiteren Studio-Merge übernommen. Erst der redaktionell geprüfte Merge des Pull Requests
+veröffentlicht die neue Seite über GitHub Pages.
 
 ## Lokale Entwicklung
 
