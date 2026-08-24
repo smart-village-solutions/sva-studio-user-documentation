@@ -1,0 +1,19 @@
+{
+  "name": "sva-studio-user-documentation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "catalog:sync": "node scripts/sync-studio-catalog.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "artifacts": "node scripts/build-runtime-artifacts.mjs",
+    "dev": "vitepress dev docs",
+    "build": "npm run validate && npm run artifacts && vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "overrides": {
+    "vite": "^7.1.5"
+  }
+}
