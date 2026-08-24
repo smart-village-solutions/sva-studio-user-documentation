@@ -1,0 +1,114 @@
+name: Studio-Seitenkatalog synchronisieren
+
+on:
+  repository_dispatch:
+    types: [studio-documentation-catalog-updated]
+  workflow_dispatch:
+    inputs:
+      studio_sha:
+        description: Vollständiger Commit-SHA aus smart-village-solutions/sva-studio
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: studio-page-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      SYNC_BRANCH: automation/sync-studio-page-catalog
+      STUDIO_SHA: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.studio_sha || inputs.studio_sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Studio-Katalog vom exakten Commit laden
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$STUDIO_SHA" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "Ungültiger Studio-Commit-SHA." >&2
+            exit 1
+          fi
+          curl \
+            --fail \
+            --location \
+            --retry 3 \
+            --silent \
+            --show-error \
+            "https://raw.githubusercontent.com/smart-village-solutions/sva-studio/$STUDIO_SHA/docs/user-documentation/page-catalog.json" \
+            --output "$RUNNER_TEMP/studio-page-catalog.json"
+
+      - run: npm ci
+      - run: npm test
+
+      - name: Fehlende Dokumentationsseiten additiv anlegen
+        run: npm run catalog:sync -- "$RUNNER_TEMP/studio-page-catalog.json"
+
+      - run: npm run validate
+
+      - name: Änderungen erkennen
+        id: changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git status --porcelain -- catalog.json docs/pages > "$RUNNER_TEMP/documentation-sync-status"
+          if [[ -s "$RUNNER_TEMP/documentation-sync-status" ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Automationsbranch und Pull Request aktualisieren
+        if: steps.changes.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "refs/heads/$SYNC_BRANCH:refs/remotes/origin/$SYNC_BRANCH" || true
+          git switch -C "$SYNC_BRANCH"
+          git add catalog.json docs/pages
+          git commit -m "docs: Studio-Seitenkatalog synchronisieren (${STUDIO_SHA:0:12})"
+          git push --force-with-lease origin "HEAD:refs/heads/$SYNC_BRANCH"
+
+          printf '%s\n' \
+            'Dieser Pull Request wurde nach einer Änderung des Studio-Seitenkatalogs automatisch erzeugt.' \
+            '' \
+            "Studio-Commit: \`$STUDIO_SHA\`" \
+            '' \
+            'Bitte alle mit `TODO` markierten Hilfeseiten redaktionell vervollständigen. Bestehende Markdown-Dateien wurden nicht überschrieben und verwaiste Seiten nicht gelöscht.' \
+            > "$RUNNER_TEMP/pull-request-body.md"
+
+          gh pr list \
+            --base main \
+            --head "$SYNC_BRANCH" \
+            --state open \
+            --json number \
+            --jq '.[0].number // empty' \
+            > "$RUNNER_TEMP/pull-request-number"
+
+          if [[ -s "$RUNNER_TEMP/pull-request-number" ]]; then
+            gh pr edit "$(<"$RUNNER_TEMP/pull-request-number")" \
+              --title 'docs: Studio-Seitenkatalog synchronisieren' \
+              --body-file "$RUNNER_TEMP/pull-request-body.md"
+          else
+            gh pr create \
+              --base main \
+              --head "$SYNC_BRANCH" \
+              --title 'docs: Studio-Seitenkatalog synchronisieren' \
+              --body-file "$RUNNER_TEMP/pull-request-body.md"
+          fi

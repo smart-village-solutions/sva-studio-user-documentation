@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "catalog:sync": "node scripts/sync-studio-catalog.mjs",
+    "test": "node --test scripts/*.test.mjs",
     "validate": "node scripts/validate-content.mjs",
     "artifacts": "node scripts/build-runtime-artifacts.mjs",
     "dev": "vitepress dev docs",

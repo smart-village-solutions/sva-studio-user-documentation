@@ -12,6 +12,18 @@ npm run catalog:sync -- /pfad/zum/sva-studio/docs/user-documentation/page-catalo
 Der Sync legt ausschließlich fehlende Markdown-Seiten an. Bestehende Seiten und verwaiste
 Inhalte werden nicht verändert oder gelöscht.
 
+## Automatischer Sync nach einem Studio-Merge
+
+Ändert ein Merge nach `smart-village-solutions/sva-studio:main` den eingecheckten Seitenkatalog,
+sendet das Studio das Ereignis `studio-documentation-catalog-updated` mit dem exakten Merge-SHA.
+Der Workflow `Studio-Seitenkatalog synchronisieren` lädt genau diesen Katalog und eröffnet oder
+aktualisiert den Branch `automation/sync-studio-page-catalog` mit einem Pull Request.
+
+Für neue IDs entstehen deutschsprachige, mit `status: draft` und `TODO` gekennzeichnete
+Markdown-Seiten. Der Workflow überschreibt keine vorhandene Seite und löscht keine verwaisten
+Inhalte. Erst der redaktionell geprüfte Merge des Pull Requests veröffentlicht die neue Seite über
+GitHub Pages.
+
 ## Lokale Entwicklung
 
 ```bash

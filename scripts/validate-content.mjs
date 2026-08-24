@@ -1,7 +1,9 @@
 import { access, readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 
-const catalog = JSON.parse(await readFile(resolve('catalog.json'), 'utf8'));
+import { validateCatalog } from './catalog-contract.mjs';
+
+const catalog = validateCatalog(JSON.parse(await readFile(resolve('catalog.json'), 'utf8')));
 const ids = new Set();
 for (const page of catalog.pages ?? []) {
   if (typeof page.id !== 'string' || ids.has(page.id)) {

@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { basename, resolve } from 'node:path';
 
+import { validateCatalog } from './catalog-contract.mjs';
 import { createPageContent } from './page-template.mjs';
 
 const input = process.argv[2];
@@ -15,18 +16,7 @@ const loadCatalog = async () => {
   return JSON.parse(await readFile(resolve(input), 'utf8'));
 };
 
-const catalog = await loadCatalog();
-if (catalog?.schemaVersion !== 1 || !Array.isArray(catalog.pages)) {
-  throw new Error('Ungültiger Studio-Seitenkatalog.');
-}
-
-const ids = new Set();
-for (const page of catalog.pages) {
-  if (!page || typeof page.id !== 'string' || ids.has(page.id)) {
-    throw new Error(`Ungültige oder doppelte Seiten-ID: ${String(page?.id)}`);
-  }
-  ids.add(page.id);
-}
+const catalog = validateCatalog(await loadCatalog());
 
 await mkdir(resolve('docs/pages'), { recursive: true });
 for (const page of catalog.pages) {

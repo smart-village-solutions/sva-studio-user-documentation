@@ -55,6 +55,11 @@ const stepsByPageType = {
     'Ändern Sie die gewünschten Angaben oder Zuordnungen.',
     'Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.',
   ],
+  history: [
+    'Prüfen Sie die zeitliche Reihenfolge der angezeigten Änderungen.',
+    'Öffnen Sie einen Eintrag, wenn Sie weitere Details benötigen.',
+    'Vergleichen Sie bei Bedarf frühere und aktuelle Angaben.',
+  ],
   list: [
     'Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.',
     'Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.',
@@ -79,9 +84,13 @@ const stepsByPageType = {
 
 export const createPageContent = (page) => {
   const title = titles[page.id];
-  if (!title) throw new Error(`Deutscher Seitentitel fehlt: ${page.id}`);
   const steps = stepsByPageType[page.pageType];
   if (!steps) throw new Error(`Vorlage für Seitenart fehlt: ${page.pageType}`);
+
+  if (!title) {
+    const draftTitle = `Hilfeseite für ${page.id} (TODO)`;
+    return `---\nid: ${page.id}\ntitle: ${draftTitle}\npageType: ${page.pageType}\nstatus: draft\n---\n\n# ${draftTitle}\n\n> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.\n\n## Zweck\n\nTODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.\n\n## Vorgehen\n\n${steps.map((step, index) => `${index + 1}. ${step}`).join('\n')}\n\n## Weiterführende Hilfe\n\nTODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.\n`;
+  }
 
   return `---\nid: ${page.id}\ntitle: ${title}\npageType: ${page.pageType}\n---\n\n# ${title}\n\n## Zweck\n\nDiese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **${title}**.\n\n## Vorgehen\n\n${steps.map((step, index) => `${index + 1}. ${step}`).join('\n')}\n\n## Weiterführende Hilfe\n\nWeitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).\n`;
 };
