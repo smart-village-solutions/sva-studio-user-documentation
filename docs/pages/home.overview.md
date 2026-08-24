@@ -10,6 +10,8 @@ pageType: overview
 
 Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Studio-Übersicht**.
 
+Von der Übersicht aus erreichen Sie die für Ihre Berechtigungen freigeschalteten Fachbereiche und Verwaltungsfunktionen.
+
 ## Vorgehen
 
 1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
