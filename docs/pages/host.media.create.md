@@ -6,16 +6,29 @@ pageType: create
 
 # Medium hochladen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Medium hochladen**.
+Auf dieser Seite bereiten Sie den technischen Upload eines neuen Medienobjekts vor.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Sie besitzen das Recht, Medien anzulegen.
+- Dateityp und erwartete Dateigröße sind bekannt.
+
+## Das können Sie hier tun
+
+- MIME-Typ und erwartete Größe angeben.
+- Öffentliche oder geschützte Sichtbarkeit wählen.
+- Asset-ID, Upload-Session und signiertes Upload-Ziel reservieren.
+- Nach dem Transfer die Metadaten in der Detailansicht vervollständigen.
+
+## Wichtige Hinweise
+
+- Die Initialisierung überträgt noch keine Datei.
+- Das signierte Upload-Ziel ist nur bis zum angezeigten Zeitpunkt gültig.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Medien verwalten](/pages/host.media.list)
+- [Medium bearbeiten](/pages/host.media.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

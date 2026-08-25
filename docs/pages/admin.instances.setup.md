@@ -6,16 +6,29 @@ pageType: setup
 
 # Instanz einrichten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Instanz einrichten**.
+Der Setup-Flow schließt Aktivierung und geschützte Tenant-Admin-Struktur einer neu angelegten Instanz ab.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Arbeiten Sie die angezeigten Einrichtungsschritte in ihrer Reihenfolge ab.
-2. Prüfen Sie Angaben und Verbindungen vor dem Abschluss.
-3. Schließen Sie die Einrichtung ab und kontrollieren Sie den Status.
+- Die Instanz wurde angelegt und erfolgreich provisioniert.
+- Sie besitzen die erforderlichen Instanz- und IAM-Rechte.
+
+## Das können Sie hier tun
+
+- Den Aktivierungsstatus prüfen und die Instanz aktivieren.
+- Die benötigten Module für den Start auswählen.
+- system_admin und die IAM-Basis der Module initialisieren.
+- Nach beiden Pflichtschritten in die Betriebsansicht wechseln.
+
+## Wichtige Hinweise
+
+- Ein temporäres Tenant-Admin-Passwort ist nur erforderlich, wenn der Workflow ein Passwort setzen soll.
+- Das Setup ist erst abgeschlossen, wenn Aktivierung und Admin-Struktur beide bestätigt sind.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Instanz bearbeiten](/pages/admin.instances.detail)
+- [Module](/pages/modules.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -1,24 +1,36 @@
 ---
 id: events.content.create
-title: Hilfeseite für events.content.create (TODO)
+title: Veranstaltung anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für events.content.create (TODO)
+# Veranstaltung anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier erfassen Sie eine Veranstaltung mit Termin, Ort, Kontakt und Veröffentlichung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Veranstaltungsmodul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Titel, Beschreibung, Kategorien und Sichtbarkeit erfassen.
+- Einzelne oder wiederkehrende Termine mit Uhrzeiten pflegen.
+- Veranstalter, Kontakt, Adresse, Karte oder POI-Bezug ergänzen.
+- Links, Preise, Barrierefreiheit, Tags und Medien hinzufügen.
+
+## Wichtige Hinweise
+
+- Titel ist erforderlich; Datumswerte, HTTPS-Links, Preise und Koordinaten werden validiert.
+- Bei Terminserien prüfen Sie Intervall und ausgewählte Wochentage vor dem Speichern.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Orte bearbeiten](/pages/poi.content.detail)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

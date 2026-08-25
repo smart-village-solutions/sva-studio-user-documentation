@@ -1,24 +1,37 @@
 ---
 id: poi.content.detail
-title: Hilfeseite für poi.content.detail (TODO)
+title: Ort bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für poi.content.detail (TODO)
+# Ort bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier pflegen Sie einen Ort mit Beschreibung, Lage, Kontakt und Öffnungszeiten.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Orte-Modul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Stammdaten und strukturierte Fachbereiche aktualisieren.
+- Adresse geocodieren oder Koordinaten rückwärts auflösen.
+- Mehrere Öffnungszeiten, Links, Preise und Medien verwalten.
+- Historie prüfen oder den Ort löschen.
+
+## Wichtige Hinweise
+
+- Kartenaktionen benötigen eine konfigurierte Karten- und Geocoding-Schnittstelle.
+- Prüfen Sie nach Kartenänderungen, ob Adresse und Koordinaten weiterhin zusammenpassen.
+- Die Historie enthält nur Studio-Änderungen.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Veranstaltung bearbeiten](/pages/events.content.detail)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

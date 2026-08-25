@@ -6,16 +6,28 @@ pageType: list
 
 # Organisationen verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Organisationen verwalten**.
+Die Organisationsliste zeigt hierarchische Arbeitskontexte, Mitglieder und Aktivstatus der aktuellen Instanz.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Eine Instanz ist aktiv.
+- Sie besitzen Leserechte für Organisationen.
+
+## Das können Sie hier tun
+
+- Nach Name oder Schlüssel suchen.
+- Nach Typ und Aktivstatus filtern.
+- Parent, Kindorganisationen und Mitgliederzahl prüfen.
+- Eine Organisation anlegen, bearbeiten, aktivieren oder deaktivieren.
+
+## Wichtige Hinweise
+
+- Hierarchieänderungen können Arbeits- und Berechtigungskontexte beeinflussen.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Organisation anlegen](/pages/admin.organizations.create)
+- [Organisation bearbeiten](/pages/admin.organizations.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

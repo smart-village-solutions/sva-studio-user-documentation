@@ -6,16 +6,28 @@ pageType: list
 
 # Aufträge überwachen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Aufträge überwachen**.
+Die Jobliste zeigt laufende und historische Plugin-Operations-Aufträge.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Sie besitzen Leserechte für Monitoring-Jobs.
+
+## Das können Sie hier tun
+
+- Zwischen aktiven Jobs und Historie wechseln.
+- Nach Job-ID oder Korrelation suchen.
+- Nach Status, Plugin und Jobtyp filtern.
+- Fortschritt und letztes Ereignis prüfen und einen Job öffnen.
+
+## Wichtige Hinweise
+
+- Statuswerte sind eingeplant, läuft, erneuter Versuch, erfolgreich, fehlgeschlagen und abgebrochen.
+- Eine Korrelation oder Job-ID erleichtert die Zuordnung in Supportfällen.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Auftragsdetails](/pages/monitoring.job-detail)
+- [Systemüberwachung](/pages/monitoring.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

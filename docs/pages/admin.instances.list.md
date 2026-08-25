@@ -6,16 +6,26 @@ pageType: list
 
 # Instanzen verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Instanzen verwalten**.
+Die Instanzverwaltung zeigt Registry-Einträge, Hostnamen und Lebenszyklus der Studio-Instanzen.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Sie besitzen plattformweite Leserechte für Instanzen.
+
+## Das können Sie hier tun
+
+- Instanz-ID, Anzeigename, Hostname und Status vergleichen.
+- Eine neue Instanz anlegen.
+- Eine Instanz zur Betriebs-, Diagnose- oder Konfigurationsansicht öffnen.
+
+## Wichtige Hinweise
+
+- Diese plattformnahe Verwaltung ist vom normalen Arbeiten innerhalb einer ausgewählten Instanz zu unterscheiden.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Instanz anlegen](/pages/admin.instances.create)
+- [Instanz bearbeiten](/pages/admin.instances.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,16 +6,24 @@ pageType: overview
 
 # App-Konfiguration
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **App-Konfiguration**.
+Der Bereich App ist derzeit als vorbereitete Studio-Seite vorhanden.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Sie besitzen Zugriff auf den Navigationsbereich App.
+
+## Das können Sie hier tun
+
+- Den aktuellen Ausbauzustand des Bereichs erkennen.
+
+## Wichtige Hinweise
+
+- Konkrete App-Fachlogik und Datenquellen sind auf dieser Seite noch nicht angebunden.
+- Navigation, Berechtigungsprüfung und Seitenrahmen sind bereits vorbereitet; es gibt derzeit keine Konfigurationsschritte.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Module](/pages/modules.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

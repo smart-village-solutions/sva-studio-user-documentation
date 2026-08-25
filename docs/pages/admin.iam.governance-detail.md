@@ -6,16 +6,29 @@ pageType: detail
 
 # IAM-Prüffall verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **IAM-Prüffall verwalten**.
+Die Detailseite zeigt Status, Beteiligte, Ticketbezug und Metadaten eines Governance-Falls.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Das IAM-Cockpit ist aktiv.
+- Sie besitzen Zugriff auf den Governance-Tab.
+- Der Fall wurde aus der Governance-Liste geöffnet.
+
+## Das können Sie hier tun
+
+- Falltyp und Status prüfen.
+- Auslösende und betroffene Person vergleichen.
+- Ticket, Zusammenfassung und Zeitstempel nachvollziehen.
+- Fallmetadaten für die weitere fachliche Prüfung verwenden.
+
+## Wichtige Hinweise
+
+- Mögliche Typen sind Rechteänderung, Delegation, Impersonation und Rechtstext-Akzeptanz.
+- Die aktuelle Detailseite ist eine Prüfsicht und bietet keine sichtbare Statusänderung.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

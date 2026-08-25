@@ -1,24 +1,36 @@
 ---
 id: poi.content.create
-title: Hilfeseite für poi.content.create (TODO)
+title: Ort anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für poi.content.create (TODO)
+# Ort anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier pflegen Sie einen Ort mit Beschreibung, Lage, Kontakt und Öffnungszeiten.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Orte-Modul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Name, Aktivstatus und Kategorien festlegen.
+- Beschreibungen, Kontakt und Betreiber erfassen.
+- Adresse, Karte und Koordinaten pflegen.
+- Öffnungszeiten, Links, Preise, Barrierefreiheit und Medien ergänzen.
+
+## Wichtige Hinweise
+
+- Der Name ist erforderlich; HTTPS-Links, Koordinaten und JSON werden validiert.
+- Trennen Sie Angaben zum Ort von Angaben zum Betreiber.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Veranstaltung bearbeiten](/pages/events.content.detail)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

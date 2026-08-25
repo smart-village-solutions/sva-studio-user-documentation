@@ -1,24 +1,35 @@
 ---
 id: cockpit-cards.content.create
-title: Hilfeseite für cockpit-cards.content.create (TODO)
+title: Kachel anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für cockpit-cards.content.create (TODO)
+# Kachel anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier erstellen Sie eine neue Cockpit-Kachel mit Text, Bildern und Zielverlinkung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Plugin Cockpit-Kacheln ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Für eine organisatorische Schreibaktion ist ein passender Mainserver-Kontext verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Überschrift, Sprachcode und Kategorie festlegen.
+- Klartext und geordnete Bilder pflegen.
+- Link, Linktext und Öffnen im neuen Tab einstellen.
+- Sortiergewicht, Sichtbarkeit und Veröffentlichungszeitpunkt setzen.
+
+## Wichtige Hinweise
+
+- Sprachcode muss BCP-47 entsprechen; Links und Bilder benötigen HTTPS.
+- Der Text darf kein HTML enthalten, das Sortiergewicht muss ganzzahlig sein.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

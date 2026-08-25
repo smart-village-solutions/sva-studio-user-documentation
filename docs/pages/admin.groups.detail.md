@@ -6,16 +6,29 @@ pageType: detail
 
 # Gruppe bearbeiten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Gruppe bearbeiten**.
+Die Gruppendetails verbinden Rollenbündel, Status und zeitlich begrenzbare Mitgliedschaften.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Die Gruppe ist vorhanden.
+- Sie besitzen Änderungsrechte für Gruppen und Mitgliedschaften.
+
+## Das können Sie hier tun
+
+- Anzeigename, Beschreibung, Rollen und Status ändern.
+- Ein Konto per Keycloak-Subject als Mitglied zuweisen.
+- Gültig-ab und Gültig-bis festlegen.
+- Mitgliedschaften entfernen oder die Gruppe löschen.
+
+## Wichtige Hinweise
+
+- Gültigkeitsangaben werden in der Fachzeitzone Europe/Berlin geprüft.
+- Das Löschen entfernt die Gruppe und ihre Mitgliedschaften dauerhaft und verändert damit die daraus stammenden Rechte.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [Benutzer bearbeiten](/pages/admin.users.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

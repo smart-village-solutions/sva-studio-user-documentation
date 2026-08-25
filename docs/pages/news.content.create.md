@@ -1,24 +1,36 @@
 ---
 id: news.content.create
-title: Hilfeseite für news.content.create (TODO)
+title: Nachricht anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für news.content.create (TODO)
+# Nachricht anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier erstellen Sie eine Nachricht als Entwurf, zur sofortigen oder zur zeitgesteuerten Veröffentlichung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Nachrichtenmodul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Überschrift, Kategorien und redaktionelle Metadaten pflegen.
+- Einleitung, Richtext, Medien und Quelle ergänzen.
+- Entwurf, sofortige oder zeitgesteuerte Veröffentlichung wählen.
+- Optional einen einmaligen Push global oder für ausgewählte Abholorte vorbereiten.
+
+## Wichtige Hinweise
+
+- Ein geplanter Veröffentlichungszeitpunkt kann in Vergangenheit oder Zukunft liegen.
+- Beim Speichern einer veröffentlichten Nachricht kann der Push ausgelöst werden.
+- Ohne ausgewählte Abholorte ist die Push-Zielgruppe global.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

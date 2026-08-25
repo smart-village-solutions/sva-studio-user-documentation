@@ -6,16 +6,29 @@ pageType: overview
 
 # Systemüberwachung
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Systemüberwachung**.
+Die Monitoring-Übersicht führt zu Plugin-Jobs und zu einem serverseitigen IAM-Authorize-Benchmark.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Sie besitzen die entsprechende Monitoring-Berechtigung.
+- Für den Benchmark besteht eine aktive Administrationssitzung.
+
+## Das können Sie hier tun
+
+- Die Liste der Plugin-Operations-Jobs öffnen.
+- Action-ID und Ressourcenkontext für einen Authorize-Test angeben.
+- Cache-Hit, Cache-Miss und Recompute anhand von p50, p95 und p99 vergleichen.
+- JSON- und Markdown-Nachweise eines Messlaufs verwenden.
+
+## Wichtige Hinweise
+
+- Die Laufzeit wird im Serverprozess gemessen; Browser- und Renderingzeit sind nicht enthalten.
+- Verwenden Sie in Beispielen keine personenbezogenen Ressourcen- oder Organisations-IDs.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Aufträge überwachen](/pages/monitoring.jobs-list)
+- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

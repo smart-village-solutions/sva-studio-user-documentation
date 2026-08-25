@@ -1,24 +1,37 @@
 ---
 id: news.content.detail
-title: Hilfeseite für news.content.detail (TODO)
+title: Nachricht bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für news.content.detail (TODO)
+# Nachricht bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier bearbeiten Sie eine Nachricht als Entwurf, zur sofortigen oder zur zeitgesteuerten Veröffentlichung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Nachrichtenmodul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Inhalt, Quelle, Medien und Veröffentlichung aktualisieren.
+- Push-Zielgruppe vor dem Versand prüfen.
+- Historie und ursprünglichen DataProvider ansehen.
+- Unvollständige Medienreferenzen erneut synchronisieren oder die Nachricht löschen.
+
+## Wichtige Hinweise
+
+- Ein Push kann pro Nachricht nur einmal gesendet werden.
+- Nach dem Versand ist die dokumentierte Empfängerauswahl nur lesbar.
+- Die Nachricht selbst bleibt auch bei begrenzter Push-Zielgruppe öffentlich sichtbar.
+- Die Historie enthält nur Studio-Änderungen.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,16 +6,31 @@ pageType: overview
 
 # Schnittstellen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Schnittstellen**.
+Auf dieser Seite verwalten Sie technische Anbindungen der aktuellen Instanz und prüfen deren Status.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Eine Instanz ist ausgewählt.
+- Sie besitzen die erforderlichen Rechte zur Schnittstellenverwaltung.
+
+## Das können Sie hier tun
+
+- Mainserver-, S3-, Supabase-, PostgreSQL-, Mail- oder Kartenanbindungen anlegen.
+- Endpoint, Aktivstatus und letzte Prüfung ansehen.
+- Konfigurationen bearbeiten oder eine Schnittstelle löschen.
+- Bei Geoapify den Karten- und Geocoding-Status prüfen.
+
+## Wichtige Hinweise
+
+- Gespeicherte Secrets werden nicht im Klartext angezeigt; ein leeres Secret-Feld behält den vorhandenen Wert.
+- Der Typ einer vorhandenen Schnittstelle kann nicht nachträglich geändert werden.
+- Supabase kann nur für Instanzen mit Abfallmanagement-Modul angelegt werden.
+- Automatische Verbindungsprüfungen sind nicht für jeden Schnittstellentyp vollständig verfügbar.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Instanz bearbeiten](/pages/admin.instances.detail)
+- [Abfallkalender](/pages/waste-management.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

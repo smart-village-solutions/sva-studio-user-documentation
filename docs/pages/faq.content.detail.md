@@ -1,24 +1,33 @@
 ---
 id: faq.content.detail
-title: Hilfeseite für faq.content.detail (TODO)
+title: FAQ bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für faq.content.detail (TODO)
+# FAQ bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier pflegen Sie eine häufige Frage mit Antwort und Veröffentlichungsmerkmalen.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das FAQ-Plugin ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Frage, Antwort, Sprache und Reihenfolge aktualisieren.
+- Sichtbarkeit und Veröffentlichung ändern.
+- Die Studio-Historie prüfen.
+- Die FAQ nach Bestätigung dauerhaft löschen.
+
+## Wichtige Hinweise
+
+- Die Historie zeigt nur Änderungen, die über das Studio erfolgt sind.
+- Prüfen Sie vor dem Löschen, ob Unsichtbarschalten fachlich ausreicht; Löschen kann nicht rückgängig gemacht werden.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Seitenübergreifende Anleitungen](/guides/)

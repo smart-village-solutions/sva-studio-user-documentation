@@ -6,16 +6,28 @@ pageType: create
 
 # Rolle anlegen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Rolle anlegen**.
+Hier erstellen Sie eine benutzerdefinierte Rolle mit stabiler technischer Identität.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Sie besitzen das Recht, Rollen anzulegen.
+- Die organisatorische Bedeutung und benötigte Ebene der Rolle sind geklärt.
+
+## Das können Sie hier tun
+
+- Technischen Rollenschlüssel festlegen.
+- Anzeigename, Beschreibung und Rollenlevel erfassen.
+- Die Rolle speichern und anschließend Berechtigungen und Zuweisungen pflegen.
+
+## Wichtige Hinweise
+
+- Prüfen Sie vorab, ob bereits eine passende Rolle oder Gruppe vorhanden ist.
+- Der technische Schlüssel sollte nachträglich nicht als frei änderbare Bezeichnung behandelt werden.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [Seitenübergreifende Anleitungen](/guides/)

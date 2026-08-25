@@ -6,16 +6,26 @@ pageType: detail
 
 # Datenschutzanfrage
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Datenschutzanfrage**.
+Die Detailansicht zeigt Typ, Status und Verlauf einer einzelnen Datenschutzanfrage Ihres Kontos.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Sie haben den Vorgang über die Datenschutzübersicht geöffnet.
+
+## Das können Sie hier tun
+
+- Fall-ID, Typ und aktuellen Status prüfen.
+- Erstellungs- und gegebenenfalls Abschlusszeit nachvollziehen.
+- Format, Blocker und weitere fallbezogene Angaben ansehen.
+
+## Wichtige Hinweise
+
+- Welche Angaben erscheinen, hängt vom Falltyp und Bearbeitungsstand ab.
+- Nennen Sie bei Rückfragen die Fall-ID, aber veröffentlichen Sie keine personenbezogenen Falldaten.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Zur Datenschutzübersicht](/pages/account.privacy)
+- [Seitenübergreifende Anleitungen](/guides/)

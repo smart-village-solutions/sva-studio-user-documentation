@@ -6,18 +6,28 @@ pageType: overview
 
 # Studio-Übersicht
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Studio-Übersicht**.
+Die Studio-Übersicht ist der Ausgangspunkt für Ihre redaktionellen und administrativen Aufgaben.
 
-Von der Übersicht aus erreichen Sie die für Ihre Berechtigungen freigeschalteten Fachbereiche und Verwaltungsfunktionen.
+## Voraussetzungen
 
-## Vorgehen
+- Eine aktive Studio-Sitzung für alle personalisierten Funktionen.
+- Passende Module und Berechtigungen für die gewünschten Fachbereiche.
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Einen für Sie freigeschalteten Fachbereich öffnen.
+- Häufige Aufgaben wie Nachricht, Veranstaltung, Medienupload oder Benutzerverwaltung beginnen.
+- Die zuletzt übernommenen Studio-Änderungen nachlesen.
+
+## Wichtige Hinweise
+
+- Die sichtbaren Aktionskarten richten sich nach Ihren Modulen und Berechtigungen.
+- Fehlt eine erwartete Aufgabe, prüfen Sie zuerst den aktiven Arbeitskontext und wenden Sie sich anschließend an die Administration.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Mein Konto](/pages/account.profile)
+- [Inhalte verwalten](/pages/content.list)
+- [Seitenübergreifende Anleitungen](/guides/)

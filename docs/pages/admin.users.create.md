@@ -6,16 +6,30 @@ pageType: create
 
 # Benutzer anlegen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Benutzer anlegen**.
+Hier erstellen Sie ein neues Konto in Keycloak und IAM und vergeben geeignete Startzuweisungen.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Sie besitzen das Recht, Benutzer anzulegen.
+- Mindestens eine geeignete aktive Gruppe oder Rolle ist verfügbar.
+
+## Das können Sie hier tun
+
+- Persönliche Kontodaten erfassen.
+- Bevorzugt eine oder mehrere Gruppen zuweisen.
+- Bei Bedarf direkte Rollen ergänzen.
+- Optional eine Passwort-Einladung senden und das Konto als technisch kennzeichnen.
+
+## Wichtige Hinweise
+
+- Direkte Rollen sind additive Sonderfälle; Gruppen sind der bevorzugte Einstieg.
+- Scheitert die Einladung nach erfolgreicher Anlage, besteht das Konto bereits und die Einladung kann erneut gesendet werden.
+- Technische Accounts sind von Kontolöschungsregeln ausgenommen.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Benutzer verwalten](/pages/admin.users.list)
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,16 +6,31 @@ pageType: detail
 
 # Rolle bearbeiten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Rolle bearbeiten**.
+Die Rollendetails trennen Metadaten, Berechtigungen, direkte Zuweisungen und Keycloak-Synchronisation.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Die Rolle ist vorhanden.
+- Für Änderungen besitzen Sie Rollen- und Zuweisungsrechte.
+
+## Das können Sie hier tun
+
+- Allgemeine Metadaten bearbeiten.
+- Berechtigungen suchen, einzeln oder gesammelt zuweisen und ihren Scope wählen.
+- Direkte Benutzerzuweisungen hinzufügen oder entfernen.
+- Den Keycloak-Metadatenstatus und mögliche Reconcile-Aktionen prüfen.
+
+## Wichtige Hinweise
+
+- Systemrollen und extern verwaltete Rollen bleiben schreibgeschützt.
+- Keycloak-Synchronisation betrifft Rollenmetadaten; lokale Berechtigungen und Zuweisungen bleiben im Studio.
+- Löschen entfernt auch bestehende Benutzer- und Gruppenzuordnungen dieser Rolle.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Benutzer verwalten](/pages/admin.users.list)
+- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

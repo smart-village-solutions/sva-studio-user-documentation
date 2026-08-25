@@ -6,16 +6,29 @@ pageType: create
 
 # Gruppe anlegen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Gruppe anlegen**.
+Hier erstellen Sie ein wiederverwendbares Rollenbündel für die aktuelle Instanz.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Eine Instanz ist aktiv.
+- Sie besitzen das Recht, Gruppen anzulegen.
+
+## Das können Sie hier tun
+
+- Einen dauerhaften technischen Gruppenschlüssel festlegen.
+- Anzeigename und Beschreibung erfassen.
+- Die fachlich zusammengehörenden Rollen auswählen.
+- Die Gruppe speichern und anschließend Mitgliedschaften pflegen.
+
+## Wichtige Hinweise
+
+- Der technische Schlüssel sollte stabil und eindeutig sein.
+- Mitgliedschaften werden nach der Anlage in der Detailansicht verwaltet.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Seitenübergreifende Anleitungen](/guides/)

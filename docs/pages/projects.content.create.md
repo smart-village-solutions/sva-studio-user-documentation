@@ -1,24 +1,35 @@
 ---
 id: projects.content.create
-title: Hilfeseite für projects.content.create (TODO)
+title: Projekt anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für projects.content.create (TODO)
+# Projekt anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier pflegen Sie ein Featured Project mit Text, Bildern und Veröffentlichungsstatus.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Projekte-Plugin ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Sprache, Titel und Kurzbeschreibung erfassen.
+- Richtext für den vollständigen Projekttext pflegen.
+- Geordnete Bilder mit Alternativtext, Bildunterschrift und Nachweis hinzufügen.
+- Entwurf, veröffentlicht oder archiviert wählen.
+
+## Wichtige Hinweise
+
+- Prüfen Sie Alternativtexte und Bildnachweise vor der Veröffentlichung.
+- Die Reihenfolge der Bilder ist Teil des Projektdatensatzes.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

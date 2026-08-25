@@ -6,16 +6,27 @@ pageType: overview
 
 # Kategorien
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Kategorien**.
+Die Kategorienseite zeigt die aus dem Mainserver geladenen Kategorien in einer schreibgeschützten Übersicht.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Die Mainserver-Integration ist aktiv und konfiguriert.
+- Für den aktuellen persönlichen oder organisatorischen Kontext sind Mainserver-Zugangsdaten vorhanden.
+- Sie besitzen das Recht categories.read.
+
+## Das können Sie hier tun
+
+- Name, ID, Hierarchie, Position und Tags einer Kategorie prüfen.
+- Die Liste bei Bedarf neu laden.
+
+## Wichtige Hinweise
+
+- Bearbeiten, Unterkategorie anlegen und Löschen sind derzeit deaktiviert.
+- Fehlende Credentials oder eine deaktivierte Integration werden als eigener Fehler erklärt.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Inhalt anlegen](/pages/content.create)
+- [Seitenübergreifende Anleitungen](/guides/)
