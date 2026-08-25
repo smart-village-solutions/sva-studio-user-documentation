@@ -6,16 +6,28 @@ pageType: overview
 
 # Module
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Module**.
+Hier prüfen Sie aktive Fachmodule oder verwalten Modulzuweisungen einer Instanz.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Für die Verwaltungsansicht benötigen Sie Instanz- und Modulrechte.
+- Für die reine Tenantansicht muss ein Instanzkontext aktiv sein.
+
+## Das können Sie hier tun
+
+- Aktive und inaktive Module mit Beschreibung ansehen.
+- In der Plattformansicht eine Instanz auswählen und Module zuweisen oder entziehen.
+- Die IAM-Basis neu aufbauen oder die Tenant-Admin-Struktur initialisieren.
+
+## Wichtige Hinweise
+
+- Ein Modul schaltet einen Fachbereich frei; Rollen und Berechtigungen steuern die erlaubten Aktionen darin.
+- Beim Entziehen eines Moduls werden die zugehörige Berechtigungs- und IAM-Basis entfernt.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Instanz bearbeiten](/pages/admin.instances.detail)
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Seitenübergreifende Anleitungen](/guides/)

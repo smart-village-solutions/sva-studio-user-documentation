@@ -1,24 +1,32 @@
 ---
 id: faq.content.create
-title: Hilfeseite für faq.content.create (TODO)
+title: FAQ anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für faq.content.create (TODO)
+# FAQ anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier pflegen Sie eine häufige Frage mit Antwort und Veröffentlichungsmerkmalen.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das FAQ-Plugin ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Frage und Klartextantwort eingeben.
+- Einen gültigen BCP-47-Sprachcode festlegen.
+- Sortiergewicht, Sichtbarkeit und Veröffentlichungszeitpunkt setzen.
+
+## Wichtige Hinweise
+
+- Frage und Antwort sind erforderlich.
+- Das Sortiergewicht muss eine ganze Zahl sein.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Seitenübergreifende Anleitungen](/guides/)

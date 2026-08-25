@@ -6,16 +6,29 @@ pageType: detail
 
 # Inhalt bearbeiten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Inhalt bearbeiten**.
+Hier bearbeiten Sie Kernmetadaten und freie Zusatzdaten eines generischen Inhalts.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Der Inhalt ist vorhanden und für Sie mindestens lesbar.
+- Zum Speichern benötigen Sie Schreibrechte im aktuellen Ressourcen- und Organisationskontext.
+
+## Das können Sie hier tun
+
+- Überschrift, Status und Veröffentlichungsdatum pflegen.
+- Freie Zusatzdaten als gültiges JSON bearbeiten.
+- Metadaten und Änderungshistorie prüfen.
+- Vorhandene Revisionen ansehen und bei ausreichender Berechtigung wiederherstellen.
+
+## Wichtige Hinweise
+
+- Veröffentlichte Inhalte benötigen ein gültiges Veröffentlichungsdatum in der Fachzeitzone Europe/Berlin.
+- Bei nur lesbarem oder ungeklärtem Autorenkontext bleiben Felder und Speichern deaktiviert.
+- Historie und Revisionen stehen erst nach dem ersten Speichern zur Verfügung.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Inhalte verwalten](/pages/content.list)
+- [Seitenübergreifende Anleitungen](/guides/)

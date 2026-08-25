@@ -6,16 +6,29 @@ pageType: create
 
 # Inhalt anlegen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Inhalt anlegen**.
+Wählen Sie zuerst den passenden Inhaltstyp und öffnen Sie anschließend dessen Erstellungsformular.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Sie besitzen ein Erstellungsrecht für mindestens einen Inhaltstyp.
+- Das zugehörige Modul oder Plugin ist aktiv.
+
+## Das können Sie hier tun
+
+- Einen der im aktuellen Kontext erlaubten Inhaltstypen auswählen.
+- Die zugehörige fachliche Erstellungsseite öffnen.
+- Bei einem generischen Inhalt die Basisangaben und Zusatzdaten erfassen.
+
+## Wichtige Hinweise
+
+- Die Typauswahl legt noch keinen Datensatz an.
+- Es werden nur Inhaltstypen angeboten, die Sie im aktuellen Kontext tatsächlich erstellen dürfen.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Inhalte verwalten](/pages/content.list)
+- [Nachricht anlegen](/pages/news.content.create)
+- [Veranstaltung anlegen](/pages/events.content.create)
+- [Seitenübergreifende Anleitungen](/guides/)

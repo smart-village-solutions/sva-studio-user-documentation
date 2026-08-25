@@ -6,16 +6,28 @@ pageType: list
 
 # Rechtstexte verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Rechtstexte verwalten**.
+Die Rechtstextverwaltung bündelt Versionen, Sprachen, Zielgruppen, Status und dokumentierte Akzeptanzen.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Sie besitzen Leserechte für Rechtstexte.
+
+## Das können Sie hier tun
+
+- Nach UUID, Name, Version, Sprache oder Inhalt suchen.
+- Nach Entwurf, gültig oder archiviert filtern.
+- Versionen, Sprachvarianten, Zielgruppen und Akzeptanzen vergleichen.
+- Eine Version anlegen oder öffnen.
+
+## Wichtige Hinweise
+
+- Prüfen Sie immer Version und Sprache gemeinsam.
+- Gültige und archivierte Fassungen sollten nicht allein anhand ihres Namens unterschieden werden.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Rechtstext anlegen](/pages/admin.legal-texts.create)
+- [Rechtstext bearbeiten](/pages/admin.legal-texts.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,16 +6,29 @@ pageType: list
 
 # Rollen verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Rollen verwalten**.
+Die Rollenliste zeigt Rechteumfang, Nutzung und Synchronisationszustand von System-, benutzerdefinierten und externen Rollen.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Sie besitzen Leserechte für Rollen.
+
+## Das können Sie hier tun
+
+- Nach Rolle oder Berechtigung suchen.
+- Rollenart, Rechtezahl, Nutzerzahl und Synchronisation prüfen.
+- Eine Rolle anlegen oder zur Bearbeitung öffnen.
+- Vorhandene Keycloak-Rollen importieren oder einen Reconcile starten.
+
+## Wichtige Hinweise
+
+- Plattformrollen und extern verwaltete Rollen können nur lesbar sein.
+- Ein Reconcile gleicht nicht automatisch alle lokalen Berechtigungsentscheidungen mit Keycloak ab.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Rolle anlegen](/pages/admin.roles.create)
+- [Rolle bearbeiten](/pages/admin.roles.detail)
+- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Seitenübergreifende Anleitungen](/guides/)

@@ -1,24 +1,36 @@
 ---
 id: generic-items.content.detail
-title: Hilfeseite für generic-items.content.detail (TODO)
+title: Generischen Inhalt bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für generic-items.content.detail (TODO)
+# Generischen Inhalt bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier modellieren Sie einen Inhalt, wenn kein engerer Fachtyp für die benötigten Daten passt.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Plugin Generische Inhalte ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Freie und strukturierte Inhaltsbereiche aktualisieren.
+- Medien sortieren und ausgewählte Metadaten aus der Mediathek übernehmen.
+- Nicht auflösbare Medienreferenzen prüfen.
+- Historie ansehen oder den Inhalt löschen.
+
+## Wichtige Hinweise
+
+- Dokumentieren Sie freie JSON-Felder fachlich, bevor sie für eine Ausspielung verwendet werden.
+- Die Historie enthält nur Studio-Änderungen.
+- Manuelle Medien-URLs und nicht auflösbare Referenzen benötigen besondere Prüfung.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

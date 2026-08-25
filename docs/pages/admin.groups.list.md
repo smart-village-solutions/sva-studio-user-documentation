@@ -6,16 +6,28 @@ pageType: list
 
 # Gruppen verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Gruppen verwalten**.
+Die Gruppenverwaltung zeigt instanzgebundene Rollenbündel und ihre Mitgliedschaften.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Eine Instanz ist aktiv.
+- Sie besitzen Leserechte für Gruppen.
+
+## Das können Sie hier tun
+
+- Nach Gruppe oder enthaltener Rolle suchen.
+- Rollenbündel, Mitgliederzahl und Aktivstatus prüfen.
+- Eine Gruppe anlegen oder zur Bearbeitung öffnen.
+
+## Wichtige Hinweise
+
+- Ohne aktiven Instanzkontext steht die Gruppenverwaltung nicht zur Verfügung.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Gruppe anlegen](/pages/admin.groups.create)
+- [Gruppe bearbeiten](/pages/admin.groups.detail)
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Seitenübergreifende Anleitungen](/guides/)

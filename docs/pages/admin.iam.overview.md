@@ -6,16 +6,33 @@ pageType: overview
 
 # Identitäten und Berechtigungen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Identitäten und Berechtigungen**.
+Das IAM Transparenz-Cockpit erklärt wirksame Rechte, Governance-Fälle, Datenschutzfälle und tenantweite Löschregeln.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Das Cockpit ist für die Installation aktiviert.
+- Sie besitzen eine Cockpitrolle und die Freigabe für den gewünschten Tab.
+
+## Das können Sie hier tun
+
+- Wirksame Rechte nach Organisation, handelndem Kontext und Suchbegriff filtern.
+- Eine konkrete Action für eine Ressource per Authorize prüfen.
+- Quellrollen, Gruppen, Scope und Herkunft eines Rechts nachvollziehen.
+- Governance- und Datenschutzfälle filtern und öffnen.
+- Tenantweite Löschfristen und Inhaltsstrategie prüfen oder bei ausreichendem Recht ändern.
+
+## Wichtige Hinweise
+
+- Je nach Rolle sind nur einzelne Tabs sichtbar.
+- Das Cockpit erklärt Berechtigungsentscheidungen; es ersetzt nicht die Rollen- und Gruppenverwaltung.
+- Löschregeln können nur lesbar sein.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [IAM-Prüffall](/pages/admin.iam.governance-detail)
+- [Datenschutzfall](/pages/admin.iam.dsr-detail)
+- [Seitenübergreifende Anleitungen](/guides/)

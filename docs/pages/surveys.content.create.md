@@ -1,24 +1,35 @@
 ---
 id: surveys.content.create
-title: Hilfeseite für surveys.content.create (TODO)
+title: Umfrage anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für surveys.content.create (TODO)
+# Umfrage anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier definieren Sie Rahmen, Teilnahmebedingungen und Fragen einer Umfrage.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Umfragemodul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Titel, Status, Laufzeit und optionale Zielgebiete festlegen.
+- Kurz- und Langbeschreibung sowie Datenschutz- und Transparenzhinweise erfassen.
+- Anonyme Teilnahme und Ergebnisfreigabe konfigurieren.
+- Einfach-, Mehrfach- oder Freitextfragen mit Antwortoptionen anlegen und sortieren.
+
+## Wichtige Hinweise
+
+- Ohne Enddatum bleibt die Umfrage unbefristet.
+- Titel, Fragetitel und Antwortoptionen werden validiert.
+- Klären Sie vorab, wann Ergebnisse sichtbar sein dürfen.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Seitenübergreifende Anleitungen](/guides/)

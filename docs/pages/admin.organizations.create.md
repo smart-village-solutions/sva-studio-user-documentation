@@ -6,16 +6,28 @@ pageType: create
 
 # Organisation anlegen
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Organisation anlegen**.
+Hier erstellen Sie einen neuen hierarchischen Arbeits- und Autorenkontext.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+- Eine Instanz ist aktiv.
+- Sie besitzen das Recht, Organisationen anzulegen.
+- Parent, Organisationstyp und Autoren-Policy sind fachlich geklärt.
+
+## Das können Sie hier tun
+
+- Technischen Schlüssel und Anzeigename erfassen.
+- Organisationstyp und gegebenenfalls Parent wählen.
+- Festlegen, ob ausschließlich die Organisation oder auch Personen als Autor handeln dürfen.
+
+## Wichtige Hinweise
+
+- Verfügbare Typen sind unter anderem Landkreis, Gemeinde, Ortsteil, Unternehmen, Agentur, Verein und Institution.
+- Wählen Sie den Parent sorgfältig, da er die Hierarchie des Arbeitskontexts bestimmt.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Organisationen verwalten](/pages/admin.organizations.list)
+- [Seitenübergreifende Anleitungen](/guides/)

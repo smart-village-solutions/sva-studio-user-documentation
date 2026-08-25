@@ -6,16 +6,31 @@ pageType: detail
 
 # Medium bearbeiten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Medium bearbeiten**.
+Die Detailseite führt Vorschau, Auslieferung, Metadaten, Bildsteuerung und technische Zustände eines Assets zusammen.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Das Asset ist vorhanden und für Sie zugänglich.
+- Zum Ändern oder Löschen benötigen Sie die entsprechenden Medienrechte.
+
+## Das können Sie hier tun
+
+- Titel, Alternativtext, Beschreibung, Copyright und Lizenz pflegen.
+- Sichtbarkeit, Fokuspunkt und Zuschnitt von Bildern bearbeiten.
+- Upload- und Verarbeitungsstatus prüfen.
+- Öffentliche URL kopieren oder als QR-Code ausgeben.
+- Die aktuelle Verwendung öffnen.
+
+## Wichtige Hinweise
+
+- Aktive Referenzen können Änderungen oder Löschen blockieren.
+- Ein bereits im Bucket vorhandenes Objekt kann zunächst als nicht registriert erscheinen.
+- Hinterlegen Sie für informative Bilder einen aussagekräftigen Alternativtext.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Medien verwalten](/pages/host.media.list)
+- [Medienverwendung](/pages/media.usage)
+- [Seitenübergreifende Anleitungen](/guides/)

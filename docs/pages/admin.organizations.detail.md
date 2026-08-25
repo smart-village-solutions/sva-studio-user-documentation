@@ -6,16 +6,30 @@ pageType: detail
 
 # Organisation bearbeiten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Organisation bearbeiten**.
+Die Detailseite verbindet Organisationsstammdaten, Hierarchie, Mainserver-Anbindung und Mitgliedschaften.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Die Organisation ist vorhanden.
+- Für Änderungen besitzen Sie Organisations- und Mitgliedschaftsrechte.
+
+## Das können Sie hier tun
+
+- Name, Typ, Parent und Autoren-Policy bearbeiten.
+- Mainserver Application-ID und Secret pflegen oder Provisionierung prüfen.
+- Accounts zuweisen, entfernen und einen Default-Kontext setzen.
+- Die Organisation aktivieren, deaktivieren oder löschen.
+
+## Wichtige Hinweise
+
+- Gespeicherte Secrets werden nicht angezeigt; ein leeres Secret-Feld behält den vorhandenen Wert.
+- Kindorganisationen verhindern das Löschen.
+- Löschen entfernt Mitgliedschaften und organisationsgebundene Credentials.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Organisationen verwalten](/pages/admin.organizations.list)
+- [Benutzer bearbeiten](/pages/admin.users.detail)
+- [Seitenübergreifende Anleitungen](/guides/)

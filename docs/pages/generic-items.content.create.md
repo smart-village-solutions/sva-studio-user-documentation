@@ -1,24 +1,35 @@
 ---
 id: generic-items.content.create
-title: Hilfeseite für generic-items.content.create (TODO)
+title: Generischen Inhalt anlegen
 pageType: create
-status: draft
 ---
 
-# Hilfeseite für generic-items.content.create (TODO)
+# Generischen Inhalt anlegen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier modellieren Sie einen Inhalt, wenn kein engerer Fachtyp für die benötigten Daten passt.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Plugin Generische Inhalte ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein Mainserver-Schreibkontext ist verfügbar.
 
-1. Tragen Sie die erforderlichen Angaben ein.
-2. Prüfen Sie optionale Einstellungen und Zuordnungen.
-3. Speichern Sie den neuen Eintrag und kontrollieren Sie die Rückmeldung.
+## Das können Sie hier tun
+
+- Überschrift, freien Inhaltstyp und Sichtbarkeit festlegen.
+- Content-Blocks, Kategorien, Kontakte, Links und Medien pflegen.
+- Adressen, Orte, Termine und Öffnungszeiten ergänzen.
+- Barrierefreiheit, Preise und freie JSON-Zusatzdaten erfassen.
+
+## Wichtige Hinweise
+
+- Die Überschrift ist erforderlich; Links, Koordinaten und JSON werden validiert.
+- Der freie Inhaltstyp ist ein redaktioneller Marker und erzeugt kein neues Plugin.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

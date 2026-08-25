@@ -6,16 +6,28 @@ pageType: overview
 
 # Kontoregeln
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Kontoregeln**.
+Die Seite erklärt die für Ihr Konto geltenden Löschfristen und die Behandlung Ihrer eigenen Inhalte.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Sie sind im Studio angemeldet.
+- Für eine persönliche Inhaltsregel muss die Überschreibung in der Instanz erlaubt sein.
+
+## Das können Sie hier tun
+
+- Fristen für Deaktivierung, Pseudonymisierung und Tombstone-Soft-Delete ansehen.
+- Erkennen, welche Standardregel für Inhalte gilt.
+- Festlegen, ob eigene Inhalte erhalten bleiben oder dem Konto-Lebenszyklus folgen.
+
+## Wichtige Hinweise
+
+- Die persönlichen Einstellungen verändern keine tenantweiten Fristen.
+- Wenn keine persönliche Überschreibung möglich ist, gilt der Standard der Instanz.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Mein Profil](/pages/account.profile)
+- [Datenschutz im Konto](/pages/account.privacy)
+- [Seitenübergreifende Anleitungen](/guides/)

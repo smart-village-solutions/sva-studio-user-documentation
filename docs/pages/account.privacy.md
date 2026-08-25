@@ -6,16 +6,28 @@ pageType: overview
 
 # Datenschutz im Konto
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Datenschutz im Konto**.
+Hier reichen Sie Datenschutzanfragen für Ihr eigenes Konto ein und verfolgen deren Bearbeitungsstand.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Verschaffen Sie sich einen Überblick über Status und verfügbare Bereiche.
-2. Öffnen Sie den für Ihre Aufgabe passenden Bereich.
-3. Kontrollieren Sie nach Änderungen die Rückmeldung des Studios.
+- Sie sind im Studio angemeldet.
+
+## Das können Sie hier tun
+
+- Eine Auskunft oder einen strukturierten Datenexport anfordern.
+- Eine Rechteänderung, einen Widerspruch, eine Löschung oder eine Einschränkung beantragen.
+- Datenschutzvorgänge nach Suchbegriff, Typ und Status filtern.
+- Verfügbare Ergebnisse abgeschlossener Exporte herunterladen.
+
+## Wichtige Hinweise
+
+- Die Statuswerte unterscheiden eingeplant, in Bearbeitung, abgeschlossen, blockiert und fehlgeschlagen.
+- Ein eingereichter Vorgang kann fachliche oder rechtliche Prüfung benötigen und ist nicht automatisch sofort abgeschlossen.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Datenschutzanfrage öffnen](/pages/account.privacy-detail)
+- [Kontoregeln](/pages/account.rules)
+- [Seitenübergreifende Anleitungen](/guides/)

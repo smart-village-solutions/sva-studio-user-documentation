@@ -6,16 +6,27 @@ pageType: detail
 
 # Auftragsdetails
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Auftragsdetails**.
+Die Detailansicht erklärt Verlauf, Runtime, Fortschritt und Ergebnis eines einzelnen Plugin-Jobs.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+- Sie haben einen Job aus der Monitoring-Liste geöffnet.
+
+## Das können Sie hier tun
+
+- Live-Fortschritt, Batch- und Datensatzzahlen prüfen.
+- Letzte Aktivität, Versuche und Worker nachvollziehen.
+- Schreibübersicht, Ergebnis und Fehler ansehen.
+- Die technische Ereignishistorie auswerten.
+
+## Wichtige Hinweise
+
+- Der Hinweis vermutlich festgefahren ist eine Diagnose und kein sicherer Endstatus.
+- Notieren Sie für Supportfälle Job-ID, Korrelation und sichere Fehlercodes, aber keine Secrets oder personenbezogenen Nutzdaten.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Aufträge überwachen](/pages/monitoring.jobs-list)
+- [Seitenübergreifende Anleitungen](/guides/)

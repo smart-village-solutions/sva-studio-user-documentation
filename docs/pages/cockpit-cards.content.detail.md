@@ -1,24 +1,36 @@
 ---
 id: cockpit-cards.content.detail
-title: Hilfeseite für cockpit-cards.content.detail (TODO)
+title: Kachel bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für cockpit-cards.content.detail (TODO)
+# Kachel bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier bearbeiten Sie eine Cockpit-Kachel mit Text, Bildern und Zielverlinkung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Plugin Cockpit-Kacheln ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Für eine organisatorische Schreibaktion ist ein passender Mainserver-Kontext verfügbar.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Inhalt, Bilder und Darstellungsoptionen aktualisieren.
+- Bilder aus der Mediathek übernehmen, hochladen, umordnen oder entfernen.
+- Die Studio-Historie prüfen.
+- Die Kachel nach Bestätigung dauerhaft löschen.
+
+## Wichtige Hinweise
+
+- Die Historie zeigt erfolgreiche Studio-Änderungen.
+- Bei teilweise fehlgeschlagenen Medienreferenzen bleibt die Kachel gespeichert; wiederholen Sie anschließend die Referenzsynchronisation.
+- Löschen kann nicht rückgängig gemacht werden.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

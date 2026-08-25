@@ -1,24 +1,37 @@
 ---
 id: events.content.detail
-title: Hilfeseite für events.content.detail (TODO)
+title: Veranstaltung bearbeiten
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für events.content.detail (TODO)
+# Veranstaltung bearbeiten
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier erfassen Sie eine Veranstaltung mit Termin, Ort, Kontakt und Veröffentlichung.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Das Veranstaltungsmodul ist aktiv.
+- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
+- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## Das können Sie hier tun
+
+- Bestehende Basis-, Termin-, Orts- und Kontaktdaten aktualisieren.
+- Adresse geocodieren oder Koordinaten in eine Adresse übersetzen.
+- Historie und DataProvider prüfen.
+- Medienreferenzen erneut speichern oder die Veranstaltung löschen.
+
+## Wichtige Hinweise
+
+- Kartenfunktionen benötigen eine aktive Karten- und Geocoding-Schnittstelle.
+- Die Historie enthält ausschließlich Änderungen aus dem Studio.
+- Ein gespeicherter Inhalt kann bei einem Medienfehler noch unvollständige Referenzen besitzen.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Inhalte verwalten](/pages/content.list)
+- [Orte bearbeiten](/pages/poi.content.detail)
+- [Medien verwalten](/pages/host.media.list)
+- [Seitenübergreifende Anleitungen](/guides/)

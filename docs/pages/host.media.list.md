@@ -6,16 +6,30 @@ pageType: list
 
 # Medien verwalten
 
-## Zweck
+## Wofür ist diese Seite gedacht?
 
-Diese Hilfeseite unterstützt Sie bei den zentralen Aufgaben auf der Studio-Seite **Medien verwalten**.
+Die Medienbibliothek bündelt Uploads, Metadaten, Verarbeitungsstatus und Verwendungen Ihrer Assets.
 
-## Vorgehen
+## Voraussetzungen
 
-1. Nutzen Sie Suche und Filter, um die gewünschten Einträge zu finden.
-2. Öffnen Sie einen Eintrag oder starten Sie die angebotene Aktion.
-3. Prüfen Sie nach Änderungen die aktualisierte Liste.
+- Das Medienmodul ist aktiv.
+- Sie besitzen Leserechte für Medien.
+
+## Das können Sie hier tun
+
+- Nach Titel, Alternativtext, Copyright oder MIME-Typ suchen.
+- Neue Dateien auswählen oder per Drag-and-drop zum Upload hinzufügen.
+- Neue, blockierte oder ungenutzte Assets erkennen.
+- Ein Asset zur Detailbearbeitung öffnen.
+
+## Wichtige Hinweise
+
+- Eine fehlende Vorschau bedeutet nicht automatisch, dass das Asset unbrauchbar ist.
+- Nutzungszahlen können noch geladen werden oder vorübergehend nicht verfügbar sein.
 
 ## Weiterführende Hilfe
 
-Weitere seitenübergreifende Hinweise finden Sie unter [Anleitungen](/guides/).
+- [Medium hochladen](/pages/host.media.create)
+- [Medium bearbeiten](/pages/host.media.detail)
+- [Medienverwendung](/pages/media.usage)
+- [Seitenübergreifende Anleitungen](/guides/)
