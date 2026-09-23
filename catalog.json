@@ -106,14 +106,6 @@
       }
     },
     {
-      "id": "admin.instances.setup",
-      "path": "/admin/instances/$instanceId/setup",
-      "pageType": "setup",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
       "id": "admin.legal-texts.create",
       "path": "/admin/legal-texts/new",
       "pageType": "create",
@@ -181,6 +173,14 @@
       "id": "admin.roles.list",
       "path": "/admin/roles",
       "pageType": "list",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
+      "id": "admin.templates",
+      "path": "/admin/templates",
+      "pageType": "detail",
       "owner": {
         "kind": "host"
       }
@@ -482,6 +482,24 @@
         "pluginId": "projects"
       },
       "titleKey": "projects.navigation.title"
+    },
+    {
+      "id": "ssf.system-configuration",
+      "path": "/plugins/ssf/system-configuration",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-configuration",
+      "path": "/plugins/ssf/configuration",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
     },
     {
       "id": "surveys.content.create",
