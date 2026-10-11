@@ -1,18 +1,15 @@
 # Inhalte und Veröffentlichung
 
-Im Studio gibt es verschiedene **Inhaltstypen**, etwa Nachrichten und Veranstaltungen.
-Die gemeinsame [Inhaltsliste](/pages/content.list) bündelt generische und fachliche Inhalte.
-Welche Typen Sie erstellen und bearbeiten können, hängt von aktiven Modulen und Ihren Rechten ab.
+Im Studio können Sie unterschiedliche Inhalte erstellen, zum Beispiel eine Nachricht oder eine Veranstaltung. Welches Formular sich öffnet, bestimmt der **Inhaltstyp**. Die Auswahl unter [Inhalt anlegen](/pages/content.create) speichert noch nichts. Erst im Formular erfassen und speichern Sie den Inhalt.
 
-Beim [Anlegen](/pages/content.create) wählen Sie zuerst den Inhaltstyp. Diese Auswahl
-erstellt noch keinen Datensatz; danach öffnet sich das passende Formular. Ein vorhandener
-Inhalt hat eine eigene Detailseite. Dort können Sie je nach Typ und Berechtigung Angaben,
-Sichtbarkeit oder Veröffentlichungsdaten pflegen.
+Ein **Entwurf** ist für die Vorbereitung gedacht. **Veröffentlicht** kennzeichnet einen Inhalt, der zur Veröffentlichung vorgesehen ist. Welche Status und Zeitangaben angeboten werden, hängt vom Inhaltstyp ab. Im allgemeinen Inhaltsformular ist für den Status „Veröffentlicht“ ein Veröffentlichungsdatum erforderlich. Prüfen Sie vor dem Speichern sowohl den Status als auch das Datum. Bei einer Nachricht können Sie zwischen Entwurf, sofortiger Veröffentlichung und einer geplanten Veröffentlichung wählen.
 
-**Sichtbarkeit und Veröffentlichungsdatum** sind unterschiedliche Angaben. Welche Felder
-vorhanden sind, hängt vom Inhaltstyp ab. Im allgemeinen Inhaltsformular benötigt der Status
-„veröffentlicht“ ein Veröffentlichungsdatum. In der Liste können Einträge auch nur lesbar,
-gesperrt oder für eine Aktion nicht berechtigt sein.
-Prüfen Sie bei Sammelaktionen den angezeigten Umfang, bevor Sie bestätigen.
+Beispiel: Sie bereiten eine Nachricht für nächste Woche vor. Speichern Sie sie zunächst als Entwurf. Wenn der Text geprüft ist, wählen Sie die gewünschte Veröffentlichung und kontrollieren Datum und Uhrzeit. Eine zusätzliche Push-Benachrichtigung hat eine eigene Zielgruppe; sie begrenzt nicht automatisch die Sichtbarkeit der Nachricht.
 
-Die einzelnen Schritte beschreibt [Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten).
+In der [Inhaltsliste](/pages/content.list) finden Sie Einträge wieder. Welche Inhalte und Aktionen Sie sehen, hängt von Ihren Rechten ab. Prüfen Sie bei Aktionen für mehrere Einträge den angezeigten Umfang vor dem Bestätigen.
+
+## Weiterführende Hilfe
+
+- [Inhaltstypen und Kategorien](/concepts/inhaltstypen-und-kategorien)
+- [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
+- [Nachricht anlegen](/pages/news.content.create)
