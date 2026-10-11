@@ -11,3 +11,4 @@ Kategorien werden unter [Kategorien](/pages/categories.overview) verwaltet. Dort
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)
 - [Inhalt anlegen](/pages/content.create)
 - [Kategorien](/pages/categories.overview)
+- [Anleitung: Kategorien pflegen](/guides/kategorien-pflegen)

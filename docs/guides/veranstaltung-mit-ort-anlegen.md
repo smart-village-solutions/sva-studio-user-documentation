@@ -27,3 +27,4 @@ Sie haben Zugriff auf Veranstaltungen und das Recht, eine Veranstaltung anzulege
 
 - [Veranstaltung anlegen](/pages/events.content.create) und [Veranstaltung bearbeiten](/pages/events.content.detail)
 - [Ort anlegen](/pages/poi.content.create), [Inhalte verwalten](/pages/content.list) und [Medien verwalten](/pages/host.media.list)
+- [Anleitung: Ort mit Öffnungszeiten anlegen](/guides/ort-mit-oeffnungszeiten-anlegen)

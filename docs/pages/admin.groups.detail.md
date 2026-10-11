@@ -19,7 +19,7 @@ Hier legen Sie fest, welche Rollen eine Gruppe enthält und wer ihr angehört.
 
 1. Prüfen Sie Namen, Beschreibung, Status und zugewiesene Rollen.
 2. Ändern Sie die gewünschten Angaben und speichern Sie.
-3. Fügen Sie unter **Mitgliedschaften** eine Person hinzu. Falls die Eingabe eine Konto-ID verlangt, übernehmen Sie diese aus dem Benutzerkonto.
+3. Fügen Sie unter **Mitgliedschaften** eine Person hinzu. Das Feld **Keycloak-Subject** verlangt eine technische Kennung der Person, keine E-Mail-Adresse. Wenn Ihnen diese Kennung nicht bekannt ist, fragen Sie Ihre Studio-Administration.
 4. Legen Sie bei Bedarf Beginn und Ende der Mitgliedschaft fest. Kontrollieren Sie die Liste nach dem Speichern.
 
 ## Wichtige Hinweise

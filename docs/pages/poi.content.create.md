@@ -23,3 +23,4 @@ Der Name ist erforderlich. Ein **Betreiber** kann eine andere Organisation sein 
 - [Inhalte verwalten](/pages/content.list)
 - [Veranstaltung anlegen](/pages/events.content.create)
 - [Medien verwalten](/pages/host.media.list)
+- [Anleitung: Ort mit Öffnungszeiten anlegen](/guides/ort-mit-oeffnungszeiten-anlegen)
