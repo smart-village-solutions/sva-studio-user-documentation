@@ -8,9 +8,9 @@ einer einzelnen Ansicht öffnen Sie dort „Hilfe zu dieser Seite“ oder wähle
 
 ## Warum sehe ich eine Aktion nicht?
 
-Sichtbare Fachbereiche hängen von der aktiven Instanz und ihren Modulen ab. Die erlaubten
-Aktionen hängen außerdem von Ihren wirksamen Rechten und gegebenenfalls dem
-Organisationskontext ab. Lesen Sie [Instanzen, Module und Berechtigungen](/concepts/instanzen-module-berechtigungen)
+Sichtbare Fachbereiche hängen von den freigeschalteten Modulen ab. Die erlaubten
+Aktionen hängen außerdem von Ihren Berechtigungen und gegebenenfalls Ihrer
+Organisationszuordnung ab. Lesen Sie [Module und Berechtigungen](/concepts/module-und-berechtigungen)
 oder wenden Sie sich an Ihre Administration.
 
 ## Warum sehe ich im Studio keine Hilfe?

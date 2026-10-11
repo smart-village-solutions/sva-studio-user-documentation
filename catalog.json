@@ -82,30 +82,6 @@
       }
     },
     {
-      "id": "admin.instances.create",
-      "path": "/admin/instances/new",
-      "pageType": "create",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
-      "id": "admin.instances.detail",
-      "path": "/admin/instances/$instanceId",
-      "pageType": "detail",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
-      "id": "admin.instances.list",
-      "path": "/admin/instances",
-      "pageType": "list",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
       "id": "admin.legal-texts.create",
       "path": "/admin/legal-texts/new",
       "pageType": "create",
@@ -173,14 +149,6 @@
       "id": "admin.roles.list",
       "path": "/admin/roles",
       "pageType": "list",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
-      "id": "admin.templates",
-      "path": "/admin/templates",
-      "pageType": "detail",
       "owner": {
         "kind": "host"
       }
@@ -376,14 +344,6 @@
       "titleKey": "shell.sidebar.media"
     },
     {
-      "id": "interfaces.overview",
-      "path": "/interfaces",
-      "pageType": "overview",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
       "id": "media.overview",
       "path": "/media",
       "pageType": "overview",
@@ -395,14 +355,6 @@
       "id": "media.usage",
       "path": "/admin/media/$mediaId/usage",
       "pageType": "usage",
-      "owner": {
-        "kind": "host"
-      }
-    },
-    {
-      "id": "modules.overview",
-      "path": "/modules",
-      "pageType": "overview",
       "owner": {
         "kind": "host"
       }
@@ -490,15 +442,6 @@
         "pluginId": "projects"
       },
       "titleKey": "projects.navigation.title"
-    },
-    {
-      "id": "ssf.system-configuration",
-      "path": "/plugins/ssf/system-configuration",
-      "pageType": "setup",
-      "owner": {
-        "kind": "plugin",
-        "pluginId": "ssf"
-      }
     },
     {
       "id": "ssf.tenant-configuration",

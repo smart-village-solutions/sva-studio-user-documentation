@@ -59,7 +59,7 @@ export default defineConfig({
       '/concepts/': [
         { text: 'Konzepte', items: [
           { text: 'Überblick', link: '/concepts/' },
-          { text: 'Instanzen, Module und Berechtigungen', link: '/concepts/instanzen-module-berechtigungen' },
+          { text: 'Module und Berechtigungen', link: '/concepts/module-und-berechtigungen' },
           { text: 'Inhalte und Veröffentlichung', link: '/concepts/inhalte-und-veroeffentlichung' },
         ] },
       ],

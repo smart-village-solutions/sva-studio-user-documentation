@@ -11,7 +11,7 @@ Die Startseite ist Ihr Einstieg in das Studio. Nach der Anmeldung sehen Sie pass
 ## Aufgabe beginnen
 
 1. Melden Sie sich an. Wenn Sie noch nicht angemeldet sind, zeigt die Startseite einen Anmeldelink.
-2. Prüfen Sie den aktiven Arbeitsbereich. Je nach Einrichtung ist dies etwa eine Organisation oder Instanz.
+2. Prüfen Sie Ihren aktiven Arbeitsbereich, zum Beispiel die ausgewählte Organisation.
 3. Wählen Sie eine angebotene Aufgabe oder öffnen Sie einen Fachbereich in der Navigation.
 4. Kehren Sie zur Startseite zurück, wenn Sie eine weitere Aufgabe beginnen möchten.
 

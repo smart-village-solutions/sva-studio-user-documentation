@@ -12,7 +12,6 @@ Hier legen Sie eine Gruppe an. Über eine Gruppe können mehrere Personen späte
 
 ## Voraussetzungen
 
-- Sie arbeiten in der gewünschten Instanz.
 - Sie besitzen das Recht, Gruppen anzulegen.
 
 ## So gehen Sie vor

@@ -2,6 +2,9 @@
 
 Dieses Repository veröffentlicht die aktuelle Anwenderdokumentation des SVA Studios als
 eigenständige statische Website und als Laufzeitquelle für die kontextbezogene Hilfe im Studio.
+Die Website richtet sich an Personen, die im eigenen Studio-Arbeitsbereich arbeiten oder ihn
+fachlich verwalten. Plattformbetrieb und die Einrichtung weiterer Studio-Umgebungen gehören
+nicht zur Seitenhilfe.
 
 ## Dokumentation finden
 
@@ -28,8 +31,10 @@ Rechte an fremden Inhalten und Marken werden dadurch nicht eingeräumt.
 npm run catalog:sync -- /pfad/zum/sva-studio/docs/user-documentation/page-catalog.json
 ```
 
-Der Sync legt ausschließlich fehlende Markdown-Seiten an. Bestehende Seiten und verwaiste
-Inhalte werden nicht verändert oder gelöscht.
+Der Sync übernimmt nur Seiten für diese Zielgruppe und legt dafür fehlende Markdown-Seiten an.
+Seiten zur plattformweiten Verwaltung bleiben im Studio-Katalog, werden hier aber nicht
+veröffentlicht. Bestehende Seiten und verwaiste Inhalte werden beim Sync nicht verändert
+oder gelöscht.
 
 ## Automatischer Sync nach einem Studio-Merge
 

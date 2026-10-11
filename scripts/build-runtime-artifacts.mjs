@@ -1,10 +1,11 @@
-import { copyFile, mkdir, readFile, writeFile } from 'node:fs/promises';
+import { copyFile, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 
 import { validateCatalog } from './catalog-contract.mjs';
 
 const catalog = validateCatalog(JSON.parse(await readFile(resolve('catalog.json'), 'utf8')));
 const markdownDirectory = resolve('docs/public/markdown');
+await rm(markdownDirectory, { recursive: true, force: true });
 await mkdir(markdownDirectory, { recursive: true });
 
 const pages = {};

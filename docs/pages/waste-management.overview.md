@@ -21,5 +21,4 @@ Wenn eine Datenquelle einen Fehler meldet, können die Einstellungen weiterhin e
 
 ## Weiterführende Hilfe
 
-- [Schnittstellen](/pages/interfaces.overview)
-- [Module](/pages/modules.overview)
+- [Studio-Übersicht](/pages/home.overview)

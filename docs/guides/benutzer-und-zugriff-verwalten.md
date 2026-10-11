@@ -1,8 +1,8 @@
 # Benutzer und Zugriff verwalten
 
-Diese Anleitung richtet sich an Personen mit Rechten zur Benutzerverwaltung in einer
-aktiven Instanz. [Instanzen, Module und Berechtigungen](/concepts/instanzen-module-berechtigungen)
-erklärt die zugrunde liegenden Begriffe.
+Diese Anleitung richtet sich an Personen mit Rechten zur Benutzerverwaltung.
+[Module und Berechtigungen](/concepts/module-und-berechtigungen) erklärt die
+zugrunde liegenden Begriffe.
 
 1. Öffnen Sie [Benutzer verwalten](/pages/admin.users.list) und suchen Sie nach dem Konto.
    Prüfen Sie den Kontostatus, bevor Sie ein neues Konto anlegen.
@@ -12,8 +12,8 @@ erklärt die zugrunde liegenden Begriffe.
 3. Öffnen Sie die [Benutzerdetails](/pages/admin.users.detail), um Gruppen, Rollen und
    Organisationszuordnungen zu prüfen. Dort sehen Sie auch, welche Berechtigungen für
    das Konto tatsächlich gelten.
-4. Wenn ein Fachbereich fehlt, prüfen Sie zusätzlich die [Modulzuweisung](/pages/modules.overview)
-   der Instanz. Ein aktives Modul allein gewährt noch keine Aktion.
+4. Wenn ein Fachbereich fehlt, fragen Sie Ihre Administration, ob er freigeschaltet ist.
+   Ein freigeschalteter Fachbereich allein gewährt noch keine Aktion.
 
 Scheitert eine Einladung nach erfolgreicher Kontoanlage, besteht das Konto bereits;
 die Einladung kann erneut gesendet werden. Beachten Sie bei Deaktivierung oder Löschung

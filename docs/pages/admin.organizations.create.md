@@ -12,7 +12,6 @@ Hier legen Sie einen gemeinsamen Arbeitsbereich für eine Gemeinde, ein Unterneh
 
 ## Voraussetzungen
 
-- Sie arbeiten in der richtigen Instanz.
 - Sie besitzen das Recht, Organisationen anzulegen.
 - Name, Organisationstyp und gegebenenfalls die übergeordnete Organisation sind geklärt.
 
