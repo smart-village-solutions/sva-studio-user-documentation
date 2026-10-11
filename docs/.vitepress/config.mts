@@ -38,9 +38,9 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'SVA Studio',
     nav: [
-      { text: 'Seitenhilfe', link: '/pages/' },
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
+      { text: 'Seitenhilfe', link: '/pages/' },
       { text: 'FAQ', link: '/faq/' },
       { text: 'Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
     ],
