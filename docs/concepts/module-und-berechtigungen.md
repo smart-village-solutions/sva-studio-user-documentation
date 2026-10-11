@@ -1,14 +1,16 @@
 # Module und Berechtigungen
 
-Ein **Modul** schaltet einen Fachbereich im Studio frei. Das allein erlaubt noch keine Änderung.
-**Berechtigungen** bestimmen, welche Aktionen Sie dort ausführen dürfen. Rollen bündeln solche
-Berechtigungen; Gruppen bündeln passende Rollen für mehrere Personen. Deshalb werden neue
-Konten üblicherweise zuerst Gruppen zugeordnet. Auch Ihre Organisationszuordnung kann
-beeinflussen, welche Daten Sie bearbeiten dürfen.
+Ein **Modul** stellt einen Fachbereich im Studio bereit, etwa die Arbeit mit Nachrichten. Eine **Berechtigung** legt fest, welche Aktion Sie dort ausführen dürfen, zum Beispiel Inhalte lesen oder bearbeiten. Ein sichtbarer Bereich bedeutet daher nicht, dass Sie alle seine Einträge ändern können.
 
-Welche Fachbereiche verfügbar sind, legt Ihre Administration fest. Fehlt ein Fachbereich,
-wenden Sie sich dorthin. Fehlt nur eine Aktion, prüfen Sie Ihre Berechtigungen.
-Administratoren können die [Benutzerdetails](/pages/admin.users.detail),
-[Gruppen](/pages/admin.groups.list) und [Rollen](/pages/admin.roles.list) dazu einsehen.
+**Rollen** fassen Berechtigungen zusammen. **Gruppen** fassen Rollen und Mitglieder zusammen. Ihre Zuordnung zu einer **Organisation** kann zusätzlich beeinflussen, welche Daten Sie bearbeiten dürfen. Diese Begriffe beschreiben unterschiedliche Teile Ihres Zugangs innerhalb Ihrer Arbeitsumgebung.
 
-Für die praktische Kontoverwaltung lesen Sie [Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten).
+Beispiel: Sie sehen die Nachrichtenliste, aber die Schaltfläche zum Anlegen fehlt. Der Bereich ist verfügbar; für das Anlegen fehlt Ihnen möglicherweise die passende Berechtigung. Eine Person mit Verwaltungsrechten kann Ihre [Benutzerdetails](/pages/admin.users.detail), die zugeordneten [Gruppen](/pages/admin.groups.list) und deren [Rollen](/pages/admin.roles.list) prüfen. Fehlt der ganze Bereich, kann auch das Modul nicht verfügbar sein.
+
+Wenn Sie eine Aufgabe nicht ausführen können, nennen Sie Ihrer Administration den betroffenen Bereich und die gewünschte Aktion. Änderungen an Gruppen können die Rechte mehrerer Personen betreffen.
+
+## Weiterführende Hilfe
+
+- [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
+- [Rollen verwalten](/pages/admin.roles.list)
+- [Gruppen verwalten](/pages/admin.groups.list)
+- [Organisationen verwalten](/pages/admin.organizations.list)

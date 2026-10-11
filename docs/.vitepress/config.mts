@@ -50,17 +50,31 @@ export default defineConfig({
     },
     sidebar: {
       '/guides/': [
-        { text: 'Anleitungen', items: [
+        { text: 'Einstieg und Inhalte', items: [
           { text: 'Überblick', link: '/guides/' },
+          { text: 'Erste Schritte im Studio', link: '/guides/erste-schritte-im-studio' },
           { text: 'Inhalt anlegen und bearbeiten', link: '/guides/inhalt-anlegen-und-bearbeiten' },
+          { text: 'Nachricht vorbereiten und veröffentlichen', link: '/guides/nachricht-veroeffentlichen' },
+          { text: 'Medien hochladen und verwenden', link: '/guides/medien-hochladen-und-verwenden' },
+          { text: 'Veranstaltung mit Ort anlegen', link: '/guides/veranstaltung-mit-ort-anlegen' },
+        ] },
+        { text: 'Konto und Verwaltung', items: [
           { text: 'Benutzer und Zugriff verwalten', link: '/guides/benutzer-und-zugriff-verwalten' },
+          { text: 'Eine Anfrage zu den eigenen Kontodaten stellen', link: '/guides/eigene-datenschutzanfrage-bearbeiten' },
+          { text: 'Rechtstexte versionieren und freigeben', link: '/guides/rechtstexte-versionieren-und-veroeffentlichen' },
         ] },
       ],
       '/concepts/': [
-        { text: 'Konzepte', items: [
+        { text: 'Inhalte und Medien', items: [
           { text: 'Überblick', link: '/concepts/' },
-          { text: 'Module und Berechtigungen', link: '/concepts/module-und-berechtigungen' },
           { text: 'Inhalte und Veröffentlichung', link: '/concepts/inhalte-und-veroeffentlichung' },
+          { text: 'Inhaltstypen und Kategorien', link: '/concepts/inhaltstypen-und-kategorien' },
+          { text: 'Medien und ihre Verwendung', link: '/concepts/medien-und-ihre-verwendung' },
+        ] },
+        { text: 'Zugang und Verwaltung', items: [
+          { text: 'Module und Berechtigungen', link: '/concepts/module-und-berechtigungen' },
+          { text: 'Konto und Datenschutz', link: '/concepts/konto-und-datenschutz' },
+          { text: 'Rechtstexte und Versionen', link: '/concepts/rechtstexte-und-versionen' },
         ] },
       ],
       '/pages/': pageSections.map((section) => ({
