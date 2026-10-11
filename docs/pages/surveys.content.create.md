@@ -6,30 +6,18 @@ pageType: create
 
 # Umfrage anlegen
 
-## Wofür ist diese Seite gedacht?
+Mit einer Umfrage stellen Sie Fragen und legen fest, wer teilnehmen kann und wann Ergebnisse sichtbar werden.
 
-Hier definieren Sie Rahmen, Teilnahmebedingungen und Fragen einer Umfrage.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Geben Sie einen klaren Titel sowie eine kurze Erklärung zum Zweck der Umfrage ein.
+2. Legen Sie Start, Ende und gegebenenfalls Zielgebiete fest. Ohne Enddatum ist die Umfrage zeitlich nicht begrenzt.
+3. Beschreiben Sie Teilnahme, Datenschutz und die spätere Anzeige der Ergebnisse in verständlicher Sprache.
+4. Legen Sie Fragen an. Wählen Sie je Frage zwischen einer Antwort, mehreren Antworten oder Freitext und prüfen Sie die Antwortmöglichkeiten.
+5. Ordnen Sie die Fragen, kontrollieren Sie Status und Laufzeit und speichern Sie.
 
-- Das Umfragemodul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Titel, Status, Laufzeit und optionale Zielgebiete festlegen.
-- Kurz- und Langbeschreibung sowie Datenschutz- und Transparenzhinweise erfassen.
-- Anonyme Teilnahme und Ergebnisfreigabe konfigurieren.
-- Einfach-, Mehrfach- oder Freitextfragen mit Antwortoptionen anlegen und sortieren.
-
-## Wichtige Hinweise
-
-- Ohne Enddatum bleibt die Umfrage unbefristet.
-- Titel, Fragetitel und Antwortoptionen werden validiert.
-- Klären Sie vorab, wann Ergebnisse sichtbar sein dürfen.
+Klären Sie vor der Veröffentlichung, ob eine anonyme Teilnahme vorgesehen ist und wann Ergebnisse freigegeben werden dürfen. Vermeiden Sie unnötige personenbezogene Angaben in Fragen und Antworten.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Seitenübergreifende Anleitungen](/guides/)

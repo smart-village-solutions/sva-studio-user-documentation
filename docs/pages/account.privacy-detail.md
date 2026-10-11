@@ -6,26 +6,17 @@ pageType: detail
 
 # Datenschutzanfrage
 
-## Wofür ist diese Seite gedacht?
+Diese Seite zeigt den Stand einer einzelnen Anfrage zu Ihren Kontodaten.
 
-Die Detailansicht zeigt Typ, Status und Verlauf einer einzelnen Datenschutzanfrage Ihres Kontos.
+## Vorgang prüfen
 
-## Voraussetzungen
+1. Öffnen Sie den betreffenden Eintrag unter **Datenschutz & Transparenz**.
+2. Prüfen Sie Art, Status und Zeitpunkt der Anfrage. Weitere Angaben hängen von der Art des Vorgangs ab.
+3. Lesen Sie bei einem blockierten oder fehlgeschlagenen Vorgang den angezeigten Grund. Wenn Sie Unterstützung benötigen, nennen Sie die Fall-ID.
+4. Wählen Sie **Zurück zur Datenschutzübersicht**, um weitere Vorgänge zu sehen.
 
-- Sie haben den Vorgang über die Datenschutzübersicht geöffnet.
-
-## Das können Sie hier tun
-
-- Fall-ID, Typ und aktuellen Status prüfen.
-- Erstellungs- und gegebenenfalls Abschlusszeit nachvollziehen.
-- Format, Blocker und weitere fallbezogene Angaben ansehen.
-
-## Wichtige Hinweise
-
-- Welche Angaben erscheinen, hängt vom Falltyp und Bearbeitungsstand ab.
-- Nennen Sie bei Rückfragen die Fall-ID, aber veröffentlichen Sie keine personenbezogenen Falldaten.
+**Abgeschlossen** bedeutet, dass die Bearbeitung dieses Vorgangs beendet ist. Ein Exportergebnis ist nur dann herunterladbar, wenn die Seite es anbietet. Teilen Sie Fallinformationen und heruntergeladene persönliche Daten nur mit berechtigten Personen.
 
 ## Weiterführende Hilfe
 
-- [Zur Datenschutzübersicht](/pages/account.privacy)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Datenschutz im Konto](/pages/account.privacy)

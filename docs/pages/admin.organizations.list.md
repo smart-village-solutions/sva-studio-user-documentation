@@ -8,23 +8,22 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Organisationsliste zeigt hierarchische Arbeitskontexte, Mitglieder und Aktivstatus der aktuellen Instanz.
+Hier sehen Sie die Organisationen der aktuellen Instanz. Eine Organisation kann zum Beispiel eine Gemeinde oder ein Verein sein und legt einen gemeinsamen Arbeitsbereich fest.
 
 ## Voraussetzungen
 
 - Eine Instanz ist aktiv.
 - Sie besitzen Leserechte für Organisationen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Nach Name oder Schlüssel suchen.
-- Nach Typ und Aktivstatus filtern.
-- Parent, Kindorganisationen und Mitgliederzahl prüfen.
-- Eine Organisation anlegen, bearbeiten, aktivieren oder deaktivieren.
+1. Öffnen Sie **Organisationen**. Suchen Sie nach Name oder Schlüssel oder filtern Sie nach Typ und Status.
+2. Prüfen Sie, welcher übergeordneten Organisation ein Eintrag zugeordnet ist und wie viele Mitglieder er hat.
+3. Öffnen Sie **Bearbeiten**, um Angaben und Mitgliedschaften zu prüfen. Mit **Organisation anlegen** erstellen Sie einen neuen Arbeitsbereich.
 
 ## Wichtige Hinweise
 
-- Hierarchieänderungen können Arbeits- und Berechtigungskontexte beeinflussen.
+- Ändern Sie die übergeordnete Organisation nur nach fachlicher Prüfung: Dadurch kann sich ändern, in welchem Bereich Personen arbeiten.
 
 ## Weiterführende Hilfe
 

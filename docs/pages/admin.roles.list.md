@@ -8,23 +8,23 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Rollenliste zeigt Rechteumfang, Nutzung und Synchronisationszustand von System-, benutzerdefinierten und externen Rollen.
+Die Rollenliste zeigt, welche Rollen es gibt und wie sie verwendet werden. Eine Rolle bestimmt, welche Aufgaben jemand im Studio ausführen darf.
 
 ## Voraussetzungen
 
 - Sie besitzen Leserechte für Rollen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Nach Rolle oder Berechtigung suchen.
-- Rollenart, Rechtezahl, Nutzerzahl und Synchronisation prüfen.
-- Eine Rolle anlegen oder zur Bearbeitung öffnen.
-- Vorhandene Keycloak-Rollen importieren oder einen Reconcile starten.
+1. Öffnen Sie **Rollen** und suchen Sie nach Name oder Berechtigung.
+2. Prüfen Sie Art, Anzahl der Berechtigungen und Zuweisungen. Öffnen Sie eine Rolle, um die genauen Rechte zu sehen.
+3. Wählen Sie **Rolle anlegen**, wenn keine vorhandene Rolle passt.
+4. Wenn ein Abgleich mit dem Anmeldesystem angeboten wird, prüfen Sie zuerst die angezeigten Abweichungen.
 
 ## Wichtige Hinweise
 
-- Plattformrollen und extern verwaltete Rollen können nur lesbar sein.
-- Ein Reconcile gleicht nicht automatisch alle lokalen Berechtigungsentscheidungen mit Keycloak ab.
+- Systemrollen und extern verwaltete Rollen sind hier nur lesbar.
+- Der Abgleich mit dem Anmeldesystem betrifft Rollenangaben; die Rechte im Studio prüfen Sie weiterhin in der Rollendetailseite.
 
 ## Weiterführende Hilfe
 

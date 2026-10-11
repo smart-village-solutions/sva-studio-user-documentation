@@ -6,28 +6,18 @@ pageType: overview
 
 # Studio-Übersicht
 
-## Wofür ist diese Seite gedacht?
+Die Startseite ist Ihr Einstieg in das Studio. Nach der Anmeldung sehen Sie passende Aufgaben und Bereiche für Ihren Arbeitskontext.
 
-Die Studio-Übersicht ist der Ausgangspunkt für Ihre redaktionellen und administrativen Aufgaben.
+## Aufgabe beginnen
 
-## Voraussetzungen
+1. Melden Sie sich an. Wenn Sie noch nicht angemeldet sind, zeigt die Startseite einen Anmeldelink.
+2. Prüfen Sie den aktiven Arbeitsbereich. Je nach Einrichtung ist dies etwa eine Organisation oder Instanz.
+3. Wählen Sie eine angebotene Aufgabe oder öffnen Sie einen Fachbereich in der Navigation.
+4. Kehren Sie zur Startseite zurück, wenn Sie eine weitere Aufgabe beginnen möchten.
 
-- Eine aktive Studio-Sitzung für alle personalisierten Funktionen.
-- Passende Module und Berechtigungen für die gewünschten Fachbereiche.
-
-## Das können Sie hier tun
-
-- Einen für Sie freigeschalteten Fachbereich öffnen.
-- Häufige Aufgaben wie Nachricht, Veranstaltung, Medienupload oder Benutzerverwaltung beginnen.
-- Die zuletzt übernommenen Studio-Änderungen nachlesen.
-
-## Wichtige Hinweise
-
-- Die sichtbaren Aktionskarten richten sich nach Ihren Modulen und Berechtigungen.
-- Fehlt eine erwartete Aufgabe, prüfen Sie zuerst den aktiven Arbeitskontext und wenden Sie sich anschließend an die Administration.
+Welche Aufgaben erscheinen, hängt von freigeschalteten Modulen und Ihren Rechten ab. Fehlt eine Aufgabe, prüfen Sie zunächst den Arbeitskontext und fragen Sie danach Ihre Administration. Die Startseite kann außerdem Hinweise auf aktuelle Studio-Änderungen zeigen.
 
 ## Weiterführende Hilfe
 
-- [Mein Konto](/pages/account.profile)
+- [Mein Profil](/pages/account.profile)
 - [Inhalte verwalten](/pages/content.list)
-- [Seitenübergreifende Anleitungen](/guides/)

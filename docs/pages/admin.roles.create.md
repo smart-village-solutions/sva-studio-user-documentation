@@ -8,23 +8,24 @@ pageType: create
 
 ## Wofür ist diese Seite gedacht?
 
-Hier erstellen Sie eine benutzerdefinierte Rolle mit stabiler technischer Identität.
+Hier legen Sie eine eigene Rolle an. Eine Rolle bündelt Berechtigungen, die Sie später Personen oder Gruppen zuweisen können.
 
 ## Voraussetzungen
 
 - Sie besitzen das Recht, Rollen anzulegen.
-- Die organisatorische Bedeutung und benötigte Ebene der Rolle sind geklärt.
+- Sie wissen, welche Aufgaben die Rolle ermöglichen soll.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Technischen Rollenschlüssel festlegen.
-- Anzeigename, Beschreibung und Rollenlevel erfassen.
-- Die Rolle speichern und anschließend Berechtigungen und Zuweisungen pflegen.
+1. Öffnen Sie **Rollen** und wählen Sie **Rolle anlegen**.
+2. Geben Sie einen verständlichen Namen ein. Beschreiben Sie optional den Zweck.
+3. Wählen Sie **Anlegen**. Danach öffnet sich die neue Rolle.
+4. Legen Sie dort unter **Berechtigungen** fest, was die Rolle erlaubt. Unter **Zuweisungen** können Sie Personen hinzufügen.
 
 ## Wichtige Hinweise
 
-- Prüfen Sie vorab, ob bereits eine passende Rolle oder Gruppe vorhanden ist.
-- Der technische Schlüssel sollte nachträglich nicht als frei änderbare Bezeichnung behandelt werden.
+- Die neue Rolle hat zunächst keine Berechtigungen. Prüfen Sie vor dem Zuweisen, ob die passenden Rechte hinterlegt sind.
+- Prüfen Sie vorab, ob bereits eine passende Rolle vorhanden ist.
 
 ## Weiterführende Hilfe
 

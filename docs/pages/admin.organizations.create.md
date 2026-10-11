@@ -8,24 +8,25 @@ pageType: create
 
 ## Wofür ist diese Seite gedacht?
 
-Hier erstellen Sie einen neuen hierarchischen Arbeits- und Autorenkontext.
+Hier legen Sie einen gemeinsamen Arbeitsbereich für eine Gemeinde, ein Unternehmen oder eine andere Einrichtung an.
 
 ## Voraussetzungen
 
-- Eine Instanz ist aktiv.
+- Sie arbeiten in der richtigen Instanz.
 - Sie besitzen das Recht, Organisationen anzulegen.
-- Parent, Organisationstyp und Autoren-Policy sind fachlich geklärt.
+- Name, Organisationstyp und gegebenenfalls die übergeordnete Organisation sind geklärt.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Technischen Schlüssel und Anzeigename erfassen.
-- Organisationstyp und gegebenenfalls Parent wählen.
-- Festlegen, ob ausschließlich die Organisation oder auch Personen als Autor handeln dürfen.
+1. Öffnen Sie **Organisationen** und wählen Sie **Organisation anlegen**.
+2. Geben Sie den eindeutigen Schlüssel und den sichtbaren Namen ein. Wählen Sie den passenden Typ.
+3. Wählen Sie gegebenenfalls eine übergeordnete Organisation. Legen Sie fest, wer als Autor von Inhalten angezeigt werden darf.
+4. Speichern Sie und prüfen Sie die neue Organisation auf ihrer Detailseite.
 
 ## Wichtige Hinweise
 
-- Verfügbare Typen sind unter anderem Landkreis, Gemeinde, Ortsteil, Unternehmen, Agentur, Verein und Institution.
-- Wählen Sie den Parent sorgfältig, da er die Hierarchie des Arbeitskontexts bestimmt.
+- Der Schlüssel dient der eindeutigen Zuordnung. Verwenden Sie einen dauerhaft passenden Wert.
+- Die übergeordnete Organisation bestimmt die Einordnung in der Hierarchie. Prüfen Sie diese Auswahl vor dem Speichern.
 
 ## Weiterführende Hilfe
 

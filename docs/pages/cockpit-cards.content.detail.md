@@ -4,33 +4,22 @@ title: Kachel bearbeiten
 pageType: detail
 ---
 
-# Kachel bearbeiten
+# Cockpit-Kachel bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Hier ändern Sie Text, Bilder, Link und Anzeige einer vorhandenen Cockpit-Kachel.
 
-Hier bearbeiten Sie eine Cockpit-Kachel mit Text, Bildern und Zielverlinkung.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Prüfen Sie zunächst Überschrift, Text und Linkziel.
+2. Ergänzen oder entfernen Sie Bilder. Sie können Bilder aus der Mediathek auswählen oder hochladen und ihre Reihenfolge ändern.
+3. Kontrollieren Sie Sprache, Sichtbarkeit und Veröffentlichungszeitpunkt.
+4. Speichern Sie und beachten Sie die Rückmeldung. Die Historie zeigt Änderungen, die über das Studio erfolgt sind.
 
-- Das Plugin Cockpit-Kacheln ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Für eine organisatorische Schreibaktion ist ein passender Mainserver-Kontext verfügbar.
+Meldet das Studio nach dem Speichern ein Problem mit Medienverknüpfungen, prüfen Sie die betroffenen Bilder und versuchen Sie die Verknüpfung erneut zu speichern. Die Kachel selbst kann bereits gespeichert sein.
 
-## Das können Sie hier tun
-
-- Inhalt, Bilder und Darstellungsoptionen aktualisieren.
-- Bilder aus der Mediathek übernehmen, hochladen, umordnen oder entfernen.
-- Die Studio-Historie prüfen.
-- Die Kachel nach Bestätigung dauerhaft löschen.
-
-## Wichtige Hinweise
-
-- Die Historie zeigt erfolgreiche Studio-Änderungen.
-- Bei teilweise fehlgeschlagenen Medienreferenzen bleibt die Kachel gespeichert; wiederholen Sie anschließend die Referenzsynchronisation.
-- Löschen kann nicht rückgängig gemacht werden.
+**Löschen** entfernt die Kachel dauerhaft. Prüfen Sie vor der Bestätigung, ob Ausblenden genügt.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

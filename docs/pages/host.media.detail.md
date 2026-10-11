@@ -6,31 +6,19 @@ pageType: detail
 
 # Medium bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Auf der Detailseite prüfen Sie eine Datei und pflegen Angaben, die bei ihrer späteren Verwendung wichtig sind.
 
-Die Detailseite führt Vorschau, Auslieferung, Metadaten, Bildsteuerung und technische Zustände eines Assets zusammen.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Kontrollieren Sie Vorschau und Verarbeitungsstatus.
+2. Geben Sie einen verständlichen Titel und bei Bildern einen Alternativtext ein. Dieser beschreibt den wichtigen Bildinhalt für Menschen, die das Bild nicht sehen können.
+3. Ergänzen Sie Beschreibung, Urheberangabe und Lizenz, soweit bekannt. Prüfen Sie, ob die Datei öffentlich oder geschützt sein soll.
+4. Bei Bildern können Sie den wichtigen Bildbereich für die Darstellung festlegen.
+5. Speichern Sie und prüfen Sie unter **Verwendung**, in welchen Inhalten die Datei bereits eingebunden ist.
 
-- Das Asset ist vorhanden und für Sie zugänglich.
-- Zum Ändern oder Löschen benötigen Sie die entsprechenden Medienrechte.
-
-## Das können Sie hier tun
-
-- Titel, Alternativtext, Beschreibung, Copyright und Lizenz pflegen.
-- Sichtbarkeit, Fokuspunkt und Zuschnitt von Bildern bearbeiten.
-- Upload- und Verarbeitungsstatus prüfen.
-- Öffentliche URL kopieren oder als QR-Code ausgeben.
-- Die aktuelle Verwendung öffnen.
-
-## Wichtige Hinweise
-
-- Aktive Referenzen können Änderungen oder Löschen blockieren.
-- Ein bereits im Bucket vorhandenes Objekt kann zunächst als nicht registriert erscheinen.
-- Hinterlegen Sie für informative Bilder einen aussagekräftigen Alternativtext.
+Eine öffentliche Adresse oder ein QR-Code eignet sich nur für Dateien, die öffentlich bereitstehen sollen. Bereits verwendete Dateien können beim Ändern oder Löschen eingeschränkt sein. Entfernen Sie gegebenenfalls zuerst die Verknüpfung im betroffenen Inhalt.
 
 ## Weiterführende Hilfe
 
 - [Medien verwalten](/pages/host.media.list)
 - [Medienverwendung](/pages/media.usage)
-- [Seitenübergreifende Anleitungen](/guides/)

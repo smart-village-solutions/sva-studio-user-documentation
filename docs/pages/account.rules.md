@@ -6,28 +6,19 @@ pageType: overview
 
 # Kontoregeln
 
-## Wofür ist diese Seite gedacht?
+Hier sehen Sie, was nach längerer Nichtnutzung mit Ihrem Konto und Ihren eigenen Inhalten geschieht.
 
-Die Seite erklärt die für Ihr Konto geltenden Löschfristen und die Behandlung Ihrer eigenen Inhalte.
+## Fristen verstehen
 
-## Voraussetzungen
+Die Seite zeigt die Zeit bis zur **Deaktivierung** des Zugangs, zur **Pseudonymisierung** persönlicher Angaben und zur späteren vorgemerkten Löschung. Die Zeiträume werden seit der letzten erfolgreichen Anmeldung gezählt. Die angezeigten Werte gelten für Ihre Instanz; Sie können diese Fristen hier nicht ändern.
 
-- Sie sind im Studio angemeldet.
-- Für eine persönliche Inhaltsregel muss die Überschreibung in der Instanz erlaubt sein.
+## Regel für eigene Inhalte
 
-## Das können Sie hier tun
+Wenn Ihre Instanz persönliche Änderungen erlaubt, wählen Sie, ob Ihre eigenen Inhalte erhalten bleiben oder dem Lebenszyklus Ihres Kontos folgen sollen. Wählen Sie danach **Inhaltsregel speichern** und prüfen Sie die Bestätigung. Fehlt die Auswahl, gilt die vorgegebene Regel Ihrer Instanz.
 
-- Fristen für Deaktivierung, Pseudonymisierung und Tombstone-Soft-Delete ansehen.
-- Erkennen, welche Standardregel für Inhalte gilt.
-- Festlegen, ob eigene Inhalte erhalten bleiben oder dem Konto-Lebenszyklus folgen.
-
-## Wichtige Hinweise
-
-- Die persönlichen Einstellungen verändern keine tenantweiten Fristen.
-- Wenn keine persönliche Überschreibung möglich ist, gilt der Standard der Instanz.
+Diese Einstellung ist keine Löschanfrage. Für eine Anfrage zu Ihren persönlichen Daten öffnen Sie [Datenschutz & Transparenz](/pages/account.privacy).
 
 ## Weiterführende Hilfe
 
 - [Mein Profil](/pages/account.profile)
 - [Datenschutz im Konto](/pages/account.privacy)
-- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,31 +6,20 @@ pageType: create
 
 # Veranstaltung anlegen
 
-## Wofür ist diese Seite gedacht?
+Hier erfassen Sie einen Termin oder eine Terminreihe, damit Menschen wissen, **wann**, **wo** und **wie** sie teilnehmen können.
 
-Hier erfassen Sie eine Veranstaltung mit Termin, Ort, Kontakt und Veröffentlichung.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Geben Sie Titel und Beschreibung ein. Ergänzen Sie passende Kategorien.
+2. Tragen Sie Datum und Uhrzeit ein. Bei einer Wiederholung prüfen Sie Intervall und Wochentage anhand eines Beispiels.
+3. Erfassen Sie Veranstaltungsort, Adresse und gegebenenfalls den Kontakt für Rückfragen.
+4. Ergänzen Sie bei Bedarf Links, Preise, Hinweise zur Barrierefreiheit und Bilder.
+5. Prüfen Sie die Sichtbarkeit, speichern Sie und kontrollieren Sie die Rückmeldung.
 
-- Das Veranstaltungsmodul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Titel, Beschreibung, Kategorien und Sichtbarkeit erfassen.
-- Einzelne oder wiederkehrende Termine mit Uhrzeiten pflegen.
-- Veranstalter, Kontakt, Adresse, Karte oder POI-Bezug ergänzen.
-- Links, Preise, Barrierefreiheit, Tags und Medien hinzufügen.
-
-## Wichtige Hinweise
-
-- Titel ist erforderlich; Datumswerte, HTTPS-Links, Preise und Koordinaten werden validiert.
-- Bei Terminserien prüfen Sie Intervall und ausgewählte Wochentage vor dem Speichern.
+Ein **POI** ist ein bereits erfasster Ort, den Sie mit der Veranstaltung verknüpfen können. Für Weblinks wird eine sichere `https://`-Adresse erwartet. Prüfen Sie bei mehrtägigen Veranstaltungen besonders Anfang und Ende jedes Termins.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Orte bearbeiten](/pages/poi.content.detail)
+- [Ort anlegen](/pages/poi.content.create)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

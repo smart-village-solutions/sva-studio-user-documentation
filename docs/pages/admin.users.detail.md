@@ -8,30 +8,31 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Detailseite führt persönliche Daten, Verwaltung, Organisationen, effektive Rechte und Historie eines Kontos zusammen.
+Hier verwalten Sie ein Konto und prüfen, welche Rechte die Person tatsächlich hat.
 
 ## Voraussetzungen
 
 - Das Konto ist vorhanden und für Sie zugänglich.
 - Für Änderungen besitzen Sie die jeweiligen Benutzer- und Zuweisungsrechte.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Rollen, Gruppen und Organisationsmitgliedschaften pflegen.
-- Einen Default-Organisationskontext festlegen.
-- Technischen Account, Notizen und Mainserver-Credentials verwalten.
-- Wirksame und derzeit unwirksame Berechtigungsquellen prüfen.
-- Ein Konto aktivieren, deaktivieren oder unter Beachtung der Schutzregeln löschen.
+1. Prüfen Sie Name, E-Mail-Adresse und Kontostatus.
+2. Bearbeiten Sie Gruppen, direkte Rollen und Organisationsmitgliedschaften. Wählen Sie bei mehreren Organisationen gegebenenfalls einen bevorzugten Arbeitsbereich.
+3. Prüfen Sie unter **Berechtigungen**, welche Rechte aktuell gelten und woher sie stammen.
+4. Speichern Sie die Änderungen und kontrollieren Sie die Rückmeldung. Falls eine Einladung fehlgeschlagen ist, können Sie von hier erneut eine E-Mail zur Passworteinrichtung senden.
 
 ## Wichtige Hinweise
 
-- Das physische Löschen entfernt das Tenant-Konto in Studio und Keycloak; Inhalte folgen der wirksamen Inhaltsregel.
-- Ein Konto mit aktiver Rolle System-Administrator kann erst nach Entzug dieser Rolle gelöscht werden.
-- Ein leeres Secret-Feld behält ein bereits gespeichertes Mainserver-Secret.
+- Deaktivieren oder löschen Sie ein Konto nur nach Prüfung seiner Aufgaben und Inhalte. Beim Löschen gelten die eingestellten Regeln für zugeordnete Inhalte.
+- Ein Konto mit aktiver Rolle **System-Administrator** kann erst nach Entzug dieser Rolle gelöscht werden.
+- Ein vorhandenes Mainserver-Secret wird nicht angezeigt. Ein leeres Eingabefeld behält den bisherigen Wert.
 
 ## Weiterführende Hilfe
 
 - [Benutzer verwalten](/pages/admin.users.list)
 - [Organisationen verwalten](/pages/admin.organizations.list)
 - [IAM-Cockpit](/pages/admin.iam.overview)
+- [Instanzen, Module und Berechtigungen](/concepts/instanzen-module-berechtigungen)
+- [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Seitenübergreifende Anleitungen](/guides/)

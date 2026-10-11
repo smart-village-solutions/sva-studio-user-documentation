@@ -6,31 +6,24 @@ pageType: overview
 
 # Schnittstellen
 
-## Wofür ist diese Seite gedacht?
+Eine Schnittstelle verbindet Ihre Instanz mit einem anderen Dienst, etwa für Inhalte, Dateiablage, E-Mail oder Karten. Änderungen an Zugangsdaten sollten nur berechtigte Personen vornehmen.
 
-Auf dieser Seite verwalten Sie technische Anbindungen der aktuellen Instanz und prüfen deren Status.
+## Vorhandene Verbindung prüfen
 
-## Voraussetzungen
+1. Wählen Sie die richtige Instanz und öffnen Sie **Schnittstellen**.
+2. Suchen Sie die Verbindung in der Liste. Prüfen Sie Name, Typ, Aktivstatus und die verfügbaren Statushinweise.
+3. Öffnen Sie die Einstellungen, wenn Sie eine Angabe ändern müssen, und wählen Sie **Einstellungen speichern**.
+4. Prüfen Sie die Bestätigung. Wenn die Liste nicht lädt, wählen Sie **Neu laden**.
 
-- Eine Instanz ist ausgewählt.
-- Sie besitzen die erforderlichen Rechte zur Schnittstellenverwaltung.
+## Neue Schnittstelle anlegen
 
-## Das können Sie hier tun
+1. Wählen Sie **Neue Schnittstelle** und dann den passenden Typ.
+2. Wählen Sie **Weiter**, tragen Sie die vom Betreiber des Dienstes bereitgestellten Angaben ein und speichern Sie.
+3. Prüfen Sie anschließend den neuen Eintrag. Bei Verbindungsproblemen kontrollieren Sie Adresse und Zugangsdaten mit Ihrer Administration.
 
-- Mainserver-, S3-, Supabase-, PostgreSQL-, Mail- oder Kartenanbindungen anlegen.
-- Endpoint, Aktivstatus und letzte Prüfung ansehen.
-- Konfigurationen bearbeiten oder eine Schnittstelle löschen.
-- Bei Geoapify den Karten- und Geocoding-Status prüfen.
-
-## Wichtige Hinweise
-
-- Gespeicherte Secrets werden nicht im Klartext angezeigt; ein leeres Secret-Feld behält den vorhandenen Wert.
-- Der Typ einer vorhandenen Schnittstelle kann nicht nachträglich geändert werden.
-- Supabase kann nur für Instanzen mit Abfallmanagement-Modul angelegt werden.
-- Automatische Verbindungsprüfungen sind nicht für jeden Schnittstellentyp vollständig verfügbar.
+Gespeicherte Geheimnisse werden nicht im Klartext angezeigt. Ein leeres Feld für ein bereits gespeichertes Geheimnis lässt dessen Wert bestehen. Der Typ einer bestehenden Schnittstelle lässt sich nicht nachträglich ändern. Eine Supabase-Verbindung steht nur bei zugewiesenem Abfallmanagement-Modul zur Auswahl. **Löschen** entfernt eine Verbindung nach Bestätigung; prüfen Sie vorher, ob sie noch gebraucht wird.
 
 ## Weiterführende Hilfe
 
 - [Instanz bearbeiten](/pages/admin.instances.detail)
 - [Abfallkalender](/pages/waste-management.overview)
-- [Seitenübergreifende Anleitungen](/guides/)

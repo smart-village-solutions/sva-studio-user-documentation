@@ -6,28 +6,18 @@ pageType: overview
 
 # Medienübersicht
 
-## Wofür ist diese Seite gedacht?
+Über diesen Einstieg gelangen Sie zur Medienverwaltung Ihrer Arbeitsumgebung.
 
-Diese Route ist ein alternativer Einstieg in die zentrale Medienverwaltung.
+## Was Sie hier tun können
 
-## Voraussetzungen
+- Vorhandene Bilder und Dateien in der Medienbibliothek suchen.
+- Eine neue Datei hochladen und ihren Verarbeitungsstatus prüfen.
+- Eine Datei öffnen, Angaben wie Titel und Alternativtext ergänzen und ihre Verwendung ansehen.
 
-- Das Medienmodul ist aktiv.
-- Sie besitzen die für Ihre Aufgabe nötigen Medienrechte.
-
-## Das können Sie hier tun
-
-- Die Medienbibliothek öffnen.
-- Uploads und Verarbeitungszustände prüfen.
-- Ein Medienobjekt zur Bearbeitung auswählen.
-
-## Wichtige Hinweise
-
-- Der alternative Pfad gewährt keine zusätzlichen Rechte.
-- Die verfügbaren Aktionen entsprechen Ihrem Modul- und Berechtigungskontext.
+Welche Aktionen angeboten werden, hängt von Ihren Rechten ab. Wenn Sie eine bestimmte Datei nicht bearbeiten können, prüfen Sie, ob sie nur lesbar ist oder bereits in Inhalten verwendet wird.
 
 ## Weiterführende Hilfe
 
 - [Medien verwalten](/pages/host.media.list)
 - [Medium hochladen](/pages/host.media.create)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Medium bearbeiten](/pages/host.media.detail)

@@ -6,24 +6,11 @@ pageType: overview
 
 # App-Konfiguration
 
-## Wofür ist diese Seite gedacht?
+Der Navigationspunkt **App** führt derzeit zu einer vorbereiteten Seite. Dort können Sie noch keine App-Einstellungen ändern.
 
-Der Bereich App ist derzeit als vorbereitete Studio-Seite vorhanden.
-
-## Voraussetzungen
-
-- Sie besitzen Zugriff auf den Navigationsbereich App.
-
-## Das können Sie hier tun
-
-- Den aktuellen Ausbauzustand des Bereichs erkennen.
-
-## Wichtige Hinweise
-
-- Konkrete App-Fachlogik und Datenquellen sind auf dieser Seite noch nicht angebunden.
-- Navigation, Berechtigungsprüfung und Seitenrahmen sind bereits vorbereitet; es gibt derzeit keine Konfigurationsschritte.
+Wenn Sie etwas an einer Fachfunktion ändern möchten, öffnen Sie den passenden Bereich in der Navigation. Welche Bereiche sichtbar sind, hängt von den Modulen Ihrer Instanz und Ihren Berechtigungen ab. Fehlt ein erwarteter Bereich, wenden Sie sich an Ihre Administration.
 
 ## Weiterführende Hilfe
 
 - [Module](/pages/modules.overview)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Studio-Übersicht](/pages/home.overview)

@@ -6,28 +6,18 @@ pageType: overview
 
 # Datenschutz im Konto
 
-## Wofür ist diese Seite gedacht?
+Unter **Datenschutz & Transparenz** können Sie Anfragen zu Ihren eigenen Kontodaten stellen und den Bearbeitungsstand verfolgen.
 
-Hier reichen Sie Datenschutzanfragen für Ihr eigenes Konto ein und verfolgen deren Bearbeitungsstand.
+## Anfrage stellen
 
-## Voraussetzungen
+1. Öffnen Sie **Datenschutz & Transparenz**.
+2. Wählen Sie die passende Aktion: **Auskunft anfordern**, **Datenexport anfordern**, **Rechteänderung beantragen**, **Widerspruch einreichen**, **Löschanfrage anfordern** oder **Einschränkung der Verarbeitung anfordern**.
+3. Lesen Sie die Hinweise im geöffneten Fenster, ergänzen Sie die erforderlichen Angaben und senden Sie die Anfrage ab.
+4. Suchen Sie den Vorgang anschließend in der Liste **Datenschutzvorgänge**. Sie können dort nach Suchbegriff, Typ und Status filtern und einen Vorgang öffnen.
 
-- Sie sind im Studio angemeldet.
-
-## Das können Sie hier tun
-
-- Eine Auskunft oder einen strukturierten Datenexport anfordern.
-- Eine Rechteänderung, einen Widerspruch, eine Löschung oder eine Einschränkung beantragen.
-- Datenschutzvorgänge nach Suchbegriff, Typ und Status filtern.
-- Verfügbare Ergebnisse abgeschlossener Exporte herunterladen.
-
-## Wichtige Hinweise
-
-- Die Statuswerte unterscheiden eingeplant, in Bearbeitung, abgeschlossen, blockiert und fehlgeschlagen.
-- Ein eingereichter Vorgang kann fachliche oder rechtliche Prüfung benötigen und ist nicht automatisch sofort abgeschlossen.
+Ein Antrag ist nicht sofort erledigt. Je nach Art kann eine Prüfung nötig sein. Bei einem abgeschlossenen Datenexport können Sie das verfügbare Ergebnis herunterladen. Bewahren Sie die Datei geschützt auf, da sie persönliche Daten enthalten kann.
 
 ## Weiterführende Hilfe
 
-- [Datenschutzanfrage öffnen](/pages/account.privacy-detail)
+- [Details einer Datenschutzanfrage](/pages/account.privacy-detail)
 - [Kontoregeln](/pages/account.rules)
-- [Seitenübergreifende Anleitungen](/guides/)

@@ -8,26 +8,26 @@ pageType: create
 
 ## Wofür ist diese Seite gedacht?
 
-Hier bereiten Sie Registry, Keycloak-Grunddaten und optional die Abfall-Datenquelle einer neuen Instanz vor.
+Hier richten Sie einen neuen, getrennten Studio-Bereich ein. Der Assistent führt durch Adresse, Anmeldung und erste Administration.
 
 ## Voraussetzungen
 
 - Sie besitzen das Recht, Instanzen anzulegen.
-- Instanz-ID, Domain, Realm- und Clientvertrag sind abgestimmt.
-- Die Daten des initialen Tenant-Administrators liegen vor.
+- Name und gewünschte Internetadresse sind mit der zuständigen Administration abgestimmt.
+- Die Angaben zur Nutzeranmeldung und zur ersten administrierenden Person liegen vor.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Instanz-ID, Anzeigename und Parent-Domain erfassen.
-- Realm, Auth-Client, Issuer und Tenant-Admin-Client konfigurieren.
-- Den initialen Tenant-Administrator angeben.
-- Optional die Abfall-Datenquelle vorbereiten.
-- Die Provisionierung starten.
+1. Öffnen Sie **Instanzen** und wählen Sie **Instanz anlegen**.
+2. Tragen Sie unter **Instanz** Kennung, sichtbaren Namen und die übergeordnete Internetadresse ein. Prüfen Sie die daraus angezeigte vollständige Adresse.
+3. Wählen Sie unter **Nutzer-Datenbank (Keycloak-Realm)** die abgestimmte Anmeldung. Keycloak ist der Dienst für Konten und Anmeldung; technische Angaben erhalten Sie von Ihrer Administration.
+4. Geben Sie unter **Erster Administrator** die Angaben der Person ein, die die Instanz zunächst verwalten soll.
+5. Prüfen Sie unter **Prüfen und anlegen** alle Angaben und Hinweise. Wählen Sie erst dann **Anlegen**.
 
 ## Wichtige Hinweise
 
-- Mehrere Secrets können beim Provisioning automatisch erzeugt und anschließend sicher im Studio gespeichert werden.
-- Nach der Anlage muss das Setup mit Aktivierung und Tenant-Admin-Struktur abgeschlossen werden.
+- **Anlegen** schließt die Einrichtung noch nicht ab. Folgen Sie danach dem angezeigten Einrichtungsstand auf der Instanzseite.
+- Übernehmen Sie technische Werte nicht auf Verdacht. Lassen Sie offene Fragen vor dem Anlegen klären.
 
 ## Weiterführende Hilfe
 

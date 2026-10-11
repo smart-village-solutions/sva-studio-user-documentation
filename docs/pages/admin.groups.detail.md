@@ -8,24 +8,24 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Gruppendetails verbinden Rollenbündel, Status und zeitlich begrenzbare Mitgliedschaften.
+Hier legen Sie fest, welche Rollen eine Gruppe enthält und wer ihr angehört.
 
 ## Voraussetzungen
 
 - Die Gruppe ist vorhanden.
 - Sie besitzen Änderungsrechte für Gruppen und Mitgliedschaften.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Anzeigename, Beschreibung, Rollen und Status ändern.
-- Ein Konto per Keycloak-Subject als Mitglied zuweisen.
-- Gültig-ab und Gültig-bis festlegen.
-- Mitgliedschaften entfernen oder die Gruppe löschen.
+1. Prüfen Sie Namen, Beschreibung, Status und zugewiesene Rollen.
+2. Ändern Sie die gewünschten Angaben und speichern Sie.
+3. Fügen Sie unter **Mitgliedschaften** eine Person hinzu. Falls die Eingabe eine Konto-ID verlangt, übernehmen Sie diese aus dem Benutzerkonto.
+4. Legen Sie bei Bedarf Beginn und Ende der Mitgliedschaft fest. Kontrollieren Sie die Liste nach dem Speichern.
 
 ## Wichtige Hinweise
 
-- Gültigkeitsangaben werden in der Fachzeitzone Europe/Berlin geprüft.
-- Das Löschen entfernt die Gruppe und ihre Mitgliedschaften dauerhaft und verändert damit die daraus stammenden Rechte.
+- Eine zeitlich begrenzte Mitgliedschaft verleiht nur innerhalb des eingestellten Zeitraums Rechte.
+- Beim Löschen der Gruppe entfallen die Rechte, die Personen ausschließlich über diese Gruppe hatten. Prüfen Sie die Mitglieder vorher.
 
 ## Weiterführende Hilfe
 

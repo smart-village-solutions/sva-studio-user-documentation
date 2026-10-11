@@ -6,29 +6,19 @@ pageType: create
 
 # Inhalt anlegen
 
-## Wofür ist diese Seite gedacht?
+Auf dieser Seite wählen Sie, **was** Sie erstellen möchten: etwa eine Nachricht, eine Veranstaltung, einen Ort oder eine Umfrage. Die Auswahl öffnet das passende Formular; sie speichert noch keinen Inhalt.
 
-Wählen Sie zuerst den passenden Inhaltstyp und öffnen Sie anschließend dessen Erstellungsformular.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Wählen Sie den Inhaltstyp, der zu Ihrem Vorhaben passt. Für einen Termin nutzen Sie beispielsweise **Veranstaltung**.
+2. Füllen Sie im geöffneten Formular zuerst die Pflichtfelder aus. Weitere Angaben können Sie bei Bedarf ergänzen.
+3. Prüfen Sie vor dem Speichern, ob der Inhalt bereits sichtbar werden soll oder zunächst ein Entwurf bleibt.
 
-- Sie besitzen ein Erstellungsrecht für mindestens einen Inhaltstyp.
-- Das zugehörige Modul oder Plugin ist aktiv.
-
-## Das können Sie hier tun
-
-- Einen der im aktuellen Kontext erlaubten Inhaltstypen auswählen.
-- Die zugehörige fachliche Erstellungsseite öffnen.
-- Bei einem generischen Inhalt die Basisangaben und Zusatzdaten erfassen.
-
-## Wichtige Hinweise
-
-- Die Typauswahl legt noch keinen Datensatz an.
-- Es werden nur Inhaltstypen angeboten, die Sie im aktuellen Kontext tatsächlich erstellen dürfen.
+Sie sehen nur Typen, die in Ihrer Arbeitsumgebung verfügbar sind und für die Sie ein Erstellungsrecht haben. Fehlt ein erwarteter Typ, wenden Sie sich an Ihre Administration.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Nachricht anlegen](/pages/news.content.create)
 - [Veranstaltung anlegen](/pages/events.content.create)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)

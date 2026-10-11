@@ -6,29 +6,18 @@ pageType: usage
 
 # Medienverwendung
 
-## Wofür ist diese Seite gedacht?
+Diese Ansicht zeigt, wo eine Datei im Studio eingebunden ist. Öffnen Sie sie von der Detailseite des Mediums aus.
 
-Die Nutzungsansicht zeigt, in welchen Inhalten und Rollen ein Medienobjekt aktuell referenziert wird.
+## So nutzen Sie die Ansicht
 
-## Voraussetzungen
+1. Prüfen Sie die Zahl der Verknüpfungen.
+2. Sehen Sie nach, in welchen Inhalten die Datei verwendet wird und welche Aufgabe sie dort hat, etwa als Vorschaubild, Bild in einer Galerie oder Download.
+3. Öffnen Sie den betroffenen Inhalt, wenn Sie eine Verknüpfung ändern oder entfernen möchten.
+4. Kehren Sie danach zur Datei zurück und prüfen Sie die Verwendung erneut.
 
-- Sie haben die Ansicht aus einem Medienobjekt geöffnet.
-- Sie besitzen Leserechte für die Medienverwendung.
-
-## Das können Sie hier tun
-
-- Die Anzahl aktiver Referenzen prüfen.
-- Verknüpfte Host- oder Fachmodule erkennen.
-- Rollen wie Teaserbild, Headerbild, Galerie, Download oder Hero-Bild unterscheiden.
-- Zum betroffenen Inhalt oder zurück zum Medium wechseln.
-
-## Wichtige Hinweise
-
-- Bestehende Referenzen können das Löschen oder Ändern des Assets verhindern.
-- Entfernen Sie eine Referenz im verursachenden Inhalt, nicht nur in der Medienansicht.
+Eine Verknüpfung wird im **Inhalt** entfernt, nicht allein in dieser Übersicht. Bestehende Verknüpfungen können das Löschen oder Ändern einer Datei verhindern. Wenn Angaben noch geladen werden oder ein Fehler erscheint, verlassen Sie sich nicht auf eine zunächst angezeigte Null.
 
 ## Weiterführende Hilfe
 
 - [Medium bearbeiten](/pages/host.media.detail)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

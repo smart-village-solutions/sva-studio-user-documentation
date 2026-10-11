@@ -8,22 +8,22 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Gruppenverwaltung zeigt instanzgebundene Rollenbündel und ihre Mitgliedschaften.
+Die Liste zeigt Gruppen der aktuellen Instanz. Gruppen fassen Rollen zusammen, damit Sie dieselben Rechte mehreren Personen zuweisen können.
 
 ## Voraussetzungen
 
 - Eine Instanz ist aktiv.
 - Sie besitzen Leserechte für Gruppen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Nach Gruppe oder enthaltener Rolle suchen.
-- Rollenbündel, Mitgliederzahl und Aktivstatus prüfen.
-- Eine Gruppe anlegen oder zur Bearbeitung öffnen.
+1. Öffnen Sie **Gruppen**. Suchen Sie bei Bedarf nach Name oder Rolle.
+2. Vergleichen Sie Rollen, Anzahl der Mitglieder und Status. **Inaktiv** bedeutet, dass die Gruppe derzeit nicht wirksam ist.
+3. Wählen Sie **Bearbeiten**, um Rollen oder Mitglieder zu prüfen. Mit **Gruppe anlegen** erstellen Sie eine neue Gruppe.
 
 ## Wichtige Hinweise
 
-- Ohne aktiven Instanzkontext steht die Gruppenverwaltung nicht zur Verfügung.
+- Wählen Sie zuerst die richtige Instanz. Eine Gruppe gehört immer zu genau einer Instanz.
 
 ## Weiterführende Hilfe
 

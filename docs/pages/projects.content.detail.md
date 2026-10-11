@@ -6,31 +6,19 @@ pageType: detail
 
 # Projekt bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Hier aktualisieren Sie die Beschreibung, Bilder und Veröffentlichung eines vorhandenen Projekts.
 
-Hier pflegen Sie ein Featured Project mit Text, Bildern und Veröffentlichungsstatus.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Prüfen Sie Titel, Kurzbeschreibung und ausführlichen Text.
+2. Tauschen Sie Bilder bei Bedarf aus oder ändern Sie ihre Reihenfolge. Kontrollieren Sie dabei Alternativtexte, Bildunterschriften und Bildnachweise.
+3. Wählen Sie den passenden Status und speichern Sie. Die Historie zeigt Änderungen aus dem Studio.
 
-- Das Projekte-Plugin ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
+Bilder können aus der Mediathek, per Upload oder über eine dauerhafte Adresse eingebunden werden. Wenn nach dem Speichern ein Medienfehler erscheint, kann der Projekttext bereits gespeichert sein. Prüfen Sie dann die Bildverknüpfungen erneut.
 
-## Das können Sie hier tun
-
-- Texte, Sprache, Bilder und Status aktualisieren.
-- Bilder aus Mediathek, Upload oder dauerhafter URL verwalten.
-- Medienmetadaten gezielt abgleichen und die Historie prüfen.
-- Das Projekt bei Bedarf als gelöscht markieren.
-
-## Wichtige Hinweise
-
-- Löschen markiert das Projekt im Studio als gelöscht; prüfen Sie die fachlichen Folgen vor der Bestätigung.
-- Bei einem Medienfehler kann das Projekt bereits gespeichert sein, während Referenzen nachgearbeitet werden müssen.
-- Die Historie kann Änderungen außerhalb des Studios nicht vollständig zeigen.
+Die Löschaktion markiert das Projekt als gelöscht. Prüfen Sie zuvor, ob **archiviert** für Ihr Ziel passt.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

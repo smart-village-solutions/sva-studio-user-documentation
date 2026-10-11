@@ -4,32 +4,20 @@ title: Generischen Inhalt anlegen
 pageType: create
 ---
 
-# Generischen Inhalt anlegen
+# Allgemeinen Inhalt anlegen
 
-## Wofür ist diese Seite gedacht?
+Wählen Sie einen allgemeinen Inhalt, wenn die vorhandenen Vorlagen wie Nachricht, Veranstaltung oder Ort nicht zu Ihrem Thema passen.
 
-Hier modellieren Sie einen Inhalt, wenn kein engerer Fachtyp für die benötigten Daten passt.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Geben Sie eine klare Überschrift ein und legen Sie fest, ob der Inhalt sichtbar sein soll.
+2. Tragen Sie Textabschnitte und die benötigten weiteren Angaben ein, etwa Kategorien, Kontakt, Links oder Bilder.
+3. Ergänzen Sie nur die Bereiche, die für Ihr Thema sinnvoll sind. Dazu können Termine, Adressen, Öffnungszeiten oder Preise gehören.
+4. Prüfen Sie alle Angaben und speichern Sie.
 
-- Das Plugin Generische Inhalte ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Überschrift, freien Inhaltstyp und Sichtbarkeit festlegen.
-- Content-Blocks, Kategorien, Kontakte, Links und Medien pflegen.
-- Adressen, Orte, Termine und Öffnungszeiten ergänzen.
-- Barrierefreiheit, Preise und freie JSON-Zusatzdaten erfassen.
-
-## Wichtige Hinweise
-
-- Die Überschrift ist erforderlich; Links, Koordinaten und JSON werden validiert.
-- Der freie Inhaltstyp ist ein redaktioneller Marker und erzeugt kein neues Plugin.
+Das Feld **Inhaltstyp** ist eine frei wählbare Kennzeichnung. Es erstellt keine neue Vorlage. Freie Zusatzdaten im JSON-Format sollten Sie nur bearbeiten, wenn Ihnen die erforderliche Struktur bekannt ist. Die Überschrift ist Pflicht.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

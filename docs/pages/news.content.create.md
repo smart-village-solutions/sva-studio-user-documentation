@@ -6,31 +6,20 @@ pageType: create
 
 # Nachricht anlegen
 
-## Wofür ist diese Seite gedacht?
+Mit einer Nachricht informieren Sie über ein aktuelles Thema. Sie können sie als Entwurf speichern, direkt veröffentlichen oder einen Veröffentlichungszeitpunkt planen.
 
-Hier erstellen Sie eine Nachricht als Entwurf, zur sofortigen oder zur zeitgesteuerten Veröffentlichung.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Geben Sie eine aussagekräftige Überschrift und eine kurze Einleitung ein.
+2. Schreiben Sie den Haupttext. Ergänzen Sie bei Bedarf Kategorien, Quelle und Bilder.
+3. Wählen Sie **Entwurf**, **sofort veröffentlichen** oder **Veröffentlichung planen**. Prüfen Sie bei einem Termin Datum und Uhrzeit.
+4. Falls eine Push-Benachrichtigung angeboten wird, kontrollieren Sie deren Text und Zielgruppe besonders sorgfältig.
+5. Speichern Sie und lesen Sie die Rückmeldung.
 
-- Das Nachrichtenmodul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Überschrift, Kategorien und redaktionelle Metadaten pflegen.
-- Einleitung, Richtext, Medien und Quelle ergänzen.
-- Entwurf, sofortige oder zeitgesteuerte Veröffentlichung wählen.
-- Optional einen einmaligen Push global oder für ausgewählte Abholorte vorbereiten.
-
-## Wichtige Hinweise
-
-- Ein geplanter Veröffentlichungszeitpunkt kann in Vergangenheit oder Zukunft liegen.
-- Beim Speichern einer veröffentlichten Nachricht kann der Push ausgelöst werden.
-- Ohne ausgewählte Abholorte ist die Push-Zielgruppe global.
+Eine Push-Benachrichtigung ist eine Meldung auf Geräten der Empfängerinnen und Empfänger. Wird keine Auswahl von Abholorten getroffen, richtet sie sich an die globale Zielgruppe. Die Nachricht selbst ist durch eine eingeschränkte Push-Zielgruppe nicht automatisch eingeschränkt.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

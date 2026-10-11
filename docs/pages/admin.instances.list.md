@@ -8,21 +8,21 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Instanzverwaltung zeigt Registry-Einträge, Hostnamen und Lebenszyklus der Studio-Instanzen.
+Hier sehen Sie die verwalteten Studio-Instanzen. Eine Instanz ist ein eigener Bereich mit eigener Adresse und eigenen Nutzern.
 
 ## Voraussetzungen
 
 - Sie besitzen plattformweite Leserechte für Instanzen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Instanz-ID, Anzeigename, Hostname und Status vergleichen.
-- Eine neue Instanz anlegen.
-- Eine Instanz zur Betriebs-, Diagnose- oder Konfigurationsansicht öffnen.
+1. Öffnen Sie **Instanzen**. Suchen Sie nach Name oder Adresse und filtern Sie bei Bedarf nach Status.
+2. Prüfen Sie in der Liste Name, Adresse, Status und Hinweise auf fehlgeschlagene oder noch laufende Einrichtung.
+3. Wählen Sie **Bearbeiten**, um die Einrichtung, Diagnose oder Einstellungen einer Instanz zu öffnen. Mit **Instanz anlegen** starten Sie eine neue Einrichtung.
 
 ## Wichtige Hinweise
 
-- Diese plattformnahe Verwaltung ist vom normalen Arbeiten innerhalb einer ausgewählten Instanz zu unterscheiden.
+- Diese Seite ist für die Verwaltung mehrerer Instanzen gedacht. Inhalte und Benutzer der ausgewählten Instanz verwalten Sie in deren eigenen Bereichen.
 
 ## Weiterführende Hilfe
 

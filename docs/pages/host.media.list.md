@@ -6,30 +6,19 @@ pageType: list
 
 # Medien verwalten
 
-## Wofür ist diese Seite gedacht?
+In der Medienbibliothek finden Sie Bilder und andere Dateien, die Sie in Inhalten verwenden können.
 
-Die Medienbibliothek bündelt Uploads, Metadaten, Verarbeitungsstatus und Verwendungen Ihrer Assets.
+## Eine Datei finden oder hinzufügen
 
-## Voraussetzungen
+1. Suchen Sie nach einem Titel oder einer anderen bekannten Angabe. Öffnen Sie die passende Datei, um Vorschau und Details zu prüfen.
+2. Für eine neue Datei wählen Sie sie aus oder ziehen sie in den Upload-Bereich. Beobachten Sie den Fortschritt und die Rückmeldung.
+3. Öffnen Sie die Detailseite und ergänzen Sie Titel, Bildbeschreibung und nötige Rechteangaben.
+4. Prüfen Sie vor der Verwendung, ob die Datei fertig verarbeitet und richtig sichtbar ist.
 
-- Das Medienmodul ist aktiv.
-- Sie besitzen Leserechte für Medien.
-
-## Das können Sie hier tun
-
-- Nach Titel, Alternativtext, Copyright oder MIME-Typ suchen.
-- Neue Dateien auswählen oder per Drag-and-drop zum Upload hinzufügen.
-- Neue, blockierte oder ungenutzte Assets erkennen.
-- Ein Asset zur Detailbearbeitung öffnen.
-
-## Wichtige Hinweise
-
-- Eine fehlende Vorschau bedeutet nicht automatisch, dass das Asset unbrauchbar ist.
-- Nutzungszahlen können noch geladen werden oder vorübergehend nicht verfügbar sein.
+Eine fehlende Vorschau bedeutet nicht immer, dass die Datei unbrauchbar ist. Prüfen Sie ihren Status in der Detailansicht. Die angezeigte Zahl der Verwendungen kann während des Ladens noch fehlen.
 
 ## Weiterführende Hilfe
 
 - [Medium hochladen](/pages/host.media.create)
 - [Medium bearbeiten](/pages/host.media.detail)
 - [Medienverwendung](/pages/media.usage)
-- [Seitenübergreifende Anleitungen](/guides/)

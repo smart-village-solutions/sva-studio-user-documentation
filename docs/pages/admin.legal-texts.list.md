@@ -8,23 +8,21 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Rechtstextverwaltung bündelt Versionen, Sprachen, Zielgruppen, Status und dokumentierte Akzeptanzen.
+Hier verwalten Sie rechtliche Hinweise und Einwilligungstexte, die Personen im Studio angezeigt werden.
 
 ## Voraussetzungen
 
 - Sie besitzen Leserechte für Rechtstexte.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Nach UUID, Name, Version, Sprache oder Inhalt suchen.
-- Nach Entwurf, gültig oder archiviert filtern.
-- Versionen, Sprachvarianten, Zielgruppen und Akzeptanzen vergleichen.
-- Eine Version anlegen oder öffnen.
+1. Öffnen Sie **Rechtstexte**. Suchen Sie nach Name oder Version und filtern Sie bei Bedarf nach **Entwurf**, **Gültig** oder **Archiviert**.
+2. Vergleichen Sie Sprache, Version, Zielgruppe und Veröffentlichungsdatum.
+3. Öffnen Sie eine Fassung, um ihren Inhalt und dokumentierte Akzeptanzen zu prüfen. Mit **Rechtstext anlegen** erstellen Sie eine neue Fassung.
 
 ## Wichtige Hinweise
 
-- Prüfen Sie immer Version und Sprache gemeinsam.
-- Gültige und archivierte Fassungen sollten nicht allein anhand ihres Namens unterschieden werden.
+- Prüfen Sie immer Version und Sprache gemeinsam. Gleichnamige Fassungen können unterschiedliche Inhalte haben.
 
 ## Weiterführende Hilfe
 

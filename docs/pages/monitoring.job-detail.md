@@ -6,27 +6,17 @@ pageType: detail
 
 # Auftragsdetails
 
-## Wofür ist diese Seite gedacht?
+Hier sehen Sie, was bei einem einzelnen Hintergrundauftrag passiert ist.
 
-Die Detailansicht erklärt Verlauf, Runtime, Fortschritt und Ergebnis eines einzelnen Plugin-Jobs.
+## Fortschritt und Ergebnis prüfen
 
-## Voraussetzungen
+1. Lesen Sie oben Status und Auftrags-ID. Über **Zurück** gelangen Sie zur Liste.
+2. Prüfen Sie den Fortschritt und den Zeitpunkt der letzten Aktivität. Bei größeren Aufträgen können mehrere Verarbeitungsschritte oder Gruppen von Datensätzen angezeigt werden.
+3. Sehen Sie sich Ergebnis, Fehlermeldung und Verlauf an, wenn der Auftrag nicht wie erwartet endet.
+4. Geben Sie der zuständigen Administration bei Rückfragen die Auftrags-ID und gegebenenfalls die Zusammenhangs-ID. Senden Sie keine Passwörter oder persönlichen Inhalte mit.
 
-- Sie haben einen Job aus der Monitoring-Liste geöffnet.
-
-## Das können Sie hier tun
-
-- Live-Fortschritt, Batch- und Datensatzzahlen prüfen.
-- Letzte Aktivität, Versuche und Worker nachvollziehen.
-- Schreibübersicht, Ergebnis und Fehler ansehen.
-- Die technische Ereignishistorie auswerten.
-
-## Wichtige Hinweise
-
-- Der Hinweis vermutlich festgefahren ist eine Diagnose und kein sicherer Endstatus.
-- Notieren Sie für Supportfälle Job-ID, Korrelation und sichere Fehlercodes, aber keine Secrets oder personenbezogenen Nutzdaten.
+Bei einem laufenden Auftrag mit passender Berechtigung können Sie **Abbrechen** wählen. Lesen Sie den Bestätigungsdialog: Eine Abbruchanforderung beendet die Arbeit möglicherweise nicht sofort. Ein Hinweis auf einen vermutlich festgefahrenen Auftrag ist eine Diagnose und kein bestätigter Endstatus.
 
 ## Weiterführende Hilfe
 
 - [Aufträge überwachen](/pages/monitoring.jobs-list)
-- [Seitenübergreifende Anleitungen](/guides/)
