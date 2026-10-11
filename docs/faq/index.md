@@ -19,3 +19,9 @@ Die Hilfe wird beim Öffnen aus der separat veröffentlichten Dokumentation gela
 Wenn stattdessen eine Fehlermeldung erscheint, wählen Sie **Erneut versuchen**.
 Sie können die [Anleitungen](/guides/) und [Konzepte](/concepts/) auch direkt auf dieser
 Website lesen. Die jeweilige Studio-Seite bleibt bei einer Störung der Hilfe nutzbar.
+
+## Wo kann ich mich mit anderen austauschen?
+
+Der [SVA-Community-Bereich](https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/)
+ist der Einstieg für den Austausch. Wenn Sie dort noch nicht angemeldet sind, führt der
+Link zunächst zur Anmeldung.

@@ -4,7 +4,7 @@ layout: home
 hero:
   name: SVA Studio
   text: Anwenderdokumentation
-  tagline: Aktuelle Hilfe für die Arbeit mit dem SVA Studio.
+  tagline: Inhalte pflegen, Zugänge verwalten und Aufgaben Schritt für Schritt erledigen.
   actions:
     - theme: brand
       text: Anleitungen ansehen
@@ -22,4 +22,7 @@ features:
   - title: Zusammenhänge verstehen
     details: Konzepte erklären Inhalte, Instanzen und Berechtigungen an einer zentralen Stelle.
     link: /concepts/
+  - title: Erfahrungen austauschen
+    details: Im SVA-Community-Bereich können Sie sich nach der Anmeldung mit anderen austauschen.
+    link: https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/
 ---

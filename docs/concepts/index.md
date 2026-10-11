@@ -1,8 +1,8 @@
 # Konzepte
 
-Das SVA Studio bündelt redaktionelle Inhalte und die Verwaltung von Instanzen, Modulen und
-Zugriffsrechten. Die folgenden Seiten erklären diese Zusammenhänge unabhängig von einer
-einzelnen Studio-Ansicht:
+Mit dem SVA Studio pflegen Teams Inhalte und Medien für ihre digitalen Angebote. Berechtigte
+Personen verwalten außerdem Arbeitsbereiche, Module und Zugänge. Die folgenden Seiten erklären
+diese Zusammenhänge unabhängig von einer einzelnen Studio-Ansicht:
 
 - [Instanzen, Module und Berechtigungen](/concepts/instanzen-module-berechtigungen)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

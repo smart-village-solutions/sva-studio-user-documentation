@@ -41,6 +41,7 @@ export default defineConfig({
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
       { text: 'FAQ', link: '/faq/' },
+      { text: 'SVA Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
     ],
     search: { provider: 'local' },
     sidebar: {
