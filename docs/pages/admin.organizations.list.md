@@ -8,11 +8,10 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Hier sehen Sie die Organisationen der aktuellen Instanz. Eine Organisation kann zum Beispiel eine Gemeinde oder ein Verein sein und legt einen gemeinsamen Arbeitsbereich fest.
+Hier sehen Sie die Organisationen. Eine Organisation kann zum Beispiel eine Gemeinde oder ein Verein sein und legt einen gemeinsamen Arbeitsbereich fest.
 
 ## Voraussetzungen
 
-- Eine Instanz ist aktiv.
 - Sie besitzen Leserechte für Organisationen.
 
 ## So gehen Sie vor

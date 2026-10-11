@@ -20,7 +20,7 @@ features:
     details: Anleitungen verbinden mehrere Studio-Seiten zu einem Arbeitsablauf.
     link: /guides/
   - title: Zusammenhänge verstehen
-    details: Konzepte erklären Inhalte, Instanzen und Berechtigungen an einer zentralen Stelle.
+    details: Konzepte erklären Inhalte, Module und Berechtigungen an einer zentralen Stelle.
     link: /concepts/
   - title: Erfahrungen austauschen
     details: Im SVA-Community-Bereich können Sie sich nach der Anmeldung mit anderen austauschen.

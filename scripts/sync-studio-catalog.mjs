@@ -17,6 +17,16 @@ const loadCatalog = async () => {
 };
 
 const catalog = validateCatalog(await loadCatalog());
+const platformPageIds = new Set([
+  'admin.instances.create',
+  'admin.instances.detail',
+  'admin.instances.list',
+  'admin.templates',
+  'interfaces.overview',
+  'modules.overview',
+  'ssf.system-configuration',
+]);
+catalog.pages = catalog.pages.filter((page) => !platformPageIds.has(page.id));
 
 await mkdir(resolve('docs/pages'), { recursive: true });
 for (const page of catalog.pages) {

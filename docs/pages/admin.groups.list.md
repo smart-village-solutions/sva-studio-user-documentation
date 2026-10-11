@@ -8,11 +8,10 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Die Liste zeigt Gruppen der aktuellen Instanz. Gruppen fassen Rollen zusammen, damit Sie dieselben Rechte mehreren Personen zuweisen können.
+Die Liste zeigt Ihre Gruppen. Gruppen fassen Rollen zusammen, damit Sie dieselben Rechte mehreren Personen zuweisen können.
 
 ## Voraussetzungen
 
-- Eine Instanz ist aktiv.
 - Sie besitzen Leserechte für Gruppen.
 
 ## So gehen Sie vor
@@ -23,7 +22,7 @@ Die Liste zeigt Gruppen der aktuellen Instanz. Gruppen fassen Rollen zusammen, d
 
 ## Wichtige Hinweise
 
-- Wählen Sie zuerst die richtige Instanz. Eine Gruppe gehört immer zu genau einer Instanz.
+- Prüfen Sie vor Änderungen an einer Gruppe, welche Personen dadurch andere Rechte erhalten.
 
 ## Weiterführende Hilfe
 

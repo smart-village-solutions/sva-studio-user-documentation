@@ -8,6 +8,7 @@ import test from 'node:test';
 
 const execFileAsync = promisify(execFile);
 const syncScript = resolve(import.meta.dirname, 'sync-studio-catalog.mjs');
+const artifactScript = resolve(import.meta.dirname, 'build-runtime-artifacts.mjs');
 
 const createWorkspace = async () => {
   const directory = await mkdtemp(join(tmpdir(), 'sva-documentation-sync-'));
@@ -71,6 +72,31 @@ test('preserves existing and orphaned pages across repeated syncs', async (conte
 
   assert.equal(await readFile(existingPath, 'utf8'), existingContent);
   assert.equal(await readFile(orphanedPath, 'utf8'), orphanedContent);
+});
+
+test('keeps platform administration out of the tenant user catalog', async (context) => {
+  const directory = await createWorkspace();
+  context.after(() => rm(directory, { recursive: true, force: true }));
+  const catalogPath = await writeCatalog(directory, [
+    { id: 'account.profile', path: '/account', pageType: 'detail', owner: { kind: 'host' } },
+    { id: 'admin.instances.list', path: '/admin/instances', pageType: 'list', owner: { kind: 'host' } },
+    { id: 'ssf.system-configuration', path: '/plugins/ssf/system-configuration', pageType: 'setup', owner: { kind: 'plugin', pluginId: 'ssf' } },
+  ]);
+
+  await runSync(directory, catalogPath);
+
+  const result = JSON.parse(await readFile(join(directory, 'catalog.json'), 'utf8'));
+  assert.deepEqual(result.pages.map((page) => page.id), ['account.profile']);
+  await assert.rejects(readFile(join(directory, 'docs', 'pages', 'admin.instances.list.md')), { code: 'ENOENT' });
+  await assert.rejects(readFile(join(directory, 'docs', 'pages', 'ssf.system-configuration.md')), { code: 'ENOENT' });
+
+  const markdownDirectory = join(directory, 'docs', 'public', 'markdown');
+  await mkdir(markdownDirectory, { recursive: true });
+  await writeFile(join(markdownDirectory, 'admin.instances.list.md'), 'alter öffentlicher Inhalt\n');
+  await execFileAsync(process.execPath, [artifactScript], { cwd: directory });
+  const manifest = JSON.parse(await readFile(join(directory, 'docs', 'public', 'manifest.json'), 'utf8'));
+  assert.deepEqual(Object.keys(manifest.pages), ['account.profile']);
+  await assert.rejects(readFile(join(markdownDirectory, 'admin.instances.list.md')), { code: 'ENOENT' });
 });
 
 test('rejects page ids that could escape the pages directory', async (context) => {

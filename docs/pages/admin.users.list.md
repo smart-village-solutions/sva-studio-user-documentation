@@ -8,11 +8,10 @@ pageType: list
 
 ## Wofür ist diese Seite gedacht?
 
-Hier finden Sie die Konten der aktuellen Instanz und sehen, ob eine Person das Studio nutzen kann.
+Hier finden Sie die Benutzerkonten und sehen, ob eine Person das Studio nutzen kann.
 
 ## Voraussetzungen
 
-- Eine Instanz ist aktiv.
 - Sie besitzen Leserechte für Benutzer.
 
 ## So gehen Sie vor
