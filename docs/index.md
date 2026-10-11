@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: SVA Studio
-  text: Anwenderdokumentation
+  text: Anwender&shy;dokumentation
   tagline: Inhalte pflegen, Zugänge verwalten und Aufgaben Schritt für Schritt erledigen.
   actions:
     - theme: brand

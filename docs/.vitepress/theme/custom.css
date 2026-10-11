@@ -1,10 +1,148 @@
-/* The documentation title needs the full hero width on pages without an image. */
+/* Use the Studio's default palette and typeface for the documentation shell. */
+:root {
+  --vp-font-family-base: 'Fira Sans', ui-sans-serif, system-ui, sans-serif;
+  --vp-c-bg: #f6f8fb;
+  --vp-c-bg-alt: #f9fbfd;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-bg-soft: #eff3f8;
+  --vp-c-text-1: #1b2738;
+  --vp-c-text-2: #526072;
+  --vp-c-text-3: #526072;
+  --vp-c-divider: #d2dce8;
+  --vp-c-gutter: #d2dce8;
+  --vp-c-brand-1: #005a9e;
+  --vp-c-brand-2: #004f8c;
+  --vp-c-brand-3: #005a9e;
+  --vp-c-brand-soft: rgb(0 90 158 / 12%);
+  --vp-nav-bg-color: #ffffff;
+  --vp-nav-screen-bg-color: #ffffff;
+  --vp-sidebar-bg-color: #f9fbfd;
+  --vp-button-alt-bg: #e9f0f9;
+  --vp-button-alt-hover-bg: #dce8f5;
+  --vp-button-alt-active-bg: #cfdfef;
+}
+
+.dark {
+  --vp-c-bg: #121314;
+  --vp-c-bg-alt: #191a1b;
+  --vp-c-bg-elv: #191a1b;
+  --vp-c-bg-soft: #242526;
+  --vp-c-text-1: #e0e0e0;
+  --vp-c-text-2: #bfbfbf;
+  --vp-c-text-3: #a3a3a3;
+  --vp-c-divider: #36383a;
+  --vp-c-gutter: #36383a;
+  --vp-c-brand-1: #7bc8e8;
+  --vp-c-brand-2: #65b5d9;
+  --vp-c-brand-3: #297aa0;
+  --vp-c-brand-soft: rgb(41 122 160 / 25%);
+  --vp-nav-bg-color: #191a1b;
+  --vp-nav-screen-bg-color: #191a1b;
+  --vp-sidebar-bg-color: #191a1b;
+  --vp-button-brand-bg: #297aa0;
+  --vp-button-brand-hover-bg: #267494;
+  --vp-button-brand-active-bg: #236b89;
+  --vp-button-alt-bg: #2c2d2e;
+  --vp-button-alt-hover-bg: #36383a;
+  --vp-button-alt-active-bg: #404244;
+}
+
+.VPNavBar {
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
 .VPHomeHero:not(.has-image) .main {
   width: 100%;
+}
+
+.VPHomeHero.VPHero {
+  padding-top: calc(var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + 48px);
+  padding-bottom: 40px;
+}
+
+.VPHomeHero .container {
+  padding: clamp(24px, 3vw, 36px);
+  border: 1px solid var(--vp-c-divider);
+  border-left: 5px solid var(--vp-c-brand-3);
+  border-radius: 8px;
+  background: var(--vp-c-bg-elv);
+  box-shadow: 0 6px 18px rgb(38 47 56 / 8%);
 }
 
 .VPHomeHero .text {
   max-width: 100%;
   overflow-wrap: normal;
-  hyphens: auto;
+  hyphens: manual;
+}
+
+.VPHomeHero .tagline {
+  max-width: 42rem;
+}
+
+.VPHomeHero .VPButton {
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.VPHomeFeatures .VPFeature {
+  border-color: var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-elv);
+  box-shadow: 0 6px 18px rgb(38 47 56 / 6%);
+}
+
+.VPHomeFeatures .VPFeature .title {
+  color: var(--vp-c-text-1);
+}
+
+.VPDoc > .container > .content {
+  padding: 28px 24px 56px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-elv);
+  box-shadow: 0 6px 18px rgb(38 47 56 / 6%);
+}
+
+.vp-doc h1 {
+  font-size: clamp(1.9rem, 3vw, 2.25rem);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+}
+
+.VPSidebarItem.is-active > .item > .link {
+  border-radius: 8px;
+  background: var(--vp-c-brand-soft);
+}
+
+.VPSidebarItem.is-active > .item > .link .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+:where(a, button, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+@media (min-width: 960px) {
+  .VPDoc > .container > .content {
+    padding: 40px 48px 80px;
+  }
+}
+
+@media (max-width: 639px) {
+  .VPHomeHero .container {
+    padding: 24px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .VPHomeFeatures .VPFeature {
+    transition: none;
+  }
 }
