@@ -3,8 +3,8 @@
 ## Wo finde ich Hilfe zu meiner Aufgabe?
 
 Im Studio öffnen Sie mit dem Fragezeichen neben dem Seitentitel die Erläuterungen zur
-gerade geöffneten Seite. Über **Hilfe** in der Seitenleiste gelangen Sie zur gesamten
-Dokumentation. Die [Anleitungen](/guides/) führen durch Aufgaben auf mehreren Seiten;
+gerade geöffneten Seite. Über **Hilfe** in der Seitenleiste finden Sie weitere
+Hilfsangebote. Die [Anleitungen](/guides/) führen durch Aufgaben auf mehreren Seiten;
 Begriffe und Zusammenhänge stehen unter [Konzepte](/concepts/).
 
 ## Warum sehe ich eine Aktion nicht?
