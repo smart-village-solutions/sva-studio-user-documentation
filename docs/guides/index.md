@@ -9,4 +9,5 @@ Die Anleitungen führen durch Aufgaben, die mehrere Studio-Seiten berühren:
 
 - Lesen Sie bei unbekannten Begriffen zuerst die [Konzepte](/concepts/).
 - Wählen Sie die Anleitung für Ihre Aufgabe.
-- Öffnen Sie auf einer Studio-Seite „Hilfe zu dieser Seite“ für Hinweise zur aktuellen Ansicht.
+- Öffnen Sie auf einer Studio-Seite das Fragezeichen neben dem Seitentitel für Hinweise zur
+  aktuellen Ansicht.

@@ -1,10 +1,11 @@
 # Häufige Fragen
 
-## Wo beginne ich mit einer Aufgabe?
+## Wo finde ich Hilfe zu meiner Aufgabe?
 
-Die [Anleitungen](/guides/) führen durch seitenübergreifende Aufgaben. Für Hinweise zu
-einer einzelnen Ansicht öffnen Sie dort „Hilfe zu dieser Seite“ oder wählen die passende
-[Seitenhilfe](/pages/home.overview). Begriffe und Zusammenhänge stehen unter [Konzepte](/concepts/).
+Im Studio öffnen Sie mit dem Fragezeichen neben dem Seitentitel die Erläuterungen zur
+gerade geöffneten Seite. Über **Hilfe** in der Seitenleiste gelangen Sie zur gesamten
+Dokumentation. Die [Anleitungen](/guides/) führen durch Aufgaben auf mehreren Seiten;
+Begriffe und Zusammenhänge stehen unter [Konzepte](/concepts/).
 
 ## Warum sehe ich eine Aktion nicht?
 
@@ -12,13 +13,6 @@ Sichtbare Fachbereiche hängen von den freigeschalteten Modulen ab. Die erlaubte
 Aktionen hängen außerdem von Ihren Berechtigungen und gegebenenfalls Ihrer
 Organisationszuordnung ab. Lesen Sie [Module und Berechtigungen](/concepts/module-und-berechtigungen)
 oder wenden Sie sich an Ihre Administration.
-
-## Warum sehe ich im Studio keine Hilfe?
-
-Die Hilfe wird beim Öffnen aus der separat veröffentlichten Dokumentation geladen.
-Wenn stattdessen eine Fehlermeldung erscheint, wählen Sie **Erneut versuchen**.
-Sie können die [Anleitungen](/guides/) und [Konzepte](/concepts/) auch direkt auf dieser
-Website lesen. Die jeweilige Studio-Seite bleibt bei einer Störung der Hilfe nutzbar.
 
 ## Wo kann ich mich mit anderen austauschen?
 
