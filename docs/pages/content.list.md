@@ -6,31 +6,23 @@ pageType: list
 
 # Inhalte verwalten
 
-## Wofür ist diese Seite gedacht?
+Hier finden Sie die Inhalte Ihrer Arbeitsumgebung, zum Beispiel Nachrichten, Veranstaltungen und Orte. Welche Einträge Sie sehen und bearbeiten dürfen, hängt von Ihren Rechten ab.
 
-Die gemeinsame Inhaltsliste bündelt generische und plugin-spezifische redaktionelle Inhalte.
+## Einen Inhalt finden
 
-## Voraussetzungen
+1. Geben Sie einen Begriff in die Suche ein. Sie können unter anderem nach Überschrift oder Autor suchen.
+2. Schränken Sie die Liste bei Bedarf nach Inhaltstyp und Status ein. Bei häufigen Fragen ist auch ein Sprachfilter verfügbar.
+3. Sortieren Sie die Treffer, wenn Sie etwa die zuletzt geänderten Inhalte zuerst sehen möchten.
+4. Öffnen Sie den gewünschten Eintrag über die angebotene Aktion.
 
-- Das Inhaltsmodul ist für Ihre Instanz aktiv.
-- Sie besitzen mindestens Leserechte für Inhalte.
+Über **Neu** wählen Sie einen Inhaltstyp und gelangen zum passenden Formular. Für mehrere markierte Inhalte können zusätzliche Aktionen erscheinen. Lesen Sie vor dem Bestätigen genau, ob die Aktion nur die Auswahl, die aktuelle Seite oder alle gefilterten Treffer betrifft.
 
-## Das können Sie hier tun
+## Wenn etwas fehlt
 
-- Nach Überschrift, Autor oder Inhaltstyp suchen.
-- Nach Typ, Sprache und Status filtern.
-- Nach Titel sowie Veröffentlichungs-, Erstellungs- oder Änderungsdatum sortieren.
-- Einen Inhalt öffnen, archivieren oder eine zulässige Löschaktion starten.
-
-## Wichtige Hinweise
-
-- Einträge können bearbeitbar, nur lesbar, gesperrt oder serverseitig verweigert sein.
-- Während einer Synchronisierung kann die Liste einen letzten erfolgreichen oder nur teilweise verfügbaren Stand zeigen.
-- Eine Bulk-Aktion kann sich auf die Auswahl, die aktuelle Seite oder alle Filtertreffer beziehen; prüfen Sie den angezeigten Umfang vor dem Bestätigen.
+Ein Inhalt kann nur lesbar oder für Sie gesperrt sein. Während Daten abgeglichen werden, kann die Liste einen älteren Stand anzeigen; beachten Sie dann den Hinweis oberhalb der Tabelle und laden Sie sie später erneut.
 
 ## Weiterführende Hilfe
 
 - [Inhalt anlegen](/pages/content.create)
 - [Inhalt bearbeiten](/pages/content.detail)
 - [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
-- [Seitenübergreifende Anleitungen](/guides/)

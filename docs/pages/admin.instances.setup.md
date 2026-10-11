@@ -8,24 +8,25 @@ pageType: setup
 
 ## Wofür ist diese Seite gedacht?
 
-Der Setup-Flow schließt Aktivierung und geschützte Tenant-Admin-Struktur einer neu angelegten Instanz ab.
+Nach dem Anlegen zeigt die Instanzseite, welche Einrichtungsschritte noch fehlen, bevor der neue Bereich genutzt werden kann.
 
 ## Voraussetzungen
 
-- Die Instanz wurde angelegt und erfolgreich provisioniert.
+- Die Instanz wurde angelegt.
 - Sie besitzen die erforderlichen Instanz- und IAM-Rechte.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Den Aktivierungsstatus prüfen und die Instanz aktivieren.
-- Die benötigten Module für den Start auswählen.
-- system_admin und die IAM-Basis der Module initialisieren.
-- Nach beiden Pflichtschritten in die Betriebsansicht wechseln.
+1. Öffnen Sie die neu angelegte Instanz. Lesen Sie im Einrichtungsbereich den aktuellen Schritt und mögliche Blocker.
+2. Folgen Sie jeweils der angebotenen Hauptaktion: zunächst die Einrichtung der Anmeldung planen und ausführen, danach die Aktivierung prüfen.
+3. Falls Studio fehlende Zugangsdaten oder eine fehlende erste Administrationsperson meldet, klären Sie diese Angaben mit der zuständigen Administration.
+4. Prüfen Sie nach jeder Aktion den neuen Status. Aktivieren Sie die Instanz erst, wenn die angezeigten Voraussetzungen erfüllt sind.
+5. Prüfen Sie anschließend die benötigten Module und die Benutzer- und Rechteverwaltung, bevor weitere Personen eingeladen werden.
 
 ## Wichtige Hinweise
 
-- Ein temporäres Tenant-Admin-Passwort ist nur erforderlich, wenn der Workflow ein Passwort setzen soll.
-- Das Setup ist erst abgeschlossen, wenn Aktivierung und Admin-Struktur beide bestätigt sind.
+- Eine fehlgeschlagene Einrichtung ist kein Signal, dieselbe Aktion blind zu wiederholen. Öffnen Sie die Fehlermeldung oder **Doctor** und beheben Sie zuerst die Ursache.
+- Das Passwortfeld für die erste administrierende Person erscheint nur bei passenden Aktionen. Teilen Sie Passwörter nicht über ungesicherte Kanäle.
 
 ## Weiterführende Hilfe
 

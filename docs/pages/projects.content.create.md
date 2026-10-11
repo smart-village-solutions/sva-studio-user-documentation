@@ -6,30 +6,18 @@ pageType: create
 
 # Projekt anlegen
 
-## Wofür ist diese Seite gedacht?
+Ein Projekt stellt ein ausgewähltes Vorhaben mit kurzem Einstieg, ausführlichem Text und Bildern vor.
 
-Hier pflegen Sie ein Featured Project mit Text, Bildern und Veröffentlichungsstatus.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Wählen Sie die Sprache und geben Sie einen eindeutigen Titel ein.
+2. Schreiben Sie eine kurze Zusammenfassung für den schnellen Überblick. Ergänzen Sie anschließend den ausführlichen Projekttext.
+3. Fügen Sie Bilder hinzu und ordnen Sie sie in der gewünschten Reihenfolge. Pflegen Sie für jedes Bild einen passenden Alternativtext, eine Bildunterschrift und den Bildnachweis.
+4. Wählen Sie den Status: **Entwurf**, **veröffentlicht** oder **archiviert**. Speichern Sie erst nach einer letzten Text- und Bildprüfung.
 
-- Das Projekte-Plugin ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Sprache, Titel und Kurzbeschreibung erfassen.
-- Richtext für den vollständigen Projekttext pflegen.
-- Geordnete Bilder mit Alternativtext, Bildunterschrift und Nachweis hinzufügen.
-- Entwurf, veröffentlicht oder archiviert wählen.
-
-## Wichtige Hinweise
-
-- Prüfen Sie Alternativtexte und Bildnachweise vor der Veröffentlichung.
-- Die Reihenfolge der Bilder ist Teil des Projektdatensatzes.
+Ein Alternativtext beschreibt den wichtigen Bildinhalt für Menschen, die das Bild nicht sehen können. Prüfen Sie auch, ob Sie die Bilder veröffentlichen dürfen.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

@@ -6,27 +6,21 @@ pageType: overview
 
 # Mein Profil
 
-## Wofür ist diese Seite gedacht?
+Unter **Mein Konto** sehen Sie Ihre persönlichen Angaben und den Status Ihres Zugangs.
 
-Hier prüfen und pflegen Sie die persönlichen Angaben Ihres eigenen Kontos.
+## Angaben ändern
 
-## Voraussetzungen
+1. Öffnen Sie **Mein Konto** und prüfen Sie, ob das richtige Konto angezeigt wird.
+2. Ändern Sie bei Bedarf Vorname, Nachname, Telefon, Position, Abteilung oder Sprache.
+3. Wählen Sie **Speichern**. Die Schaltfläche zeigt anschließend **Gespeichert**.
 
-- Sie sind im Studio angemeldet.
+E-Mail-Adresse, Rolle und Kontostatus lassen sich hier nicht wie normale Profilfelder bearbeiten. Für Passwort oder E-Mail nutzen Sie die angebotenen Kontoaktionen, sofern sie in Ihrer Anmeldung verfügbar sind.
 
-## Das können Sie hier tun
+## Wenn etwas nicht klappt
 
-- Ihre gespeicherten Profildaten prüfen.
-- Bearbeitbare persönliche Angaben aktualisieren.
-- Den aktuellen Kontokontext und Profilstatus nachvollziehen.
-
-## Wichtige Hinweise
-
-- Plattform-Profile werden auf dieser Seite nur lesbar angezeigt.
-- Bei einem Fehler kann die angezeigte Request-ID dem Support bei der Zuordnung helfen.
+Bei ungültigen Eingaben zeigt die Seite Hinweise an den Feldern. Lädt das Profil nicht, versuchen Sie es erneut oder melden Sie sich neu an. Falls eine **Request-ID** angezeigt wird, geben Sie diese bei einer Supportanfrage an; senden Sie keine Passwörter mit.
 
 ## Weiterführende Hilfe
 
 - [Datenschutz im Konto](/pages/account.privacy)
 - [Kontoregeln](/pages/account.rules)
-- [Seitenübergreifende Anleitungen](/guides/)

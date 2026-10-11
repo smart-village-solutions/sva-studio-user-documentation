@@ -8,26 +8,25 @@ pageType: overview
 
 ## Wofür ist diese Seite gedacht?
 
-Das IAM Transparenz-Cockpit erklärt wirksame Rechte, Governance-Fälle, Datenschutzfälle und tenantweite Löschregeln.
+Hier prüfen Sie, warum eine Person eine Aktion ausführen darf oder nicht. Weitere Reiter zeigen Prüffälle, Datenschutzanfragen und Regeln zum Löschen von Konten und Inhalten.
 
 ## Voraussetzungen
 
-- Das Cockpit ist für die Installation aktiviert.
-- Sie besitzen eine Cockpitrolle und die Freigabe für den gewünschten Tab.
+- Die Ansicht ist für Ihre Installation freigeschaltet.
+- Sie haben Zugang zum jeweiligen Reiter. Welche Reiter sichtbar sind, hängt von Ihren Rechten ab.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Wirksame Rechte nach Organisation, handelndem Kontext und Suchbegriff filtern.
-- Eine konkrete Action für eine Ressource per Authorize prüfen.
-- Quellrollen, Gruppen, Scope und Herkunft eines Rechts nachvollziehen.
-- Governance- und Datenschutzfälle filtern und öffnen.
-- Tenantweite Löschfristen und Inhaltsstrategie prüfen oder bei ausreichendem Recht ändern.
+1. Öffnen Sie **Identitäten und Berechtigungen** und wählen Sie den passenden Reiter.
+2. Unter **Rechte** suchen Sie eine Person oder Berechtigung und wählen gegebenenfalls eine Organisation. Prüfen Sie das Ergebnis und die angezeigten Quellen wie Rollen und Gruppen.
+3. Wenn Sie eine konkrete Aufgabe prüfen möchten, nutzen Sie die dort angebotene Berechtigungsprüfung und lesen Sie die Begründung.
+4. Öffnen Sie unter **Prüffälle** oder **Datenschutz** einen Eintrag für weitere Angaben.
+5. Prüfen Sie unter **Löschregeln** die geltenden Fristen. Ändern Sie diese nur nach fachlicher Freigabe.
 
 ## Wichtige Hinweise
 
-- Je nach Rolle sind nur einzelne Tabs sichtbar.
-- Das Cockpit erklärt Berechtigungsentscheidungen; es ersetzt nicht die Rollen- und Gruppenverwaltung.
-- Löschregeln können nur lesbar sein.
+- Die Ansicht erklärt Berechtigungen; Änderungen an Rollen und Gruppen erfolgen auf deren eigenen Seiten.
+- Löschregeln können für Sie nur lesbar sein. Eine Änderung kann spätere Kontolöschungen und Inhalte betreffen.
 
 ## Weiterführende Hilfe
 

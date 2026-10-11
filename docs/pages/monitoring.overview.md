@@ -6,29 +6,17 @@ pageType: overview
 
 # Systemüberwachung
 
-## Wofür ist diese Seite gedacht?
+Hier finden berechtigte Personen laufende und frühere Hintergrundaufträge. Ein Hintergrundauftrag ist eine Aufgabe, die das Studio selbstständig verarbeitet.
 
-Die Monitoring-Übersicht führt zu Plugin-Jobs und zu einem serverseitigen IAM-Authorize-Benchmark.
+## Aufträge öffnen
 
-## Voraussetzungen
+Wählen Sie **Aufträge überwachen**, um Status und Fortschritt zu sehen. Öffnen Sie einen Eintrag für Einzelheiten. Bei einer Fehlermeldung notieren Sie die Auftrags-ID und wenden Sie sich an die zuständige Administration.
 
-- Sie besitzen die entsprechende Monitoring-Berechtigung.
-- Für den Benchmark besteht eine aktive Administrationssitzung.
+## Berechtigungsprüfung messen
 
-## Das können Sie hier tun
-
-- Die Liste der Plugin-Operations-Jobs öffnen.
-- Action-ID und Ressourcenkontext für einen Authorize-Test angeben.
-- Cache-Hit, Cache-Miss und Recompute anhand von p50, p95 und p99 vergleichen.
-- JSON- und Markdown-Nachweise eines Messlaufs verwenden.
-
-## Wichtige Hinweise
-
-- Die Laufzeit wird im Serverprozess gemessen; Browser- und Renderingzeit sind nicht enthalten.
-- Verwenden Sie in Beispielen keine personenbezogenen Ressourcen- oder Organisations-IDs.
+Für Administratorinnen und Administratoren gibt es außerdem eine Messfunktion für Berechtigungsanfragen. Geben Sie die verlangte Aktion und Ressource nur ein, wenn Sie wissen, welche Prüfung durchgeführt werden soll. Die angezeigten Zeiten beschreiben die Verarbeitung auf dem Server; sie sagen nichts über die Ladezeit der gesamten Seite aus. Verwenden Sie in Beispielen keine personenbezogenen Kennungen.
 
 ## Weiterführende Hilfe
 
 - [Aufträge überwachen](/pages/monitoring.jobs-list)
 - [IAM-Cockpit](/pages/admin.iam.overview)
-- [Seitenübergreifende Anleitungen](/guides/)

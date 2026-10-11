@@ -4,30 +4,19 @@ title: FAQ bearbeiten
 pageType: detail
 ---
 
-# FAQ bearbeiten
+# Häufige Frage bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Hier aktualisieren Sie eine vorhandene Frage mit ihrer Antwort.
 
-Hier pflegen Sie eine häufige Frage mit Antwort und Veröffentlichungsmerkmalen.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Lesen Sie die bisherige Frage und Antwort. Prüfen Sie, ob beides für Menschen ohne Vorwissen verständlich ist.
+2. Ändern Sie Text, Sprache oder Reihenfolge. Über die Sichtbarkeit können Sie eine Frage aus der Anzeige nehmen.
+3. Speichern Sie und prüfen Sie die Rückmeldung. Frühere Änderungen aus dem Studio finden Sie in der Historie.
 
-- Das FAQ-Plugin ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-
-## Das können Sie hier tun
-
-- Frage, Antwort, Sprache und Reihenfolge aktualisieren.
-- Sichtbarkeit und Veröffentlichung ändern.
-- Die Studio-Historie prüfen.
-- Die FAQ nach Bestätigung dauerhaft löschen.
-
-## Wichtige Hinweise
-
-- Die Historie zeigt nur Änderungen, die über das Studio erfolgt sind.
-- Prüfen Sie vor dem Löschen, ob Unsichtbarschalten fachlich ausreicht; Löschen kann nicht rückgängig gemacht werden.
+Wenn die Frage nicht mehr gebraucht wird, prüfen Sie zuerst, ob das Ausblenden ausreicht. **Löschen** entfernt die Frage dauerhaft und kann nicht rückgängig gemacht werden. Dafür benötigen Sie die entsprechende Berechtigung.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

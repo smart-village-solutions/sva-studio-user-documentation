@@ -10,7 +10,8 @@ erklärt die zugrunde liegenden Begriffe.
    Kontodaten und weisen Sie vorzugsweise passende Gruppen zu. Direkte Rollen können
    Sonderfälle ergänzen.
 3. Öffnen Sie die [Benutzerdetails](/pages/admin.users.detail), um Gruppen, Rollen und
-   Organisationsmitgliedschaften sowie die wirksamen Berechtigungsquellen zu prüfen.
+   Organisationszuordnungen zu prüfen. Dort sehen Sie auch, welche Berechtigungen für
+   das Konto tatsächlich gelten.
 4. Wenn ein Fachbereich fehlt, prüfen Sie zusätzlich die [Modulzuweisung](/pages/modules.overview)
    der Instanz. Ein aktives Modul allein gewährt noch keine Aktion.
 

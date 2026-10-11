@@ -8,7 +8,7 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die administrative Detailseite zeigt Beteiligte, Status, Blocker und Metadaten eines Datenschutzfalls.
+Hier lesen Sie den Stand einer Datenschutzanfrage nach, etwa zu einer Auskunft oder Berichtigung.
 
 ## Voraussetzungen
 
@@ -16,18 +16,16 @@ Die administrative Detailseite zeigt Beteiligte, Status, Blocker und Metadaten e
 - Sie besitzen Zugriff auf den Datenschutz-Tab.
 - Der Fall wurde aus der administrativen Datenschutzliste geöffnet.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Falltyp sowie kanonischen und rohen Status prüfen.
-- Betroffene und anfragende Person vergleichen.
-- Erstellungs- und Abschlusszeit nachvollziehen.
-- Blocker und Metadaten für die weitere fachliche Bearbeitung prüfen.
+1. Öffnen Sie den Fall aus dem Reiter **Datenschutz** im IAM-Cockpit.
+2. Prüfen Sie Art und Status der Anfrage sowie die anfragende und die betroffene Person.
+3. Lesen Sie die Zeitpunkte und angezeigten Hindernisse. Geben Sie diese Informationen an die zuständige Datenschutzstelle weiter, falls eine Bearbeitung nötig ist.
 
 ## Wichtige Hinweise
 
-- Mögliche Typen sind Anfrage, Export, rechtliche Sperre, Profilkorrektur und Empfängerbenachrichtigung.
-- Die aktuelle Detailseite ist eine Prüfsicht und bietet keine sichtbare Bearbeitungsaktion.
-- Diese administrative Sicht ist von den eigenen Datenschutzvorgängen unter Mein Konto zu unterscheiden.
+- Diese Seite ist eine Prüfansicht und bietet derzeit keine Aktion zur Bearbeitung des Falls.
+- Eigene Datenschutzanfragen sehen Personen unter **Mein Konto**.
 
 ## Weiterführende Hilfe
 

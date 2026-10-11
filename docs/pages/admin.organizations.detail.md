@@ -8,25 +8,24 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Detailseite verbindet Organisationsstammdaten, Hierarchie, Mainserver-Anbindung und Mitgliedschaften.
+Hier pflegen Sie Angaben und Mitglieder einer Organisation und prüfen ihre Anbindung an weitere Studio-Dienste.
 
 ## Voraussetzungen
 
 - Die Organisation ist vorhanden.
 - Für Änderungen besitzen Sie Organisations- und Mitgliedschaftsrechte.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Name, Typ, Parent und Autoren-Policy bearbeiten.
-- Mainserver Application-ID und Secret pflegen oder Provisionierung prüfen.
-- Accounts zuweisen, entfernen und einen Default-Kontext setzen.
-- Die Organisation aktivieren, deaktivieren oder löschen.
+1. Prüfen Sie Name, Typ, übergeordnete Organisation und Status. Ändern Sie die gewünschten Angaben und speichern Sie.
+2. Öffnen Sie **Mitgliedschaften**, um Personen hinzuzufügen oder zu entfernen. Legen Sie bei Bedarf fest, ob die Organisation für eine Person der bevorzugte Arbeitsbereich ist.
+3. Prüfen Sie die Anbindung an den Mainserver nur, wenn Ihre Einrichtung diesen Dienst nutzt. Die technischen Zugangsdaten erhalten Sie von Ihrer Administration.
+4. Kontrollieren Sie die Rückmeldung nach jeder Änderung.
 
 ## Wichtige Hinweise
 
-- Gespeicherte Secrets werden nicht angezeigt; ein leeres Secret-Feld behält den vorhandenen Wert.
-- Kindorganisationen verhindern das Löschen.
-- Löschen entfernt Mitgliedschaften und organisationsgebundene Credentials.
+- Ein gespeichertes Secret wird aus Sicherheitsgründen nicht erneut angezeigt. Ein leeres Secret-Feld lässt den bisherigen Wert bestehen.
+- Eine Organisation mit untergeordneten Organisationen kann nicht gelöscht werden. Beim Löschen entfallen ihre Mitgliedschaften und Zugangsdaten.
 
 ## Weiterführende Hilfe
 

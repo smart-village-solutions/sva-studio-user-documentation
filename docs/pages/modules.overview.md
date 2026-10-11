@@ -6,28 +6,19 @@ pageType: overview
 
 # Module
 
-## Wofür ist diese Seite gedacht?
+Ein Modul schaltet einen Fachbereich für eine Instanz frei. Zusätzlich bestimmen Ihre Rollen und Berechtigungen, welche Aktionen Sie dort ausführen dürfen.
 
-Hier prüfen Sie aktive Fachmodule oder verwalten Modulzuweisungen einer Instanz.
+## Module ansehen
 
-## Voraussetzungen
+Öffnen Sie **Module** und prüfen Sie die angezeigten Einträge und ihren Status. In der Ansicht für eine einzelne Instanz sehen Sie zugewiesene, nicht zugewiesene und gegebenenfalls nicht mehr verfügbare Module. Ein zugewiesenes Modul kann noch als inaktiv oder nicht bereit angezeigt werden; lesen Sie dazu den Hinweis am Eintrag.
 
-- Für die Verwaltungsansicht benötigen Sie Instanz- und Modulrechte.
-- Für die reine Tenantansicht muss ein Instanzkontext aktiv sein.
+## Zuweisungen verwalten
 
-## Das können Sie hier tun
+Mit Verwaltungsrechten wählen Sie zuerst eine Instanz aus. Prüfen Sie dann die verfügbaren Module und wählen Sie **Modul zuweisen** oder **Modul entziehen** beim richtigen Eintrag. Lesen Sie Bestätigungen und Statusmeldungen vollständig. Das Entziehen kann die Nutzung des Fachbereichs und zugehörige Berechtigungen für diese Instanz beenden. Bei unvollständiger Einrichtung kann die Administration weitere angebotene Aktionen zur Berechtigungsgrundlage ausführen.
 
-- Aktive und inaktive Module mit Beschreibung ansehen.
-- In der Plattformansicht eine Instanz auswählen und Module zuweisen oder entziehen.
-- Die IAM-Basis neu aufbauen oder die Tenant-Admin-Struktur initialisieren.
-
-## Wichtige Hinweise
-
-- Ein Modul schaltet einen Fachbereich frei; Rollen und Berechtigungen steuern die erlaubten Aktionen darin.
-- Beim Entziehen eines Moduls werden die zugehörige Berechtigungs- und IAM-Basis entfernt.
+Wenn eine Schaltfläche fehlt oder deaktiviert ist, prüfen Sie Rechte, Modulstatus und laufende Aufgaben. Fragen Sie bei Unsicherheit die Administration, bevor Sie ein genutztes Modul entziehen.
 
 ## Weiterführende Hilfe
 
 - [Instanz bearbeiten](/pages/admin.instances.detail)
 - [Rollen verwalten](/pages/admin.roles.list)
-- [Seitenübergreifende Anleitungen](/guides/)

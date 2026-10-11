@@ -6,31 +6,21 @@ pageType: detail
 
 # Inhalt bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Diese Seite gehört zu einem **allgemeinen Inhalt**. Für Nachrichten, Veranstaltungen und andere Fachtypen gibt es eigene Bearbeitungsseiten.
 
-Hier bearbeiten Sie Kernmetadaten und freie Zusatzdaten eines generischen Inhalts.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Prüfen Sie Überschrift und Status des Inhalts.
+2. Bearbeiten Sie die Angaben, für die Sie zuständig sind. Das Feld für Zusatzdaten erwartet JSON, also Daten in einer festgelegten Textform. Ändern Sie es nur, wenn Ihnen die erforderliche Struktur bekannt ist.
+3. Prüfen Sie das Veröffentlichungsdatum, wenn der Inhalt veröffentlicht werden soll.
+4. Speichern Sie und achten Sie auf die Rückmeldung im Formular.
 
-- Der Inhalt ist vorhanden und für Sie mindestens lesbar.
-- Zum Speichern benötigen Sie Schreibrechte im aktuellen Ressourcen- und Organisationskontext.
+Nach dem ersten Speichern können Sie frühere Änderungen in der Historie ansehen. Wenn Revisionen verfügbar sind und Sie die nötigen Rechte haben, können Sie einen älteren Stand wiederherstellen. Prüfen Sie danach den aktuellen Inhalt erneut.
 
-## Das können Sie hier tun
-
-- Überschrift, Status und Veröffentlichungsdatum pflegen.
-- Freie Zusatzdaten als gültiges JSON bearbeiten.
-- Metadaten und Änderungshistorie prüfen.
-- Vorhandene Revisionen ansehen und bei ausreichender Berechtigung wiederherstellen.
-
-## Wichtige Hinweise
-
-- Veröffentlichte Inhalte benötigen ein gültiges Veröffentlichungsdatum in der Fachzeitzone Europe/Berlin.
-- Bei nur lesbarem oder ungeklärtem Autorenkontext bleiben Felder und Speichern deaktiviert.
-- Historie und Revisionen stehen erst nach dem ersten Speichern zur Verfügung.
+Sind die Felder deaktiviert, haben Sie möglicherweise nur Leserechte oder Ihre Schreibberechtigung konnte nicht geklärt werden. Ein veröffentlichtes Element braucht ein gültiges Veröffentlichungsdatum.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)
 - [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
-- [Seitenübergreifende Anleitungen](/guides/)

@@ -8,6 +8,27 @@ const catalog = JSON.parse(
   readFileSync(resolve(import.meta.dirname, '../../catalog.json'), 'utf8')
 ) as Catalog;
 
+const pageTitle = (id: string): string => {
+  const content = readFileSync(resolve(import.meta.dirname, `../pages/${id}.md`), 'utf8');
+  const title = content.match(/^title: (.+)$/m)?.[1];
+  if (!title) throw new Error(`Titel fehlt für Dokumentationsseite ${id}`);
+  return title;
+};
+
+const pageSection = (id: string): string => {
+  if (id === 'home.overview' || id.startsWith('account.')) return 'Start und Konto';
+  if (id.startsWith('admin.')) return 'Verwaltung';
+  if (
+    ['content.', 'news.', 'events.', 'faq.', 'poi.', 'projects.', 'surveys.',
+      'generic-items.', 'cockpit-cards.', 'host.media.', 'media.'].some((prefix) =>
+      id.startsWith(prefix)
+    )
+  ) return 'Inhalte und Medien';
+  return 'Weitere Bereiche';
+};
+
+const pageSections = ['Start und Konto', 'Inhalte und Medien', 'Verwaltung', 'Weitere Bereiche'];
+
 export default defineConfig({
   base: process.env.DOCS_BASE_PATH ?? '/sva-studio-user-documentation/',
   lang: 'de-DE',
@@ -37,13 +58,13 @@ export default defineConfig({
           { text: 'Inhalte und Veröffentlichung', link: '/concepts/inhalte-und-veroeffentlichung' },
         ] },
       ],
-      '/pages/': [
-        {
-          text: 'Studio-Seiten',
-          collapsed: false,
-          items: catalog.pages.map((page) => ({ text: page.id, link: `/pages/${page.id}` })),
-        },
-      ],
+      '/pages/': pageSections.map((section) => ({
+        text: section,
+        collapsed: true,
+        items: catalog.pages
+          .filter((page) => pageSection(page.id) === section)
+          .map((page) => ({ text: pageTitle(page.id), link: `/pages/${page.id}` })),
+      })),
     },
   },
 });

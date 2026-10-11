@@ -8,7 +8,7 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Detailseite zeigt Status, Beteiligte, Ticketbezug und Metadaten eines Governance-Falls.
+Hier lesen Sie einen Prüffall zu einer Rechteänderung oder einem anderen sicherheitsrelevanten Vorgang nach.
 
 ## Voraussetzungen
 
@@ -16,17 +16,15 @@ Die Detailseite zeigt Status, Beteiligte, Ticketbezug und Metadaten eines Govern
 - Sie besitzen Zugriff auf den Governance-Tab.
 - Der Fall wurde aus der Governance-Liste geöffnet.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Falltyp und Status prüfen.
-- Auslösende und betroffene Person vergleichen.
-- Ticket, Zusammenfassung und Zeitstempel nachvollziehen.
-- Fallmetadaten für die weitere fachliche Prüfung verwenden.
+1. Öffnen Sie den Fall aus der Liste im IAM-Cockpit.
+2. Prüfen Sie Art, Status, Zeitpunkt sowie auslösende und betroffene Person.
+3. Lesen Sie Zusammenfassung und gegebenenfalls die zugehörige Ticketnummer. Nutzen Sie diese Angaben für die weitere Prüfung mit den zuständigen Stellen.
 
 ## Wichtige Hinweise
 
-- Mögliche Typen sind Rechteänderung, Delegation, Impersonation und Rechtstext-Akzeptanz.
-- Die aktuelle Detailseite ist eine Prüfsicht und bietet keine sichtbare Statusänderung.
+- Die Seite zeigt Informationen zur Prüfung. Sie bietet derzeit keine Aktion zum Ändern des Fallstatus.
 
 ## Weiterführende Hilfe
 

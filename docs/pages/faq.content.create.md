@@ -4,29 +4,20 @@ title: FAQ anlegen
 pageType: create
 ---
 
-# FAQ anlegen
+# Häufige Frage anlegen
 
-## Wofür ist diese Seite gedacht?
+Mit einer häufigen Frage (FAQ) geben Sie eine kurze, direkt auffindbare Antwort auf eine wiederkehrende Frage.
 
-Hier pflegen Sie eine häufige Frage mit Antwort und Veröffentlichungsmerkmalen.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Tragen Sie die Frage so ein, wie Nutzerinnen und Nutzer sie stellen würden.
+2. Schreiben Sie eine klare Antwort ohne HTML-Code. Erklären Sie Fachwörter und verlinken Sie bei längeren Themen auf eine ausführliche Anleitung.
+3. Wählen Sie die Sprache und legen Sie bei Bedarf die Reihenfolge fest.
+4. Prüfen Sie Sichtbarkeit und Veröffentlichungszeitpunkt, bevor Sie speichern.
 
-- Das FAQ-Plugin ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-
-## Das können Sie hier tun
-
-- Frage und Klartextantwort eingeben.
-- Einen gültigen BCP-47-Sprachcode festlegen.
-- Sortiergewicht, Sichtbarkeit und Veröffentlichungszeitpunkt setzen.
-
-## Wichtige Hinweise
-
-- Frage und Antwort sind erforderlich.
-- Das Sortiergewicht muss eine ganze Zahl sein.
+Frage und Antwort sind Pflichtfelder. Das **Sortiergewicht** steuert die Reihenfolge und muss eine ganze Zahl sein. Der Sprachcode bezeichnet die Sprache, zum Beispiel `de` für Deutsch.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

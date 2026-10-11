@@ -11,9 +11,9 @@ Sie benötigen ein aktives Inhaltsmodul und die Rechte für den jeweiligen Inhal
    [Nachricht](/pages/news.content.create) oder [Veranstaltung](/pages/events.content.create).
 4. Öffnen Sie den gespeicherten Inhalt über die Liste erneut. Die jeweilige Detailseite
    beschreibt die bearbeitbaren Felder und Hinweise, etwa für [generische Inhalte](/pages/content.detail).
-5. Prüfen Sie vor einer Veröffentlichung Status, Datum und die angezeigten Angaben.
-   Für generische veröffentlichte Inhalte ist ein gültiges
-   Veröffentlichungsdatum in Europe/Berlin nötig.
+5. Prüfen Sie vor dem Speichern die angezeigten Angaben. Beachten Sie die Hinweise des
+   jeweiligen Formulars zu Sichtbarkeit und Veröffentlichungsdaten. Wenn Sie einen
+   allgemeinen Inhalt als „veröffentlicht“ speichern, ist ein Veröffentlichungsdatum nötig.
 
 Wenn Speichern nicht angeboten wird, prüfen Sie Ihre Rechte und den aktuellen Kontext.
 Die [Grundbegriffe zu Inhalten und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

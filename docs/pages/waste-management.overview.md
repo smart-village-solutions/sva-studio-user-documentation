@@ -6,34 +6,20 @@ pageType: overview
 
 # Abfallkalender
 
-## Wofür ist diese Seite gedacht?
+Im Abfallkalender pflegen Sie die Daten, aus denen Abholtermine entstehen. Eine **Tour** beschreibt, wann eine bestimmte Abfallart an zugeordneten Abholorten abgeholt wird.
 
-Der Abfallkalender bündelt Stammdaten, Touren, Abholorte, Terminverschiebungen, Ausgabe und Werkzeuge des Abfallmanagements.
+## Einen Termin prüfen oder ändern
 
-## Voraussetzungen
+1. Wählen Sie den passenden Bereich, zum Beispiel Abfallarten, Touren oder Abholorte.
+2. Suchen Sie den betroffenen Eintrag und prüfen Sie seine Zuordnungen. Ein Abholort kann von mehreren Touren betroffen sein.
+3. Ändern Sie Termine oder Zuordnungen nur, wenn Sie die Auswirkungen auf die Ausgabe geprüft haben.
+4. Kontrollieren Sie anschließend den betroffenen Abholort und, falls verfügbar, die PDF-Ausgabe für das gewünschte Jahr.
 
-- Das Modul waste-management ist der Instanz zugewiesen.
-- Sie besitzen mindestens waste-management.read; einzelne Änderungen benötigen zusätzliche Fachrechte.
-- Die Abfall-Datenquelle ist für die Instanz konfiguriert.
+Weitere Bereiche bieten Terminverschiebungen, Datenwerkzeuge, Einstellungen sowie technische und Änderungsverläufe. Welche Registerkarten und Aktionen Sie sehen, hängt von Ihren Rechten und der eingerichteten Datenquelle ab. Eine sichtbare Registerkarte bedeutet nicht automatisch, dass Sie dort schreiben dürfen.
 
-## Das können Sie hier tun
-
-- Abfallarten und Behältermerkmale pflegen.
-- Touren und ihre Termine verwalten.
-- Regionen, Orte, Straßen, Hausnummern und konkrete Abholorte bearbeiten.
-- Globale oder tourbezogene Ausweichtermine prüfen.
-- PDF-Ausgaben pro Abholort und Jahr erzeugen.
-- Datentools, Einstellungen sowie technische und Audit-Historie verwenden.
-
-## Wichtige Hinweise
-
-- Nicht jede sichtbare Registerkarte gewährt automatisch Schreibrechte.
-- Einige Bereiche können je nach Ausbau- oder Laufzeitstand nur Hinweise oder eingeschränkte Funktionen zeigen.
-- Die Einstellungen bleiben gezielt erreichbar, wenn die Datenquelle einen Fehler meldet.
-- Prüfen Sie vor Änderungen die Beziehungen zwischen Abfallart, Tour, Termin und Abholort.
+Wenn eine Datenquelle einen Fehler meldet, können die Einstellungen weiterhin erreichbar sein. Lassen Sie vor größeren Änderungen die Beziehungen zwischen Abfallart, Tour, Termin und Abholort fachlich prüfen.
 
 ## Weiterführende Hilfe
 
 - [Schnittstellen](/pages/interfaces.overview)
 - [Module](/pages/modules.overview)
-- [Seitenübergreifende Anleitungen](/guides/)

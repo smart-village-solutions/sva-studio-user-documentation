@@ -6,32 +6,19 @@ pageType: detail
 
 # Ort bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Nutzen Sie diese Seite, wenn sich zum Beispiel Öffnungszeiten, Kontakt oder Adresse eines Ortes geändert haben.
 
-Hier pflegen Sie einen Ort mit Beschreibung, Lage, Kontakt und Öffnungszeiten.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Prüfen Sie Name, Beschreibung, Kategorie und Aktivstatus.
+2. Ändern Sie Adresse oder Kartenposition. Wenn Sie die automatische Umrechnung nutzen, vergleichen Sie das Ergebnis mit der tatsächlichen Lage.
+3. Aktualisieren Sie Öffnungszeiten, Links, Preise, Barrierefreiheit und Bilder.
+4. Speichern Sie und prüfen Sie die Rückmeldung. In der Historie sehen Sie Änderungen, die über das Studio erfolgt sind.
 
-- Das Orte-Modul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Stammdaten und strukturierte Fachbereiche aktualisieren.
-- Adresse geocodieren oder Koordinaten rückwärts auflösen.
-- Mehrere Öffnungszeiten, Links, Preise und Medien verwalten.
-- Historie prüfen oder den Ort löschen.
-
-## Wichtige Hinweise
-
-- Kartenaktionen benötigen eine konfigurierte Karten- und Geocoding-Schnittstelle.
-- Prüfen Sie nach Kartenänderungen, ob Adresse und Koordinaten weiterhin zusammenpassen.
-- Die Historie enthält nur Studio-Änderungen.
+Die Kartenumrechnung steht nur bereit, wenn die Kartenfunktionen eingerichtet sind. Ein falscher Kartenpunkt kann dazu führen, dass Menschen den Ort nicht finden. Prüfen Sie ihn daher besonders sorgfältig.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
 - [Veranstaltung bearbeiten](/pages/events.content.detail)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

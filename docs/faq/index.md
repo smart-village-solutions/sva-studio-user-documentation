@@ -15,5 +15,7 @@ oder wenden Sie sich an Ihre Administration.
 
 ## Warum sehe ich im Studio keine Hilfe?
 
-Die Anwenderdokumentation wird unabhängig vom Studio veröffentlicht. Bei einer vorübergehenden
-Störung bleibt die jeweilige Studio-Seite weiterhin vollständig nutzbar.
+Die Hilfe wird beim Öffnen aus der separat veröffentlichten Dokumentation geladen.
+Wenn stattdessen eine Fehlermeldung erscheint, wählen Sie **Erneut versuchen**.
+Sie können die [Anleitungen](/guides/) und [Konzepte](/concepts/) auch direkt auf dieser
+Website lesen. Die jeweilige Studio-Seite bleibt bei einer Störung der Hilfe nutzbar.

@@ -8,25 +8,25 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Rollendetails trennen Metadaten, Berechtigungen, direkte Zuweisungen und Keycloak-Synchronisation.
+Hier prüfen Sie, was eine Rolle erlaubt, und wem sie direkt zugewiesen ist.
 
 ## Voraussetzungen
 
 - Die Rolle ist vorhanden.
 - Für Änderungen besitzen Sie Rollen- und Zuweisungsrechte.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Allgemeine Metadaten bearbeiten.
-- Berechtigungen suchen, einzeln oder gesammelt zuweisen und ihren Scope wählen.
-- Direkte Benutzerzuweisungen hinzufügen oder entfernen.
-- Den Keycloak-Metadatenstatus und mögliche Reconcile-Aktionen prüfen.
+1. Prüfen Sie unter **Allgemein** Namen und Beschreibung.
+2. Suchen Sie unter **Berechtigungen** die gewünschte Aufgabe. Wählen Sie die Berechtigung und ihren Geltungsbereich und speichern Sie die Änderungen.
+3. Prüfen Sie unter **Zuweisungen**, welche Personen die Rolle direkt erhalten. Fügen Sie bei Bedarf eine Person hinzu oder entfernen Sie eine Zuweisung.
+4. Unter **Synchronisation** sehen Sie, ob die Rollenangaben mit dem Anmeldesystem übereinstimmen.
 
 ## Wichtige Hinweise
 
-- Systemrollen und extern verwaltete Rollen bleiben schreibgeschützt.
-- Keycloak-Synchronisation betrifft Rollenmetadaten; lokale Berechtigungen und Zuweisungen bleiben im Studio.
-- Löschen entfernt auch bestehende Benutzer- und Gruppenzuordnungen dieser Rolle.
+- Systemrollen und extern verwaltete Rollen können hier nur angesehen werden.
+- Änderungen an Berechtigungen wirken auf alle Personen, die diese Rolle direkt oder über eine Gruppe haben. Prüfen Sie deshalb die Zuweisungen vor dem Speichern.
+- Beim Löschen einer eigenen Rolle entfallen auch ihre Zuordnungen zu Personen und Gruppen.
 
 ## Weiterführende Hilfe
 

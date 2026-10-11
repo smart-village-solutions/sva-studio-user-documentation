@@ -8,24 +8,24 @@ pageType: create
 
 ## Wofür ist diese Seite gedacht?
 
-Hier erstellen Sie ein wiederverwendbares Rollenbündel für die aktuelle Instanz.
+Hier legen Sie eine Gruppe an. Über eine Gruppe können mehrere Personen später dieselben Rollen erhalten.
 
 ## Voraussetzungen
 
-- Eine Instanz ist aktiv.
+- Sie arbeiten in der gewünschten Instanz.
 - Sie besitzen das Recht, Gruppen anzulegen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Einen dauerhaften technischen Gruppenschlüssel festlegen.
-- Anzeigename und Beschreibung erfassen.
-- Die fachlich zusammengehörenden Rollen auswählen.
-- Die Gruppe speichern und anschließend Mitgliedschaften pflegen.
+1. Öffnen Sie **Gruppen** und wählen Sie **Gruppe anlegen**.
+2. Tragen Sie einen eindeutigen Gruppenschlüssel, einen verständlichen Namen und bei Bedarf eine Beschreibung ein.
+3. Wählen Sie **Anlegen**. Die neue Gruppe öffnet sich.
+4. Ergänzen Sie dort Rollen und Mitglieder.
 
 ## Wichtige Hinweise
 
 - Der technische Schlüssel sollte stabil und eindeutig sein.
-- Mitgliedschaften werden nach der Anlage in der Detailansicht verwaltet.
+- Beim Anlegen werden noch keine Rollen oder Mitglieder ausgewählt. Eine leere Gruppe verleiht niemandem Rechte.
 
 ## Weiterführende Hilfe
 

@@ -6,28 +6,18 @@ pageType: list
 
 # Aufträge überwachen
 
-## Wofür ist diese Seite gedacht?
+Diese Liste zeigt Hintergrundaufträge, zum Beispiel Arbeiten eines Fachmoduls.
 
-Die Jobliste zeigt laufende und historische Plugin-Operations-Aufträge.
+## Einen Auftrag finden
 
-## Voraussetzungen
+1. Öffnen Sie **Systemüberwachung** und wählen Sie **Aufträge überwachen**.
+2. Wechseln Sie zwischen aktiven Aufträgen und der Historie.
+3. Suchen Sie nach Auftrags-ID oder Zusammenhangs-ID, wenn Sie eine Kennung erhalten haben. Sie können auch nach Status, Modul und Art des Auftrags filtern.
+4. Prüfen Sie Status, Fortschritt und letztes Ereignis. Öffnen Sie den Auftrag für Einzelheiten.
 
-- Sie besitzen Leserechte für Monitoring-Jobs.
-
-## Das können Sie hier tun
-
-- Zwischen aktiven Jobs und Historie wechseln.
-- Nach Job-ID oder Korrelation suchen.
-- Nach Status, Plugin und Jobtyp filtern.
-- Fortschritt und letztes Ereignis prüfen und einen Job öffnen.
-
-## Wichtige Hinweise
-
-- Statuswerte sind eingeplant, läuft, erneuter Versuch, erfolgreich, fehlgeschlagen und abgebrochen.
-- Eine Korrelation oder Job-ID erleichtert die Zuordnung in Supportfällen.
+**Eingeplant** bedeutet, dass die Arbeit noch wartet. **Läuft** zeigt aktuelle Verarbeitung. **Erneuter Versuch** bedeutet, dass das Studio nach einem Problem nochmals startet. **Erfolgreich**, **Fehlgeschlagen** und **Abgebrochen** bezeichnen beendete Aufträge. Eine Warnung zu ausbleibender Aktivität ist ein Hinweis zur Prüfung, kein sicherer Fehlernachweis.
 
 ## Weiterführende Hilfe
 
 - [Auftragsdetails](/pages/monitoring.job-detail)
 - [Systemüberwachung](/pages/monitoring.overview)
-- [Seitenübergreifende Anleitungen](/guides/)

@@ -1,24 +1,25 @@
 ---
 id: ssf.tenant-configuration
-title: Hilfeseite für ssf.tenant-configuration (TODO)
+title: SSF für eine Instanz konfigurieren
 pageType: setup
-status: draft
 ---
 
-# Hilfeseite für ssf.tenant-configuration (TODO)
+# SSF für eine Instanz konfigurieren
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+Hier sehen Sie die SSF-Inhalte für Ihre Instanz. Eine Instanz ist der Arbeitsbereich Ihrer Organisation. Gemeinsame Vorgaben können Sie bei entsprechender Berechtigung für diesen Arbeitsbereich anpassen.
 
-## Zweck
+## Inhalte anpassen
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+1. Wählen Sie die richtige Instanz und öffnen Sie **SSF-Konfiguration**.
+2. Prüfen Sie im Reiter **Inhalte V2** die übernommenen Vorgaben für Logo, Mitarbeitendentexte, Gastsprachen, Rückmeldung und Speicherung von Gesprächsinhalten.
+3. Ändern Sie nur die Angaben, die für Ihre Instanz abweichen sollen. Ein Hinweis am Feld zeigt, ob der Wert vom **Systemstandard** stammt oder ein **Mandantenwert** ist. Mit **Systemstandard verwenden** stellen Sie die gemeinsame Vorgabe für dieses Feld wieder her.
+4. Wählen Sie **Änderungen speichern** und prüfen Sie die Bestätigung. Bei einer Fehlermeldung kontrollieren Sie die markierten Angaben.
 
-## Vorgehen
+Wenn keine gemeinsame Vorlage eingerichtet ist, zeigt die Seite einen entsprechenden Hinweis. Bitten Sie in diesem Fall die Systemadministration, zuerst die [SSF-Standards](/pages/ssf.system-configuration) einzurichten. Ohne Bearbeitungsrecht können Sie die Angaben ansehen, aber nicht speichern.
 
-1. Arbeiten Sie die angezeigten Einrichtungsschritte in ihrer Reihenfolge ab.
-2. Prüfen Sie Angaben und Verbindungen vor dem Abschluss.
-3. Schließen Sie die Einrichtung ab und kontrollieren Sie den Status.
+**Verwerfen** stellt den zuletzt gespeicherten Stand wieder her. Der Reiter **Bisherige Konfiguration** enthält ältere Einstellungen; die hier beschriebenen Inhalte stehen unter **Inhalte V2**.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [SSF-Standards einrichten](/pages/ssf.system-configuration)
+- [Seitenübergreifende Anleitungen](/guides/)

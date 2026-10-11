@@ -6,32 +6,21 @@ pageType: detail
 
 # Veranstaltung bearbeiten
 
-## Wofür ist diese Seite gedacht?
+Hier aktualisieren Sie eine vorhandene Veranstaltung, etwa wenn sich Uhrzeit oder Ort ändern.
 
-Hier erfassen Sie eine Veranstaltung mit Termin, Ort, Kontakt und Veröffentlichung.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Vergleichen Sie Titel, Beschreibung und Termine mit den aktuellen Veranstaltungsdaten.
+2. Prüfen Sie Ort, Adresse und Kontakt. Die Kartenfunktion kann eine Adresse in Kartenkoordinaten umwandeln oder umgekehrt. Kontrollieren Sie das Ergebnis immer selbst.
+3. Passen Sie weitere Angaben und Bilder an. Speichern Sie und lesen Sie die Rückmeldung.
+4. Sehen Sie bei Bedarf in die Historie; sie enthält Änderungen aus dem Studio.
 
-- Das Veranstaltungsmodul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein persönlicher oder organisatorischer Mainserver-Schreibkontext ist verfügbar.
+Falls ein Fehler bei Bildern gemeldet wird, kann die Veranstaltung bereits gespeichert sein. Prüfen Sie die Bildverknüpfungen gesondert. Kartenfunktionen stehen nur zur Verfügung, wenn sie für Ihre Arbeitsumgebung eingerichtet sind.
 
-## Das können Sie hier tun
-
-- Bestehende Basis-, Termin-, Orts- und Kontaktdaten aktualisieren.
-- Adresse geocodieren oder Koordinaten in eine Adresse übersetzen.
-- Historie und DataProvider prüfen.
-- Medienreferenzen erneut speichern oder die Veranstaltung löschen.
-
-## Wichtige Hinweise
-
-- Kartenfunktionen benötigen eine aktive Karten- und Geocoding-Schnittstelle.
-- Die Historie enthält ausschließlich Änderungen aus dem Studio.
-- Ein gespeicherter Inhalt kann bei einem Medienfehler noch unvollständige Referenzen besitzen.
+Vor dem Löschen sollten Sie prüfen, ob die Veranstaltung lediglich ausgeblendet werden soll.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Orte bearbeiten](/pages/poi.content.detail)
+- [Ort bearbeiten](/pages/poi.content.detail)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)

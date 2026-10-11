@@ -8,23 +8,23 @@ pageType: detail
 
 ## Wofür ist diese Seite gedacht?
 
-Die Detailseite bearbeitet Inhalt und Metadaten einer konkreten Rechtstextversion.
+Hier prüfen und bearbeiten Sie eine bestimmte Fassung eines rechtlichen Textes.
 
 ## Voraussetzungen
 
 - Die Rechtstextversion ist vorhanden.
 - Sie besitzen das Recht, diese Version zu ändern oder zu löschen.
 
-## Das können Sie hier tun
+## So gehen Sie vor
 
-- Inhalt, Sprache, Status und Veröffentlichung prüfen.
-- Zielrollen und Zielgruppen aktualisieren.
-- Die Fassung speichern oder nach bestätigter Prüfung dauerhaft löschen.
+1. Prüfen Sie Name, Version, Sprache, Inhalt, Status und Veröffentlichungszeitpunkt.
+2. Ändern Sie bei Bedarf Inhalt oder Zielgruppen und speichern Sie. Kontrollieren Sie die Rückmeldung.
+3. Wenn eine Fassung nicht mehr verwendet werden soll, klären Sie zuerst, ob **Archiviert** passend ist. Beim Löschen fordert Studio eine Bestätigung an.
 
 ## Wichtige Hinweise
 
-- Klären Sie vor einer Änderung an einer gültigen Fassung, ob stattdessen eine neue Version erforderlich ist.
-- Beim Löschen der Version bleiben bereits dokumentierte Akzeptanzen bestehen.
+- Eine Änderung an einer bereits gültigen Fassung kann die Bedeutung früherer Zustimmungen verändern. Stimmen Sie ab, ob eine neue Version nötig ist.
+- Beim Löschen der Fassung bleiben bereits dokumentierte Akzeptanzen bestehen.
 
 ## Weiterführende Hilfe
 

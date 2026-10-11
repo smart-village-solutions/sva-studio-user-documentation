@@ -1,24 +1,33 @@
 ---
 id: admin.templates
-title: Hilfeseite für admin.templates (TODO)
+title: Standardvorlage für Konto-Einladungen
 pageType: detail
-status: draft
 ---
 
-# Hilfeseite für admin.templates (TODO)
+# Standardvorlage für Konto-Einladungen
 
-> Diese Seite wurde nach einem Studio-Merge automatisch angelegt und muss vor dem Merge dieses Dokumentations-PR redaktionell vervollständigt werden.
+## Wofür ist diese Seite gedacht?
 
-## Zweck
+Hier bestimmen Sie den Standardtext der E-Mail, mit der neue Personen zur Einrichtung ihres Kontos eingeladen werden. Die Einstellung gilt für die Studio-Installation, soweit eine Instanz keine eigene Vorlage verwendet.
 
-TODO: Beschreiben Sie, wofür Anwenderinnen und Anwender diese Studio-Seite verwenden.
+## Voraussetzungen
 
-## Vorgehen
+- Sie sind zur Verwaltung der installationsweiten Vorlage berechtigt.
+- Klären Sie den gewünschten Wortlaut mit den Verantwortlichen für Kommunikation und Datenschutz.
 
-1. Prüfen Sie die angezeigten Details und den aktuellen Status.
-2. Ändern Sie die gewünschten Angaben oder Zuordnungen.
-3. Speichern Sie und kontrollieren Sie die Rückmeldung des Studios.
+## So gehen Sie vor
+
+1. Prüfen Sie unter **Ziel nach dem Passwortsetzen**, ob die Einladung zum Studio oder zu KasselDIALOG führen soll. Speichern Sie eine Änderung gesondert.
+2. Wählen Sie **Account-Einladung anpassen** und bearbeiten Sie Betreff, Nachricht sowie die Beschriftungen der beiden Links.
+3. Lassen Sie die benötigten Platzhalter im Text stehen. Der Passwortlink muss genau einmal vorkommen. Die Vorschau zeigt Beispielwerte.
+4. Speichern Sie die Vorlage und prüfen Sie die Rückmeldung. Mit **Zurücksetzen** stellen Sie nach Bestätigung die mitgelieferte Standardvorlage wieder her.
+
+## Wichtige Hinweise
+
+- Die Vorschau verschickt keine E-Mail. Die Nachricht wird erst bei einer Einladung verwendet.
+- Falls jemand die Vorlage zwischenzeitlich geändert hat, lädt Studio den aktuellen Stand. Prüfen Sie ihn vor erneutem Speichern.
 
 ## Weiterführende Hilfe
 
-TODO: Ergänzen Sie passende Anleitungen oder fachliche Querverweise.
+- [Vorlage einer Instanz anpassen](/pages/admin.users.invitation-template)
+- [Benutzer anlegen](/pages/admin.users.create)

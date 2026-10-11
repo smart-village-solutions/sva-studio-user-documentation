@@ -6,31 +6,20 @@ pageType: create
 
 # Ort anlegen
 
-## Wofür ist diese Seite gedacht?
+Ein Ort beschreibt einen Platz oder eine Einrichtung, den andere Menschen finden oder besuchen können.
 
-Hier pflegen Sie einen Ort mit Beschreibung, Lage, Kontakt und Öffnungszeiten.
+## So gehen Sie vor
 
-## Voraussetzungen
+1. Geben Sie den Namen ein und wählen Sie passende Kategorien.
+2. Beschreiben Sie den Ort in einfachen Worten: Was finden Besucherinnen und Besucher dort?
+3. Tragen Sie Adresse und gegebenenfalls die Position auf der Karte ein. Prüfen Sie, ob beides zusammenpasst.
+4. Ergänzen Sie Öffnungszeiten, Kontakt, Links, Preise und Hinweise zur Barrierefreiheit, soweit bekannt.
+5. Fügen Sie Bilder hinzu und kontrollieren Sie den Aktivstatus vor dem Speichern.
 
-- Das Orte-Modul ist aktiv.
-- Sie besitzen das entsprechende Erstellungs- oder Änderungsrecht.
-- Ein Mainserver-Schreibkontext ist verfügbar.
-
-## Das können Sie hier tun
-
-- Name, Aktivstatus und Kategorien festlegen.
-- Beschreibungen, Kontakt und Betreiber erfassen.
-- Adresse, Karte und Koordinaten pflegen.
-- Öffnungszeiten, Links, Preise, Barrierefreiheit und Medien ergänzen.
-
-## Wichtige Hinweise
-
-- Der Name ist erforderlich; HTTPS-Links, Koordinaten und JSON werden validiert.
-- Trennen Sie Angaben zum Ort von Angaben zum Betreiber.
+Der Name ist erforderlich. Ein **Betreiber** kann eine andere Organisation sein als der Ort selbst; halten Sie die beiden Angaben auseinander. Links sollen mit `https://` beginnen.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
-- [Veranstaltung bearbeiten](/pages/events.content.detail)
+- [Veranstaltung anlegen](/pages/events.content.create)
 - [Medien verwalten](/pages/host.media.list)
-- [Seitenübergreifende Anleitungen](/guides/)
