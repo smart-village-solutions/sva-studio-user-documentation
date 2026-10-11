@@ -28,9 +28,11 @@ const pageSection = (id: string): string => {
 };
 
 const pageSections = ['Start und Konto', 'Inhalte und Medien', 'Verwaltung', 'Weitere Bereiche'];
+const base = process.env.DOCS_BASE_PATH ?? '/sva-studio-user-documentation/';
 
 export default defineConfig({
-  base: process.env.DOCS_BASE_PATH ?? '/sva-studio-user-documentation/',
+  base,
+  head: [['link', { rel: 'icon', href: `${base}favicon.ico` }]],
   lang: 'de-DE',
   title: 'SVA Studio Anwenderdokumentation',
   description: 'Aktuelle Anwenderdokumentation für das SVA Studio',
