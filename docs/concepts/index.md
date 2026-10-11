@@ -16,4 +16,4 @@ Wenn Sie eine konkrete Aufgabe erledigen möchten, nutzen Sie die [Anleitungen](
 - [Rechtstexte und Versionen](/concepts/rechtstexte-und-versionen)
 
 Das Fragezeichen auf einer Studio-Seite öffnet die Hilfe zu genau dieser Ansicht. Einen Überblick
-über diese Seiten finden Sie in der [Seitenhilfe](/pages/home.overview).
+über diese Seiten finden Sie in der [Seitenhilfe](/pages/).

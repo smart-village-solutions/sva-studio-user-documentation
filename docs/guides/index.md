@@ -1,7 +1,8 @@
 # Anleitungen
 
-Die Anleitungen führen Sie Schritt für Schritt durch häufige Aufgaben. Öffnen Sie auf einer
-Studio-Seite das Fragezeichen neben dem Seitentitel, wenn Sie Hilfe zu dieser Ansicht benötigen.
+Die Anleitungen führen Sie Schritt für Schritt durch Aufgaben, die oft mehrere Studio-Seiten
+umfassen. Eine Erklärung der gerade geöffneten Ansicht finden Sie über das Fragezeichen im Studio
+oder in der [Seitenhilfe](/pages/).
 
 ## Einstieg und Inhalte
 
