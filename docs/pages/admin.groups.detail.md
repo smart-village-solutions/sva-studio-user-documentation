@@ -29,6 +29,6 @@ Hier legen Sie fest, welche Rollen eine Gruppe enthält und wer ihr angehört.
 
 ## Weiterführende Hilfe
 
-- [Gruppen verwalten](/pages/admin.groups.list)
-- [Benutzer bearbeiten](/pages/admin.users.detail)
+- [Gruppenverwaltung](/pages/admin.groups.list)
+- [Nutzer bearbeiten](/pages/admin.users.detail)
 - [Seitenübergreifende Anleitungen](/guides/)

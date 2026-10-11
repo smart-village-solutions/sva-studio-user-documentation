@@ -4,7 +4,7 @@ title: Kachel anlegen
 pageType: create
 ---
 
-# Cockpit-Kachel anlegen
+# Kachel anlegen
 
 Eine Cockpit-Kachel stellt einen kurzen Inhalt mit Bild und optionalem Link dar. Nutzen Sie sie, um auf ein Angebot oder eine weiterführende Seite aufmerksam zu machen.
 
@@ -20,5 +20,5 @@ Für Links und Bildadressen wird eine sichere `https://`-Adresse erwartet. Der K
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

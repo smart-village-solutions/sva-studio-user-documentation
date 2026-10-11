@@ -20,5 +20,5 @@ Diese Einstellung ist keine Löschanfrage. Für eine Anfrage zu Ihren persönlic
 
 ## Weiterführende Hilfe
 
-- [Mein Profil](/pages/account.profile)
-- [Datenschutz im Konto](/pages/account.privacy)
+- [Mein Konto](/pages/account.profile)
+- [Datenschutz & Transparenz](/pages/account.privacy)

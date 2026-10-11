@@ -1,23 +1,23 @@
 ---
 id: monitoring.jobs-list
-title: Aufträge überwachen
+title: Monitoring Jobs
 pageType: list
 ---
 
-# Aufträge überwachen
+# Monitoring Jobs
 
 Diese Liste zeigt Hintergrundaufträge, zum Beispiel Arbeiten eines Fachmoduls.
 
 ## Einen Auftrag finden
 
-1. Öffnen Sie **Systemüberwachung** und wählen Sie **Aufträge überwachen**.
-2. Wechseln Sie zwischen aktiven Aufträgen und der Historie.
-3. Suchen Sie nach Auftrags-ID oder Zusammenhangs-ID, wenn Sie eine Kennung erhalten haben. Sie können auch nach Status, Modul und Art des Auftrags filtern.
+1. Öffnen Sie **Monitoring** und wählen Sie **Zu den Monitoring Jobs**.
+2. Wechseln Sie zwischen **Aktiv** und **Historie**.
+3. Suchen Sie nach Job-ID oder Korrelation, wenn Sie eine Kennung erhalten haben. Sie können auch nach **Status**, **Plugin** und **Jobtyp** filtern.
 4. Prüfen Sie Status, Fortschritt und letztes Ereignis. Öffnen Sie den Auftrag für Einzelheiten.
 
-**Eingeplant** bedeutet, dass die Arbeit noch wartet. **Läuft** zeigt aktuelle Verarbeitung. **Erneuter Versuch** bedeutet, dass das Studio nach einem Problem nochmals startet. **Erfolgreich**, **Fehlgeschlagen** und **Abgebrochen** bezeichnen beendete Aufträge. Eine Warnung zu ausbleibender Aktivität ist ein Hinweis zur Prüfung, kein sicherer Fehlernachweis.
+**Eingeplant** bedeutet, dass die Arbeit noch wartet. **Läuft** zeigt aktuelle Verarbeitung. **Wird erneut versucht** bedeutet, dass das Studio nach einem Problem nochmals startet. **Erfolgreich**, **Fehlgeschlagen** und **Abgebrochen** bezeichnen beendete Jobs. Eine Warnung zu ausbleibender Aktivität ist ein Hinweis zur Prüfung, kein sicherer Fehlernachweis.
 
 ## Weiterführende Hilfe
 
-- [Auftragsdetails](/pages/monitoring.job-detail)
-- [Systemüberwachung](/pages/monitoring.overview)
+- [Job-Details](/pages/monitoring.job-detail)
+- [Monitoring](/pages/monitoring.overview)

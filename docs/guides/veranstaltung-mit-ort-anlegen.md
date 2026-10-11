@@ -8,7 +8,7 @@ Sie haben Zugriff auf Veranstaltungen und das Recht, eine Veranstaltung anzulege
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Inhalte verwalten**, suchen Sie nach dem Termin und wählen Sie bei Bedarf **Neu → Veranstaltung**.
+1. Öffnen Sie **Inhalte**, suchen Sie nach dem Termin und wählen Sie bei Bedarf **Inhalt erstellen** und dann den Inhaltstyp Veranstaltung.
 2. Geben Sie Titel und Beschreibung ein. Ergänzen Sie passende Kategorien, wenn sie angeboten werden.
 3. Erfassen Sie Datum und Uhrzeit. Prüfen Sie bei einer mehrtägigen Veranstaltung Anfang und Ende; bei einer Wiederholung zusätzlich Intervall und Wochentage.
 4. Geben Sie Veranstaltungsort und Adresse an. Wenn ein passender bereits erfasster Ort angeboten wird, können Sie ihn als **POI** verknüpfen. Ein POI ist ein Eintrag für einen Ort. Kontrollieren Sie die übernommenen Angaben.
@@ -26,5 +26,5 @@ Sie haben Zugriff auf Veranstaltungen und das Recht, eine Veranstaltung anzulege
 ## Passende Seitenhilfe
 
 - [Veranstaltung anlegen](/pages/events.content.create) und [Veranstaltung bearbeiten](/pages/events.content.detail)
-- [Ort anlegen](/pages/poi.content.create), [Inhalte verwalten](/pages/content.list) und [Medien verwalten](/pages/host.media.list)
+- [Ort anlegen](/pages/poi.content.create), [Inhalte](/pages/content.list) und [Medienbibliothek](/pages/host.media.list)
 - [Anleitung: Ort mit Öffnungszeiten anlegen](/guides/ort-mit-oeffnungszeiten-anlegen)

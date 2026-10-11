@@ -4,7 +4,7 @@ Unter **Datenschutz & Transparenz** können Sie selbst eine Anfrage zu Ihren Kon
 
 ## Passende Anfrage wählen
 
-Öffnen Sie [Datenschutz im Konto](/pages/account.privacy) und wählen Sie die Aktion, die zu Ihrem Anliegen passt:
+Öffnen Sie [Datenschutz & Transparenz](/pages/account.privacy) und wählen Sie die Aktion, die zu Ihrem Anliegen passt:
 
 | Anliegen | Aktion im Studio |
 | --- | --- |
@@ -28,6 +28,6 @@ Eine Anfrage ändert Rechte oder Daten nicht sofort. Sie stößt einen Vorgang a
 
 1. Suchen Sie Ihren Vorgang in **Datenschutzvorgänge**. Suche sowie Filter nach Typ und Status helfen bei einer längeren Liste.
 2. Öffnen Sie **Details**. Dort stehen Art, Status, Zeitpunkte und die Fall-ID. Bei einem blockierten oder fehlgeschlagenen Vorgang lesen Sie den angezeigten Grund.
-3. Ein abgeschlossener Export kann über **Herunterladen** bereitstehen. Der Knopf erscheint nur, wenn ein Ergebnis verfügbar ist. Bewahren Sie die Datei geschützt auf, da sie persönliche Daten enthalten kann.
+3. Ein abgeschlossener Export kann über **Download** bereitstehen. Die Aktion erscheint nur, wenn ein Ergebnis verfügbar ist. Bewahren Sie die Datei geschützt auf, da sie persönliche Daten enthalten kann.
 
 Wenn Sie Unterstützung benötigen, nennen Sie die Fall-ID, aber versenden Sie heruntergeladene Daten nur an berechtigte Personen. Die [Detailseitenhilfe](/pages/account.privacy-detail) erklärt die Anzeige des einzelnen Vorgangs.

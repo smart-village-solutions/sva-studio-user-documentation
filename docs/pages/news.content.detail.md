@@ -21,5 +21,5 @@ Falls ein Medienfehler gemeldet wird, prüfen Sie die Bildverknüpfungen; der Na
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

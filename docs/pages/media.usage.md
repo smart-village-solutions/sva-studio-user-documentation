@@ -20,4 +20,4 @@ Eine Verknüpfung wird im **Inhalt** entfernt, nicht allein in dieser Übersicht
 ## Weiterführende Hilfe
 
 - [Medium bearbeiten](/pages/host.media.detail)
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)

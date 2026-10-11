@@ -1,10 +1,10 @@
 ---
 id: account.privacy
-title: Datenschutz im Konto
+title: Datenschutz & Transparenz
 pageType: overview
 ---
 
-# Datenschutz im Konto
+# Datenschutz & Transparenz
 
 Unter **Datenschutz & Transparenz** können Sie Anfragen zu Ihren eigenen Kontodaten stellen und den Bearbeitungsstand verfolgen.
 

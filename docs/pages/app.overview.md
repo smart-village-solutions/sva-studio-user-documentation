@@ -1,10 +1,10 @@
 ---
 id: app.overview
-title: App-Konfiguration
+title: App
 pageType: overview
 ---
 
-# App-Konfiguration
+# App
 
 Der Navigationspunkt **App** führt derzeit zu einer vorbereiteten Seite. Dort können Sie noch keine App-Einstellungen ändern.
 
@@ -12,4 +12,4 @@ Wenn Sie etwas an einer Fachfunktion ändern möchten, öffnen Sie den passenden
 
 ## Weiterführende Hilfe
 
-- [Studio-Übersicht](/pages/home.overview)
+- [Übersicht](/pages/home.overview)

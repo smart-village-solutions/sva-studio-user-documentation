@@ -12,6 +12,6 @@ Diese Inhaltsregel ist keine Anfrage zur Löschung Ihrer persönlichen Daten. Ei
 
 ## Weiterführende Hilfe
 
-- [Mein Profil](/pages/account.profile)
-- [Datenschutz im Konto](/pages/account.privacy)
+- [Mein Konto](/pages/account.profile)
+- [Datenschutz & Transparenz](/pages/account.privacy)
 - [Kontoregeln](/pages/account.rules)

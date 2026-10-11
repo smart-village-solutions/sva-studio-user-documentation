@@ -21,6 +21,6 @@ Sind die Felder deaktiviert, haben Sie möglicherweise nur Leserechte oder Ihre 
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)
 - [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)

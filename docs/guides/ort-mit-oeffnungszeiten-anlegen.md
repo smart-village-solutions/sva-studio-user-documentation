@@ -8,7 +8,7 @@ Sie dürfen Orte anlegen. Halten Sie den Namen, die Adresse, verlässliche Öffn
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Inhalte verwalten**, suchen Sie nach dem Ort und wählen Sie nur bei Bedarf **Neu → Ort**.
+1. Öffnen Sie **Inhalte**, suchen Sie nach dem Ort und wählen Sie nur bei Bedarf **Inhalt erstellen** und dann den Inhaltstyp Ort.
 2. Geben Sie den Namen ein und wählen Sie passende Kategorien. Beschreiben Sie kurz, was Menschen an diesem Ort finden.
 3. Tragen Sie die Adresse ein. Wenn eine Karte oder eine Suche nach Koordinaten angeboten wird, können Sie diese nutzen. Prüfen Sie das Ergebnis: Adresse und Kartenpunkt müssen denselben Ort bezeichnen.
 4. Erfassen Sie unter **Öffnungszeiten** die bekannten Wochentage und Zeiten. Für weitere Zeiträume oder Tage fügen Sie weitere Einträge hinzu. Prüfen Sie insbesondere, ob ein Eintrag als geöffnet gekennzeichnet ist und ob Anfang und Ende zusammenpassen.

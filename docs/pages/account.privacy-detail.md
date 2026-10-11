@@ -1,10 +1,10 @@
 ---
 id: account.privacy-detail
-title: Datenschutzanfrage
+title: Datenschutzfall-Detail
 pageType: detail
 ---
 
-# Datenschutzanfrage
+# Datenschutzfall-Detail
 
 Diese Seite zeigt den Stand einer einzelnen Anfrage zu Ihren Kontodaten.
 
@@ -15,8 +15,8 @@ Diese Seite zeigt den Stand einer einzelnen Anfrage zu Ihren Kontodaten.
 3. Lesen Sie bei einem blockierten oder fehlgeschlagenen Vorgang den angezeigten Grund. Wenn Sie Unterstützung benötigen, nennen Sie die Fall-ID.
 4. Wählen Sie **Zurück zur Datenschutzübersicht**, um weitere Vorgänge zu sehen.
 
-**Abgeschlossen** bedeutet, dass die Bearbeitung dieses Vorgangs beendet ist. Ein Exportergebnis ist nur dann herunterladbar, wenn die Seite es anbietet. Teilen Sie Fallinformationen und heruntergeladene persönliche Daten nur mit berechtigten Personen.
+**Abgeschlossen** bedeutet, dass die Bearbeitung dieses Vorgangs beendet ist. Ein Exportergebnis ist nur dann über **Download** verfügbar, wenn die Seite die Aktion anbietet. Teilen Sie Fallinformationen und heruntergeladene persönliche Daten nur mit berechtigten Personen.
 
 ## Weiterführende Hilfe
 
-- [Datenschutz im Konto](/pages/account.privacy)
+- [Datenschutz & Transparenz](/pages/account.privacy)

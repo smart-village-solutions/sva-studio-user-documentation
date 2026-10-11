@@ -1,10 +1,10 @@
 ---
 id: content.create
-title: Inhalt anlegen
+title: Inhaltstyp wählen
 pageType: create
 ---
 
-# Inhalt anlegen
+# Inhaltstyp wählen
 
 Auf dieser Seite wählen Sie, **was** Sie erstellen möchten: etwa eine Nachricht, eine Veranstaltung, einen Ort oder eine Umfrage. Die Auswahl öffnet das passende Formular; sie speichert noch keinen Inhalt.
 
@@ -18,7 +18,7 @@ Sie sehen nur Typen, die in Ihrer Arbeitsumgebung verfügbar sind und für die S
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Nachricht anlegen](/pages/news.content.create)
 - [Veranstaltung anlegen](/pages/events.content.create)
 - [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)

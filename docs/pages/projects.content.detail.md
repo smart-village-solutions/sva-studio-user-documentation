@@ -20,5 +20,5 @@ Die Löschaktion markiert das Projekt als gelöscht. Prüfen Sie zuvor, ob **arc
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

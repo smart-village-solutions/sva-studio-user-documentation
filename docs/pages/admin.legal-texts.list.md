@@ -1,10 +1,10 @@
 ---
 id: admin.legal-texts.list
-title: Rechtstexte verwalten
+title: Rechtstext-Verwaltung
 pageType: list
 ---
 
-# Rechtstexte verwalten
+# Rechtstext-Verwaltung
 
 ## Wofür ist diese Seite gedacht?
 
@@ -16,7 +16,7 @@ Hier verwalten Sie rechtliche Hinweise und Einwilligungstexte, die Personen im S
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Rechtstexte**. Suchen Sie nach Name oder Version und filtern Sie bei Bedarf nach **Entwurf**, **Gültig** oder **Archiviert**.
+1. Öffnen Sie **Rechtstexte**. Suchen Sie nach Name oder Version und filtern Sie bei Bedarf mit **Nur Entwürfe**, **Nur gültige** oder **Nur archivierte**.
 2. Vergleichen Sie Sprache, Version, Zielgruppe und Veröffentlichungsdatum.
 3. Öffnen Sie eine Fassung, um ihren Inhalt und dokumentierte Akzeptanzen zu prüfen. Mit **Rechtstext anlegen** erstellen Sie eine neue Fassung.
 
@@ -27,5 +27,5 @@ Hier verwalten Sie rechtliche Hinweise und Einwilligungstexte, die Personen im S
 ## Weiterführende Hilfe
 
 - [Rechtstext anlegen](/pages/admin.legal-texts.create)
-- [Rechtstext bearbeiten](/pages/admin.legal-texts.detail)
+- [Rechtstext-Version bearbeiten](/pages/admin.legal-texts.detail)
 - [Seitenübergreifende Anleitungen](/guides/)

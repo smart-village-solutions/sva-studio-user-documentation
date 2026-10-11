@@ -21,6 +21,6 @@ Vor dem Löschen sollten Sie prüfen, ob die Veranstaltung lediglich ausgeblende
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Ort bearbeiten](/pages/poi.content.detail)
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)

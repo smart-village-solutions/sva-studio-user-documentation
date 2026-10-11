@@ -18,6 +18,6 @@ Welche Aktionen angeboten werden, hängt von Ihren Rechten ab. Wenn Sie eine bes
 
 ## Weiterführende Hilfe
 
-- [Medien verwalten](/pages/host.media.list)
-- [Medium hochladen](/pages/host.media.create)
+- [Medienbibliothek](/pages/host.media.list)
+- [Datei vorbereiten](/pages/host.media.create)
 - [Medium bearbeiten](/pages/host.media.detail)

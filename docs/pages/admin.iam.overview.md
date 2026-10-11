@@ -1,14 +1,14 @@
 ---
 id: admin.iam.overview
-title: Identitäten und Berechtigungen
+title: IAM Transparenz-Cockpit
 pageType: overview
 ---
 
-# Identitäten und Berechtigungen
+# IAM Transparenz-Cockpit
 
 ## Wofür ist diese Seite gedacht?
 
-Hier prüfen Sie, warum eine Person eine Aktion ausführen darf oder nicht. Weitere Reiter zeigen Prüffälle, Datenschutzanfragen und Regeln zum Löschen von Konten und Inhalten.
+Hier prüfen Sie, warum eine Person eine Aktion ausführen darf oder nicht. Weitere Reiter zeigen Governance-Fälle, Datenschutzanfragen und Regeln zum Löschen von Konten und Inhalten.
 
 ## Voraussetzungen
 
@@ -17,10 +17,10 @@ Hier prüfen Sie, warum eine Person eine Aktion ausführen darf oder nicht. Weit
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Identitäten und Berechtigungen** und wählen Sie den passenden Reiter.
+1. Öffnen Sie **Datenschutz** in der Seitenleiste. Die Seite **IAM Transparenz-Cockpit** bietet mehrere Reiter; wählen Sie den passenden.
 2. Unter **Rechte** suchen Sie eine Person oder Berechtigung und wählen gegebenenfalls eine Organisation. Prüfen Sie das Ergebnis und die angezeigten Quellen wie Rollen und Gruppen.
 3. Wenn Sie eine konkrete Aufgabe prüfen möchten, nutzen Sie die dort angebotene Berechtigungsprüfung und lesen Sie die Begründung.
-4. Öffnen Sie unter **Prüffälle** oder **Datenschutz** einen Eintrag für weitere Angaben.
+4. Öffnen Sie unter **Governance** oder **Datenschutz** einen Eintrag für weitere Angaben.
 5. Prüfen Sie unter **Löschregeln** die geltenden Fristen. Ändern Sie diese nur nach fachlicher Freigabe.
 
 ## Wichtige Hinweise
@@ -30,8 +30,8 @@ Hier prüfen Sie, warum eine Person eine Aktion ausführen darf oder nicht. Weit
 
 ## Weiterführende Hilfe
 
-- [Rollen verwalten](/pages/admin.roles.list)
-- [Gruppen verwalten](/pages/admin.groups.list)
+- [Rollenverwaltung](/pages/admin.roles.list)
+- [Gruppenverwaltung](/pages/admin.groups.list)
 - [IAM-Prüffall](/pages/admin.iam.governance-detail)
 - [Datenschutzfall](/pages/admin.iam.dsr-detail)
 - [Seitenübergreifende Anleitungen](/guides/)

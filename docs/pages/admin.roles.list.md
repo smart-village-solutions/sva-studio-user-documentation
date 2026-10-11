@@ -1,10 +1,10 @@
 ---
 id: admin.roles.list
-title: Rollen verwalten
+title: Rollenverwaltung
 pageType: list
 ---
 
-# Rollen verwalten
+# Rollenverwaltung
 
 ## Wofür ist diese Seite gedacht?
 
@@ -30,5 +30,5 @@ Die Rollenliste zeigt, welche Rollen es gibt und wie sie verwendet werden. Eine 
 
 - [Rolle anlegen](/pages/admin.roles.create)
 - [Rolle bearbeiten](/pages/admin.roles.detail)
-- [IAM-Cockpit](/pages/admin.iam.overview)
+- [IAM Transparenz-Cockpit](/pages/admin.iam.overview)
 - [Seitenübergreifende Anleitungen](/guides/)

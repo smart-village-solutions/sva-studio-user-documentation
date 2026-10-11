@@ -19,6 +19,6 @@ Die Kartenumrechnung steht nur bereit, wenn die Kartenfunktionen eingerichtet si
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Veranstaltung bearbeiten](/pages/events.content.detail)
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)

@@ -19,5 +19,5 @@ Ein Alternativtext beschreibt den wichtigen Bildinhalt für Menschen, die das Bi
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)
