@@ -4,9 +4,9 @@ title: FAQ anlegen
 pageType: create
 ---
 
-# Häufige Frage anlegen
+# FAQ anlegen
 
-Mit einer häufigen Frage (FAQ) geben Sie eine kurze, direkt auffindbare Antwort auf eine wiederkehrende Frage.
+Mit einem FAQ-Eintrag geben Sie eine kurze, direkt auffindbare Antwort auf eine häufige Frage.
 
 ## So gehen Sie vor
 
@@ -19,5 +19,5 @@ Frage und Antwort sind Pflichtfelder. Das **Sortiergewicht** steuert die Reihenf
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

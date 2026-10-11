@@ -1,10 +1,10 @@
 ---
 id: admin.groups.list
-title: Gruppen verwalten
+title: Gruppenverwaltung
 pageType: list
 ---
 
-# Gruppen verwalten
+# Gruppenverwaltung
 
 ## Wofür ist diese Seite gedacht?
 
@@ -18,7 +18,7 @@ Die Liste zeigt Ihre Gruppen. Gruppen fassen Rollen zusammen, damit Sie dieselbe
 
 1. Öffnen Sie **Gruppen**. Suchen Sie bei Bedarf nach Name oder Rolle.
 2. Vergleichen Sie Rollen, Anzahl der Mitglieder und Status. **Inaktiv** bedeutet, dass die Gruppe derzeit nicht wirksam ist.
-3. Wählen Sie **Bearbeiten**, um Rollen oder Mitglieder zu prüfen. Mit **Gruppe anlegen** erstellen Sie eine neue Gruppe.
+3. Wählen Sie **Gruppe bearbeiten**, um Rollen oder Mitglieder zu prüfen. Mit **Gruppe anlegen** erstellen Sie eine neue Gruppe.
 
 ## Wichtige Hinweise
 
@@ -28,5 +28,5 @@ Die Liste zeigt Ihre Gruppen. Gruppen fassen Rollen zusammen, damit Sie dieselbe
 
 - [Gruppe anlegen](/pages/admin.groups.create)
 - [Gruppe bearbeiten](/pages/admin.groups.detail)
-- [Rollen verwalten](/pages/admin.roles.list)
+- [Rollenverwaltung](/pages/admin.roles.list)
 - [Seitenübergreifende Anleitungen](/guides/)

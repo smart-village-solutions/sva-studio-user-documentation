@@ -1,10 +1,10 @@
 ---
 id: host.media.list
-title: Medien verwalten
+title: Medienbibliothek
 pageType: list
 ---
 
-# Medien verwalten
+# Medienbibliothek
 
 In der Medienbibliothek finden Sie Bilder und andere Dateien, die Sie in Inhalten verwenden können.
 
@@ -19,6 +19,6 @@ Eine fehlende Vorschau bedeutet nicht immer, dass die Datei unbrauchbar ist. Pr�
 
 ## Weiterführende Hilfe
 
-- [Medium hochladen](/pages/host.media.create)
+- [Datei vorbereiten](/pages/host.media.create)
 - [Medium bearbeiten](/pages/host.media.detail)
 - [Medienverwendung](/pages/media.usage)

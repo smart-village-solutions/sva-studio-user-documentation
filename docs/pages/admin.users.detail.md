@@ -1,10 +1,10 @@
 ---
 id: admin.users.detail
-title: Benutzer bearbeiten
+title: Nutzer bearbeiten
 pageType: detail
 ---
 
-# Benutzer bearbeiten
+# Nutzer bearbeiten
 
 ## Wofür ist diese Seite gedacht?
 
@@ -18,9 +18,9 @@ Hier verwalten Sie ein Konto und prüfen, welche Rechte die Person tatsächlich 
 ## So gehen Sie vor
 
 1. Prüfen Sie Name, E-Mail-Adresse und Kontostatus.
-2. Bearbeiten Sie Gruppen, direkte Rollen und Organisationsmitgliedschaften. Wählen Sie bei mehreren Organisationen gegebenenfalls einen bevorzugten Arbeitsbereich.
+2. Bearbeiten Sie Gruppen, direkte Rollen und Organisationsmitgliedschaften. Wählen Sie bei mehreren Organisationen gegebenenfalls einen **Default-Kontext**.
 3. Prüfen Sie unter **Berechtigungen**, welche Rechte aktuell gelten und woher sie stammen.
-4. Speichern Sie die Änderungen und kontrollieren Sie die Rückmeldung. Falls eine Einladung fehlgeschlagen ist, können Sie von hier erneut eine E-Mail zur Passworteinrichtung senden.
+4. Wählen Sie **Änderungen speichern** und kontrollieren Sie die Rückmeldung. Falls eine Einladung fehlgeschlagen ist, können Sie mit **Passwort-Einladung erneut senden** eine neue E-Mail verschicken.
 
 ## Wichtige Hinweise
 
@@ -30,9 +30,9 @@ Hier verwalten Sie ein Konto und prüfen, welche Rechte die Person tatsächlich 
 
 ## Weiterführende Hilfe
 
-- [Benutzer verwalten](/pages/admin.users.list)
-- [Organisationen verwalten](/pages/admin.organizations.list)
-- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Benutzerverwaltung](/pages/admin.users.list)
+- [Organisationsverwaltung](/pages/admin.organizations.list)
+- [IAM Transparenz-Cockpit](/pages/admin.iam.overview)
 - [Module und Berechtigungen](/concepts/module-und-berechtigungen)
 - [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Seitenübergreifende Anleitungen](/guides/)

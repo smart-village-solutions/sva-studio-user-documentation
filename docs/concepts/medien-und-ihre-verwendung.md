@@ -8,6 +8,6 @@ Beim Hochladen kann die Datei als **öffentlich** oder **geschützt** eingestuft
 
 ## Weiterführende Hilfe
 
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)
 - [Medium bearbeiten](/pages/host.media.detail)
 - [Medienverwendung prüfen](/pages/media.usage)

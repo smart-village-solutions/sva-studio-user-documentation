@@ -20,6 +20,6 @@ Ein **POI** ist ein bereits erfasster Ort, den Sie mit der Veranstaltung verknü
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Ort anlegen](/pages/poi.content.create)
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)

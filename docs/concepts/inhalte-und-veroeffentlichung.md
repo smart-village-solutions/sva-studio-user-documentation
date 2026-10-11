@@ -1,6 +1,6 @@
 # Inhalte und Veröffentlichung
 
-Im Studio können Sie unterschiedliche Inhalte erstellen, zum Beispiel eine Nachricht oder eine Veranstaltung. Welches Formular sich öffnet, bestimmt der **Inhaltstyp**. Die Auswahl unter [Inhalt anlegen](/pages/content.create) speichert noch nichts. Erst im Formular erfassen und speichern Sie den Inhalt.
+Im Studio können Sie unterschiedliche Inhalte erstellen, zum Beispiel eine Nachricht oder eine Veranstaltung. Welches Formular sich öffnet, bestimmt der **Inhaltstyp**. Die Auswahl unter [Inhalt erstellen](/pages/content.create) speichert noch nichts. Erst im Formular erfassen und speichern Sie den Inhalt.
 
 Ein **Entwurf** ist für die Vorbereitung gedacht. **Veröffentlicht** kennzeichnet einen Inhalt, der zur Veröffentlichung vorgesehen ist. Welche Status und Zeitangaben angeboten werden, hängt vom Inhaltstyp ab. Im allgemeinen Inhaltsformular ist für den Status „Veröffentlicht“ ein Veröffentlichungsdatum erforderlich. Prüfen Sie vor dem Speichern sowohl den Status als auch das Datum. Bei einer Nachricht können Sie zwischen Entwurf, sofortiger Veröffentlichung und einer geplanten Veröffentlichung wählen.
 

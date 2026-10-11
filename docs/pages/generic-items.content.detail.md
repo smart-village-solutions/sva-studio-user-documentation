@@ -4,9 +4,9 @@ title: Generischen Inhalt bearbeiten
 pageType: detail
 ---
 
-# Allgemeinen Inhalt bearbeiten
+# Generischen Inhalt bearbeiten
 
-Hier ändern Sie einen vorhandenen allgemeinen Inhalt mit seinen Texten und weiteren Angaben.
+Hier ändern Sie einen vorhandenen generischen Inhalt mit seinen Texten und weiteren Angaben.
 
 ## So gehen Sie vor
 
@@ -19,5 +19,5 @@ Manuell eingetragene Bildadressen können später ungültig werden. Wenn Bilder 
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

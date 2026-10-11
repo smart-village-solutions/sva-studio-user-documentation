@@ -4,9 +4,9 @@ title: Generischen Inhalt anlegen
 pageType: create
 ---
 
-# Allgemeinen Inhalt anlegen
+# Generischen Inhalt anlegen
 
-Wählen Sie einen allgemeinen Inhalt, wenn die vorhandenen Vorlagen wie Nachricht, Veranstaltung oder Ort nicht zu Ihrem Thema passen.
+Wählen Sie einen generischen Inhalt, wenn die vorhandenen Inhaltstypen wie Nachricht, Veranstaltung oder Ort nicht zu Ihrem Thema passen. „Generisch“ bedeutet hier: Sie können die Angaben freier zusammenstellen.
 
 ## So gehen Sie vor
 
@@ -19,5 +19,5 @@ Das Feld **Inhaltstyp** ist eine frei wählbare Kennzeichnung. Es erstellt keine
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

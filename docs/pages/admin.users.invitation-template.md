@@ -1,10 +1,10 @@
 ---
 id: admin.users.invitation-template
-title: Konto-Einladung anpassen
+title: Einladungsvorlage
 pageType: detail
 ---
 
-# Konto-Einladung anpassen
+# Einladungsvorlage
 
 ## Wofür ist diese Seite gedacht?
 
@@ -17,10 +17,10 @@ Hier passen Sie die Einladungs-E-Mail für neue Personen an. Diese sehen den Tex
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Account-Einladung anpassen** und prüfen Sie, welche Vorlage derzeit verwendet wird.
+1. Öffnen Sie **Benutzer** → **Einladungsvorlage** und prüfen Sie, welche Vorlage derzeit verwendet wird.
 2. Wählen Sie **Account-Einladung anpassen**. Ändern Sie Betreff, Nachricht und die Beschriftungen der Links.
-3. Prüfen Sie die Vorschau mit Beispielwerten für Name und Startseite.
-4. Speichern Sie. Wenn Sie wieder die Standardvorlage verwenden möchten, wählen Sie **Zurücksetzen** und bestätigen Sie.
+3. Prüfen Sie die **Vorschau mit Beispieldaten** für den angezeigten Namen und die Startseite.
+4. Wählen Sie **Vorlage speichern**. Wenn Sie wieder die vorgegebene Vorlage verwenden möchten, wählen Sie **Servervorlage verwenden** und bestätigen Sie.
 
 ## Wichtige Hinweise
 
@@ -29,4 +29,4 @@ Hier passen Sie die Einladungs-E-Mail für neue Personen an. Diese sehen den Tex
 
 ## Weiterführende Hilfe
 
-- [Benutzer anlegen](/pages/admin.users.create)
+- [Nutzer anlegen](/pages/admin.users.create)

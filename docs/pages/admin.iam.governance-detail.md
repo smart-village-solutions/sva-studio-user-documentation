@@ -1,10 +1,10 @@
 ---
 id: admin.iam.governance-detail
-title: IAM-Prüffall verwalten
+title: Governance-Detail
 pageType: detail
 ---
 
-# IAM-Prüffall verwalten
+# Governance-Detail
 
 ## Wofür ist diese Seite gedacht?
 
@@ -12,13 +12,13 @@ Hier lesen Sie einen Prüffall zu einer Rechteänderung oder einem anderen siche
 
 ## Voraussetzungen
 
-- Das IAM-Cockpit ist aktiv.
+- Das IAM Transparenz-Cockpit ist aktiv.
 - Sie besitzen Zugriff auf den Governance-Tab.
 - Der Fall wurde aus der Governance-Liste geöffnet.
 
 ## So gehen Sie vor
 
-1. Öffnen Sie den Fall aus der Liste im IAM-Cockpit.
+1. Öffnen Sie den Fall aus der Liste im IAM Transparenz-Cockpit.
 2. Prüfen Sie Art, Status, Zeitpunkt sowie auslösende und betroffene Person.
 3. Lesen Sie Zusammenfassung und gegebenenfalls die zugehörige Ticketnummer. Nutzen Sie diese Angaben für die weitere Prüfung mit den zuständigen Stellen.
 
@@ -28,5 +28,5 @@ Hier lesen Sie einen Prüffall zu einer Rechteänderung oder einem anderen siche
 
 ## Weiterführende Hilfe
 
-- [IAM-Cockpit](/pages/admin.iam.overview)
+- [IAM Transparenz-Cockpit](/pages/admin.iam.overview)
 - [Seitenübergreifende Anleitungen](/guides/)

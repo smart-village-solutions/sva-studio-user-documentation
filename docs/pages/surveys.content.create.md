@@ -20,4 +20,4 @@ Klären Sie vor der Veröffentlichung, ob eine anonyme Teilnahme vorgesehen ist 
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)

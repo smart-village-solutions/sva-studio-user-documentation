@@ -1,10 +1,10 @@
 ---
 id: admin.organizations.list
-title: Organisationen verwalten
+title: Organisationsverwaltung
 pageType: list
 ---
 
-# Organisationen verwalten
+# Organisationsverwaltung
 
 ## Wofür ist diese Seite gedacht?
 

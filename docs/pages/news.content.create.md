@@ -12,7 +12,7 @@ Mit einer Nachricht informieren Sie über ein aktuelles Thema. Sie können sie a
 
 1. Geben Sie eine aussagekräftige Überschrift und eine kurze Einleitung ein.
 2. Schreiben Sie den Haupttext. Ergänzen Sie bei Bedarf Kategorien, Quelle und Bilder.
-3. Wählen Sie **Entwurf**, **sofort veröffentlichen** oder **Veröffentlichung planen**. Prüfen Sie bei einem Termin Datum und Uhrzeit.
+3. Wählen Sie **Entwurf**, **Sofort veröffentlichen** oder **Zeitgesteuert**. Prüfen Sie bei einer zeitgesteuerten Veröffentlichung Datum und Uhrzeit.
 4. Falls eine Push-Benachrichtigung angeboten wird, kontrollieren Sie deren Text und Zielgruppe besonders sorgfältig.
 5. Speichern Sie und lesen Sie die Rückmeldung.
 
@@ -20,6 +20,6 @@ Eine Push-Benachrichtigung ist eine Meldung auf Geräten der Empfängerinnen und
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

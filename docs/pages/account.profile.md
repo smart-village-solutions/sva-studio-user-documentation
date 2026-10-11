@@ -1,10 +1,10 @@
 ---
 id: account.profile
-title: Mein Profil
+title: Mein Konto
 pageType: overview
 ---
 
-# Mein Profil
+# Mein Konto
 
 Unter **Mein Konto** sehen Sie Ihre persönlichen Angaben und den Status Ihres Zugangs.
 
@@ -22,5 +22,5 @@ Bei ungültigen Eingaben zeigt die Seite Hinweise an den Feldern. Lädt das Prof
 
 ## Weiterführende Hilfe
 
-- [Datenschutz im Konto](/pages/account.privacy)
+- [Datenschutz & Transparenz](/pages/account.privacy)
 - [Kontoregeln](/pages/account.rules)

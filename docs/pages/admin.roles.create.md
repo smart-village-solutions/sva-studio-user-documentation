@@ -19,7 +19,7 @@ Hier legen Sie eine eigene Rolle an. Eine Rolle bündelt Berechtigungen, die Sie
 
 1. Öffnen Sie **Rollen** und wählen Sie **Rolle anlegen**.
 2. Geben Sie einen verständlichen Namen ein. Beschreiben Sie optional den Zweck.
-3. Wählen Sie **Anlegen**. Danach öffnet sich die neue Rolle.
+3. Wählen Sie **Rolle anlegen**. Danach öffnet sich die neue Rolle.
 4. Legen Sie dort unter **Berechtigungen** fest, was die Rolle erlaubt. Unter **Zuweisungen** können Sie Personen hinzufügen.
 
 ## Wichtige Hinweise
@@ -29,6 +29,6 @@ Hier legen Sie eine eigene Rolle an. Eine Rolle bündelt Berechtigungen, die Sie
 
 ## Weiterführende Hilfe
 
-- [Rollen verwalten](/pages/admin.roles.list)
-- [Gruppen verwalten](/pages/admin.groups.list)
+- [Rollenverwaltung](/pages/admin.roles.list)
+- [Gruppenverwaltung](/pages/admin.groups.list)
 - [Seitenübergreifende Anleitungen](/guides/)

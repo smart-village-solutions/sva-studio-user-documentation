@@ -4,7 +4,7 @@ title: Kachel bearbeiten
 pageType: detail
 ---
 
-# Cockpit-Kachel bearbeiten
+# Kachel bearbeiten
 
 Hier ändern Sie Text, Bilder, Link und Anzeige einer vorhandenen Cockpit-Kachel.
 
@@ -21,5 +21,5 @@ Meldet das Studio nach dem Speichern ein Problem mit Medienverknüpfungen, prüf
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
-- [Medien verwalten](/pages/host.media.list)
+- [Inhalte](/pages/content.list)
+- [Medienbibliothek](/pages/host.media.list)

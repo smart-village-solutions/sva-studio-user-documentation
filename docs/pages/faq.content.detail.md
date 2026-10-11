@@ -4,7 +4,7 @@ title: FAQ bearbeiten
 pageType: detail
 ---
 
-# Häufige Frage bearbeiten
+# FAQ bearbeiten
 
 Hier aktualisieren Sie eine vorhandene Frage mit ihrer Antwort.
 
@@ -18,5 +18,5 @@ Wenn die Frage nicht mehr gebraucht wird, prüfen Sie zuerst, ob das Ausblenden 
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)

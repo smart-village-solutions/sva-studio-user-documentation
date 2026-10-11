@@ -1,10 +1,10 @@
 ---
 id: host.media.create
-title: Medium hochladen
+title: Datei vorbereiten
 pageType: create
 ---
 
-# Medium hochladen
+# Datei vorbereiten
 
 Diese Seite bereitet einen Datei-Upload vor. Wenn Sie einfach eine Datei auswählen möchten, verwenden Sie die [Medienbibliothek](/pages/host.media.list).
 
@@ -19,5 +19,5 @@ Diese Seite bereitet einen Datei-Upload vor. Wenn Sie einfach eine Datei auswäh
 
 ## Weiterführende Hilfe
 
-- [Medien verwalten](/pages/host.media.list)
+- [Medienbibliothek](/pages/host.media.list)
 - [Medium bearbeiten](/pages/host.media.detail)

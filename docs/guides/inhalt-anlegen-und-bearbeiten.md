@@ -8,8 +8,8 @@ Sie sind im Studio angemeldet. Der gewünschte Inhaltstyp ist freigeschaltet und
 
 ## So gehen Sie vor
 
-1. Öffnen Sie **Inhalte verwalten**. Suchen Sie zuerst nach einem vorhandenen Eintrag, damit Sie ihn nicht versehentlich doppelt anlegen.
-2. Wählen Sie **Neu** und dann den Inhaltstyp. Die Auswahl öffnet nur das Formular; sie speichert noch nichts.
+1. Öffnen Sie **Inhalte**. Suchen Sie zuerst nach einem vorhandenen Eintrag, damit Sie ihn nicht versehentlich doppelt anlegen.
+2. Wählen Sie **Neuer Inhalt** und dann den Inhaltstyp. Die Auswahl öffnet nur das Formular; sie speichert noch nichts.
 3. Füllen Sie die Pflichtfelder aus. Prüfen Sie weitere Angaben wie Bilder, Kategorien und Termine im Formular des gewählten Typs.
 4. Entscheiden Sie anhand der angebotenen Optionen, ob der Inhalt zunächst ein Entwurf bleiben oder sichtbar werden soll. Prüfen Sie vor dem Speichern alle Angaben.
 5. Speichern Sie und beachten Sie die Rückmeldung. Suchen Sie den Eintrag anschließend in der Inhaltsliste und öffnen Sie ihn, wenn Sie etwas ändern möchten.
@@ -32,8 +32,8 @@ Sie sind im Studio angemeldet. Der gewünschte Inhaltstyp ist freigeschaltet und
 
 ## Passende Seitenhilfe
 
-- [Inhalte verwalten](/pages/content.list) und [Inhalt anlegen](/pages/content.create)
-- [Allgemeinen Inhalt bearbeiten](/pages/generic-items.content.detail)
+- [Inhalte](/pages/content.list) und [Inhalt erstellen](/pages/content.create)
+- [Generischen Inhalt bearbeiten](/pages/generic-items.content.detail)
 - [Nachricht bearbeiten](/pages/news.content.detail) und [Veranstaltung bearbeiten](/pages/events.content.detail)
 
 Zum Unterschied zwischen Entwurf und Veröffentlichung lesen Sie [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung).

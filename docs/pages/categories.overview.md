@@ -16,9 +16,9 @@ Kategorien ordnen Inhalte in einer Baumstruktur. Eine Unterkategorie gehört zu 
 
 ## Kategorie anlegen oder ändern
 
-1. Wählen Sie **Kategorie anlegen** oder öffnen Sie eine vorhandene Kategorie zum Bearbeiten. Für eine Unterkategorie wählen Sie die entsprechende Aktion bei ihrer übergeordneten Kategorie.
+1. Wählen Sie **Kategorie anlegen** oder öffnen Sie eine vorhandene Kategorie zum Bearbeiten. Für eine Unterkategorie wählen Sie bei der übergeordneten Kategorie **Neue Unterkategorie**.
 2. Geben Sie mindestens einen Namen ein. Wählen Sie bei Bedarf eine übergeordnete Kategorie und eine Position für die Reihenfolge.
-3. Ergänzen Sie nur benötigte Angaben wie Symbol, E-Mail-Adresse und zugeordnete Inhaltstypen. Mit **Aktiv** legen Sie fest, ob die Kategorie verwendet werden soll.
+3. Ergänzen Sie nur benötigte Angaben wie **Icon** (Symbol), **Benachrichtigungs-E-Mail** und zugeordnete **Datentypen**. Mit **Aktiv** legen Sie fest, ob die Kategorie verwendet werden soll.
 4. Wählen Sie **Speichern** und prüfen Sie die Erfolgsmeldung sowie den Eintrag in der Liste.
 
 ## Löschen und Status ändern
@@ -29,5 +29,5 @@ Beim Löschen zeigt das Studio einen Bestätigungsdialog. Wird die Kategorie noc
 
 ## Weiterführende Hilfe
 
-- [Inhalt anlegen](/pages/content.create)
+- [Inhalt erstellen](/pages/content.create)
 - [Anleitung: Kategorien pflegen](/guides/kategorien-pflegen)

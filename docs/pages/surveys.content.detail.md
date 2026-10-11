@@ -19,5 +19,5 @@ Die Moderationsansicht zeigt Freitextantworten derzeit nur zum Lesen. Eine Expor
 
 ## Weiterführende Hilfe
 
-- [Inhalte verwalten](/pages/content.list)
+- [Inhalte](/pages/content.list)
 - [Umfrage vorbereiten und Ergebnisse prüfen](/guides/umfrage-vorbereiten-und-ergebnisse-pruefen)

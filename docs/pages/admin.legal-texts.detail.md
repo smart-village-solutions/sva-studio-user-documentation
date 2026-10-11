@@ -1,10 +1,10 @@
 ---
 id: admin.legal-texts.detail
-title: Rechtstext bearbeiten
+title: Rechtstext-Version bearbeiten
 pageType: detail
 ---
 
-# Rechtstext bearbeiten
+# Rechtstext-Version bearbeiten
 
 ## Wofür ist diese Seite gedacht?
 
@@ -19,7 +19,7 @@ Hier prüfen und bearbeiten Sie eine bestimmte Fassung eines rechtlichen Textes.
 
 1. Prüfen Sie Name, Version, Sprache, Inhalt, Status und Veröffentlichungszeitpunkt.
 2. Ändern Sie bei Bedarf Inhalt oder Zielgruppen und speichern Sie. Kontrollieren Sie die Rückmeldung.
-3. Wenn eine Fassung nicht mehr verwendet werden soll, klären Sie zuerst, ob **Archiviert** passend ist. Beim Löschen fordert Studio eine Bestätigung an.
+3. Wenn eine Fassung nicht mehr verwendet werden soll, klären Sie zuerst, ob der Status **Archiv** passend ist. Beim Löschen fordert Studio eine Bestätigung an.
 
 ## Wichtige Hinweise
 
@@ -28,5 +28,5 @@ Hier prüfen und bearbeiten Sie eine bestimmte Fassung eines rechtlichen Textes.
 
 ## Weiterführende Hilfe
 
-- [Rechtstexte verwalten](/pages/admin.legal-texts.list)
+- [Rechtstext-Verwaltung](/pages/admin.legal-texts.list)
 - [Seitenübergreifende Anleitungen](/guides/)

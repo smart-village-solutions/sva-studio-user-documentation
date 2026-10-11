@@ -1,6 +1,6 @@
 # Inhaltstypen und Kategorien
 
-Ein **Inhaltstyp** legt fest, welches Formular und welche Angaben zu einem Inhalt gehören. Für einen Termin wählen Sie beispielsweise „Veranstaltung“, für eine aktuelle Meldung „Nachricht“. Unter [Inhalt anlegen](/pages/content.create) sehen Sie die Typen, die in Ihrer Arbeitsumgebung verfügbar sind und für die Sie ein Erstellungsrecht haben.
+Ein **Inhaltstyp** legt fest, welches Formular und welche Angaben zu einem Inhalt gehören. Für einen Termin wählen Sie beispielsweise „Veranstaltung“, für eine aktuelle Meldung „Nachricht“. Unter [Inhalt erstellen](/pages/content.create) sehen Sie die Typen, die in Ihrer Arbeitsumgebung verfügbar sind und für die Sie ein Erstellungsrecht haben.
 
 Eine **Kategorie** ordnet Inhalte thematisch ein. Kategorien können über- und untergeordnet sein: „Freizeit“ könnte etwa eine Unterkategorie „Sport“ haben. Sie ändern den Inhaltstyp nicht. Eine Nachricht in der Kategorie „Sport“ bleibt eine Nachricht.
 
@@ -9,6 +9,6 @@ Kategorien werden unter [Kategorien](/pages/categories.overview) verwaltet. Dort
 ## Weiterführende Hilfe
 
 - [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)
-- [Inhalt anlegen](/pages/content.create)
+- [Inhalt erstellen](/pages/content.create)
 - [Kategorien](/pages/categories.overview)
 - [Anleitung: Kategorien pflegen](/guides/kategorien-pflegen)

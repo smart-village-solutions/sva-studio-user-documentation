@@ -17,8 +17,8 @@ Hier legen Sie eine Gruppe an. Über eine Gruppe können mehrere Personen späte
 ## So gehen Sie vor
 
 1. Öffnen Sie **Gruppen** und wählen Sie **Gruppe anlegen**.
-2. Tragen Sie einen eindeutigen Gruppenschlüssel, einen verständlichen Namen und bei Bedarf eine Beschreibung ein.
-3. Wählen Sie **Anlegen**. Die neue Gruppe öffnet sich.
+2. Tragen Sie unter **Technischer Gruppenschlüssel** einen eindeutigen Wert ein. Geben Sie einen verständlichen **Anzeigenamen** und bei Bedarf eine **Beschreibung** an.
+3. Wählen Sie **Gruppe anlegen**. Die neue Gruppe öffnet sich.
 4. Ergänzen Sie dort Rollen und Mitglieder.
 
 ## Wichtige Hinweise
@@ -28,6 +28,6 @@ Hier legen Sie eine Gruppe an. Über eine Gruppe können mehrere Personen späte
 
 ## Weiterführende Hilfe
 
-- [Gruppen verwalten](/pages/admin.groups.list)
-- [Rollen verwalten](/pages/admin.roles.list)
+- [Gruppenverwaltung](/pages/admin.groups.list)
+- [Rollenverwaltung](/pages/admin.roles.list)
 - [Seitenübergreifende Anleitungen](/guides/)

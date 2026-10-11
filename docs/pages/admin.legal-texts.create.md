@@ -18,9 +18,9 @@ Hier erstellen Sie eine neue Fassung eines rechtlichen Textes für eine bestimmt
 ## So gehen Sie vor
 
 1. Öffnen Sie **Rechtstexte** und wählen Sie **Rechtstext anlegen**.
-2. Geben Sie Namen, Version und Sprache ein. Wählen Sie den Status **Entwurf**, **Gültig** oder **Archiviert**.
+2. Geben Sie Namen, Version und Sprache ein. Wählen Sie den Status **Entwurf**, **Gültig** oder **Archiv**.
 3. Bei **Gültig** tragen Sie einen Veröffentlichungszeitpunkt ein. Legen Sie fest, für welche Rollen und Gruppen der Text gilt.
-4. Erfassen Sie den Inhalt im Editor. Prüfen Sie ihn sorgfältig und wählen Sie **Anlegen**.
+4. Erfassen Sie den Inhalt im Editor. Prüfen Sie ihn sorgfältig und wählen Sie **Rechtstext anlegen**.
 
 ## Wichtige Hinweise
 
@@ -29,5 +29,5 @@ Hier erstellen Sie eine neue Fassung eines rechtlichen Textes für eine bestimmt
 
 ## Weiterführende Hilfe
 
-- [Rechtstexte verwalten](/pages/admin.legal-texts.list)
+- [Rechtstext-Verwaltung](/pages/admin.legal-texts.list)
 - [Seitenübergreifende Anleitungen](/guides/)

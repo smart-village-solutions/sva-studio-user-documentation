@@ -30,7 +30,7 @@ Hier prüfen Sie, was eine Rolle erlaubt, und wem sie direkt zugewiesen ist.
 
 ## Weiterführende Hilfe
 
-- [Rollen verwalten](/pages/admin.roles.list)
-- [Benutzer verwalten](/pages/admin.users.list)
-- [IAM-Cockpit](/pages/admin.iam.overview)
+- [Rollenverwaltung](/pages/admin.roles.list)
+- [Benutzerverwaltung](/pages/admin.users.list)
+- [IAM Transparenz-Cockpit](/pages/admin.iam.overview)
 - [Seitenübergreifende Anleitungen](/guides/)

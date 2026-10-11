@@ -1,10 +1,10 @@
 ---
 id: content.list
-title: Inhalte verwalten
+title: Inhalte
 pageType: list
 ---
 
-# Inhalte verwalten
+# Inhalte
 
 Hier finden Sie die Inhalte Ihrer Arbeitsumgebung, zum Beispiel Nachrichten, Veranstaltungen und Orte. Welche Einträge Sie sehen und bearbeiten dürfen, hängt von Ihren Rechten ab.
 
@@ -15,7 +15,7 @@ Hier finden Sie die Inhalte Ihrer Arbeitsumgebung, zum Beispiel Nachrichten, Ver
 3. Sortieren Sie die Treffer, wenn Sie etwa die zuletzt geänderten Inhalte zuerst sehen möchten.
 4. Öffnen Sie den gewünschten Eintrag über die angebotene Aktion.
 
-Über **Neu** wählen Sie einen Inhaltstyp und gelangen zum passenden Formular. Wenn Sie mehrere Einträge ausdrücklich auswählen, können Aktionen wie Archivieren oder Löschen erscheinen. Diese Aktionen betreffen nur die ausgewählten Einträge, nicht alle Treffer Ihrer Suche oder Ihres Filters. Prüfen Sie die Auswahl vor dem Bestätigen.
+Über **Neuer Inhalt** wählen Sie einen Inhaltstyp und gelangen zum passenden Formular. Wenn Sie bereits einen Typ ausgewählt haben, kann die Schaltfläche stattdessen dessen Namen tragen, zum Beispiel **Neue Nachricht**. Wenn Sie mehrere Einträge ausdrücklich auswählen, können Aktionen wie Archivieren oder Löschen erscheinen. Diese Aktionen betreffen nur die ausgewählten Einträge, nicht alle Treffer Ihrer Suche oder Ihres Filters. Prüfen Sie die Auswahl vor dem Bestätigen.
 
 ## Wenn etwas fehlt
 
@@ -23,6 +23,6 @@ Ein Inhalt kann nur lesbar oder für Sie gesperrt sein. Während Daten abgeglich
 
 ## Weiterführende Hilfe
 
-- [Inhalt anlegen](/pages/content.create)
+- [Inhalt erstellen](/pages/content.create)
 - [Inhalt bearbeiten](/pages/content.detail)
 - [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)

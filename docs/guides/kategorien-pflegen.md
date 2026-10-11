@@ -9,7 +9,7 @@ Sie sehen **Kategorien** im Studio und haben die nötigen Rechte für Ihre Aufga
 ## Kategorie anlegen oder ändern
 
 1. Öffnen Sie **Kategorien**. Suchen Sie zuerst nach einer passenden vorhandenen Kategorie.
-2. Wählen Sie **Kategorie anlegen**. Für eine Unterkategorie können Sie bei der gewünschten übergeordneten Kategorie die Aktion **Unterkategorie anlegen** wählen.
+2. Wählen Sie **Kategorie anlegen**. Für eine Unterkategorie können Sie bei der gewünschten übergeordneten Kategorie die Aktion **Neue Unterkategorie** wählen.
 3. Geben Sie einen eindeutigen Namen ein. Prüfen Sie die übergeordnete Kategorie und die **Position**, falls Sie eine Reihenfolge festlegen möchten.
 4. Wählen Sie die passenden **Datentypen**, wenn die Kategorie nur für bestimmte Arten von Inhalten gedacht ist. Ergänzen Sie weitere Angaben nur, wenn sie für Ihre Arbeit benötigt werden.
 5. Prüfen Sie **Aktiv** und speichern Sie. Kontrollieren Sie anschließend Name, Hierarchie und Status in der Liste.

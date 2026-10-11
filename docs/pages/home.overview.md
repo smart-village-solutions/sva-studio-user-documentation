@@ -1,12 +1,12 @@
 ---
 id: home.overview
-title: Studio-Übersicht
+title: Übersicht
 pageType: overview
 ---
 
-# Studio-Übersicht
+# Übersicht
 
-Die Startseite ist Ihr Einstieg in das Studio. Nach der Anmeldung sehen Sie passende Aufgaben und Bereiche für Ihren Arbeitskontext.
+Die **Übersicht** ist Ihr Einstieg in das Studio. Nach der Anmeldung sehen Sie passende Aufgaben und Bereiche für Ihren Arbeitskontext.
 
 ## Aufgabe beginnen
 
@@ -19,5 +19,5 @@ Welche Aufgaben erscheinen, hängt von freigeschalteten Modulen und Ihren Rechte
 
 ## Weiterführende Hilfe
 
-- [Mein Profil](/pages/account.profile)
-- [Inhalte verwalten](/pages/content.list)
+- [Mein Konto](/pages/account.profile)
+- [Inhalte](/pages/content.list)

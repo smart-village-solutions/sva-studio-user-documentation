@@ -18,8 +18,8 @@ Hier legen Sie einen gemeinsamen Arbeitsbereich für eine Gemeinde, ein Unterneh
 ## So gehen Sie vor
 
 1. Öffnen Sie **Organisationen** und wählen Sie **Organisation anlegen**.
-2. Geben Sie den eindeutigen Schlüssel und den sichtbaren Namen ein. Wählen Sie den passenden Typ.
-3. Wählen Sie gegebenenfalls eine übergeordnete Organisation. Legen Sie fest, wer als Autor von Inhalten angezeigt werden darf.
+2. Geben Sie unter **Technischer Schlüssel** einen eindeutigen Wert und unter **Anzeigename** den sichtbaren Namen ein. Wählen Sie den passenden **Organisationstyp**.
+3. Wählen Sie gegebenenfalls eine **Parent-Organisation** als übergeordnete Organisation. Legen Sie unter **Autoren-Policy** fest, wer als Autor von Inhalten angezeigt werden darf.
 4. Speichern Sie und prüfen Sie die neue Organisation auf ihrer Detailseite.
 
 ## Wichtige Hinweise
@@ -29,5 +29,5 @@ Hier legen Sie einen gemeinsamen Arbeitsbereich für eine Gemeinde, ein Unterneh
 
 ## Weiterführende Hilfe
 
-- [Organisationen verwalten](/pages/admin.organizations.list)
+- [Organisationsverwaltung](/pages/admin.organizations.list)
 - [Seitenübergreifende Anleitungen](/guides/)
