@@ -44,6 +44,9 @@ export default defineConfig({
       { text: 'SVA Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
     ],
     search: { provider: 'local' },
+    footer: {
+      message: 'Eigene Inhalte und Skripte: <a href="https://github.com/smart-village-solutions/sva-studio-user-documentation/blob/main/LICENSE">EUPL-1.2</a>',
+    },
     sidebar: {
       '/guides/': [
         { text: 'Anleitungen', items: [

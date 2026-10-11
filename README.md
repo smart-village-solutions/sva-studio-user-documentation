@@ -11,10 +11,16 @@ eigenständige statische Website und als Laufzeitquelle für die kontextbezogene
 | Erfahrungen mit anderen teilen | [SVA Community](https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/) (Anmeldung erforderlich) |
 | Studio selbst betreiben oder installieren | [Betriebsdokumentation im Studio-Repository](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/operations/README.md) und [Deployment-Übersicht](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/operations/deployment-overview.md) |
 | Studio weiterentwickeln oder aktualisieren | [Entwicklungsdokumentation](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/development/README.md) und [Architekturübersicht](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/architecture/README.md) |
-| Mitwirken, Lizenz oder Sicherheitsmeldung klären | [Mitwirken](https://github.com/smart-village-solutions/sva-studio/blob/main/CONTRIBUTING.md), [Lizenz des Studio-Repositories](https://github.com/smart-village-solutions/sva-studio/blob/main/LICENSE) und [Sicherheitsrichtlinie](https://github.com/smart-village-solutions/sva-studio/blob/main/SECURITY.md) |
+| Mitwirken oder eine Sicherheitsmeldung klären | [Mitwirken](https://github.com/smart-village-solutions/sva-studio/blob/main/CONTRIBUTING.md) und [Sicherheitsrichtlinie](https://github.com/smart-village-solutions/sva-studio/blob/main/SECURITY.md) |
 
 Die Seitenhilfe erklärt die jeweilige Ansicht. Konzepte erläutern Zusammenhänge einmal zentral;
 Anleitungen führen durch typische Aufgaben und verlinken auf die passenden Seitenhilfen.
+
+## Lizenz
+
+Die eigenen Inhalte und Skripte dieses Repositories stehen unter der
+[European Union Public Licence, Version 1.2 (EUPL-1.2)](LICENSE).
+Rechte an fremden Inhalten und Marken werden dadurch nicht eingeräumt.
 
 ## Neue Studio-Seiten übernehmen
 
