@@ -36,12 +36,13 @@ export default defineConfig({
   description: 'Aktuelle Anwenderdokumentation für das SVA Studio',
   cleanUrls: true,
   themeConfig: {
+    siteTitle: 'SVA Studio',
     nav: [
-      { text: 'Seitenhilfe', link: '/pages/home.overview' },
+      { text: 'Hilfe', link: '/pages/home.overview' },
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
       { text: 'FAQ', link: '/faq/' },
-      { text: 'SVA Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
+      { text: 'Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
     ],
     search: { provider: 'local' },
     footer: {
