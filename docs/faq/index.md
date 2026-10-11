@@ -3,9 +3,10 @@
 ## Wo finde ich Hilfe zu meiner Aufgabe?
 
 Im Studio öffnen Sie mit dem Fragezeichen neben dem Seitentitel die Erläuterungen zur
-gerade geöffneten Seite. Über **Hilfe** in der Seitenleiste finden Sie weitere
-Hilfsangebote. Die [Anleitungen](/guides/) führen durch Aufgaben auf mehreren Seiten;
-Begriffe und Zusammenhänge stehen unter [Konzepte](/concepts/).
+gerade geöffneten Seite. Weitere Hilfsangebote erreichen Sie über **Hilfe** in der
+Studio-Seitenleiste. Auf dieser Website finden Sie die Erklärungen unter
+[Seitenhilfe](/pages/). Die [Anleitungen](/guides/) führen durch Aufgaben auf mehreren
+Seiten; Begriffe und Zusammenhänge stehen unter [Konzepte](/concepts/).
 
 ## Warum sehe ich eine Aktion nicht?
 

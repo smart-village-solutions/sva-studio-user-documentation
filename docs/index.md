@@ -10,12 +10,13 @@ hero:
       text: Anleitungen ansehen
       link: /guides/
     - theme: alt
-      text: Seitenhilfe öffnen
-      link: /pages/home.overview
+      text: Seitenhilfe ansehen
+      link: /pages/
 
 features:
-  - title: Hilfe je Studio-Seite
-    details: Für Listen-, Anlegen- und Detailseiten steht eine passend zugeordnete Hilfeseite bereit.
+  - title: Seitenhilfe für die aktuelle Ansicht
+    details: Das Fragezeichen im Studio erklärt die gerade geöffnete Seite und ihre Bedienelemente.
+    link: /pages/
   - title: Aufgaben Schritt für Schritt
     details: Anleitungen verbinden mehrere Studio-Seiten zu einem Arbeitsablauf.
     link: /guides/

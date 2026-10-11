@@ -38,7 +38,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'SVA Studio',
     nav: [
-      { text: 'Hilfe', link: '/pages/home.overview' },
+      { text: 'Seitenhilfe', link: '/pages/' },
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
       { text: 'FAQ', link: '/faq/' },
@@ -83,13 +83,16 @@ export default defineConfig({
           { text: 'Rechtstexte und Versionen', link: '/concepts/rechtstexte-und-versionen' },
         ] },
       ],
-      '/pages/': pageSections.map((section) => ({
-        text: section,
-        collapsed: true,
-        items: catalog.pages
-          .filter((page) => pageSection(page.id) === section)
-          .map((page) => ({ text: pageTitle(page.id), link: `/pages/${page.id}` })),
-      })),
+      '/pages/': [
+        { text: 'Seitenhilfe', items: [{ text: 'Überblick', link: '/pages/' }] },
+        ...pageSections.map((section) => ({
+          text: section,
+          collapsed: true,
+          items: catalog.pages
+            .filter((page) => pageSection(page.id) === section)
+            .map((page) => ({ text: pageTitle(page.id), link: `/pages/${page.id}` })),
+        })),
+      ],
     },
   },
 });
