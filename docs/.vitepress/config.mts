@@ -39,6 +39,12 @@ export default defineConfig({
     siteTitle: 'SVA Studio',
     outline: { label: 'Auf dieser Seite' },
     docFooter: { prev: 'Vorherige Seite', next: 'Nächste Seite' },
+    sidebarMenuLabel: 'Menü',
+    darkModeSwitchLabel: 'Darstellung',
+    lightModeSwitchTitle: 'Zum hellen Design wechseln',
+    darkModeSwitchTitle: 'Zum dunklen Design wechseln',
+    returnToTopLabel: 'Zurück nach oben',
+    skipToContentLabel: 'Zum Inhalt springen',
     nav: [
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
@@ -46,7 +52,29 @@ export default defineConfig({
       { text: 'FAQ', link: '/faq/' },
       { text: 'Community', link: 'https://verwaltungen-havelland.humhub.smart-village.app/s/sva-community/' },
     ],
-    search: { provider: 'local' },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: { buttonText: 'Suche', buttonAriaLabel: 'Dokumentation durchsuchen' },
+          modal: {
+            displayDetails: 'Detaillierte Liste anzeigen',
+            resetButtonTitle: 'Suche zurücksetzen',
+            backButtonTitle: 'Suche schließen',
+            noResultsText: 'Keine Ergebnisse für',
+            footer: {
+              selectText: 'auswählen',
+              selectKeyAriaLabel: 'Eingabetaste',
+              navigateText: 'navigieren',
+              navigateUpKeyAriaLabel: 'Pfeil nach oben',
+              navigateDownKeyAriaLabel: 'Pfeil nach unten',
+              closeText: 'schließen',
+              closeKeyAriaLabel: 'Escape',
+            },
+          },
+        },
+      },
+    },
     footer: {
       message: 'Eigene Inhalte und Skripte: <a href="https://github.com/smart-village-solutions/sva-studio-user-documentation/blob/main/LICENSE">EUPL-1.2</a>',
     },

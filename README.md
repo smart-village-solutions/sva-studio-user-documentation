@@ -24,6 +24,8 @@ Anleitungen führen durch typische Aufgaben und verlinken auf die passenden Seit
 Die eigenen Inhalte und Skripte dieses Repositories stehen unter der
 [European Union Public Licence, Version 1.2 (EUPL-1.2)](LICENSE).
 Rechte an fremden Inhalten und Marken werden dadurch nicht eingeräumt.
+Die eingebundene Schrift [Fira Sans](docs/public/fonts/OFL-Fira-Sans.txt) steht unter der
+SIL Open Font License 1.1.
 
 ## Neue Studio-Seiten übernehmen
 
