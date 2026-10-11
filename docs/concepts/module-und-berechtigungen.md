@@ -10,6 +10,8 @@ Beispiel: Sie sehen die Nachrichtenliste, aber die Schaltfläche zum Anlegen feh
 
 Die Mitgliedschaft in einer [Organisation](/concepts/accounts-und-organisationen) ersetzt kein Recht. Bei manchen Rechten entscheidet zusätzlich der [Scope](/concepts/scopes-von-berechtigungen), auf welche Inhalte das Recht wirkt.
 
+In den Benutzerdetails können auch **Keycloak-Rollen** erscheinen. Diese gelten für angebundene Anwendungen und vergeben keine Studio-Rechte. Den Unterschied erklärt [Keycloak und SVA Studio](/concepts/keycloak-und-studio).
+
 Änderungen an einer Gruppe können mehrere Mitglieder zugleich betreffen. Wenn Sie eine Aufgabe nicht ausführen können, nennen Sie Ihrer Administration den Bereich, die gewünschte Aktion und möglichst den betroffenen Inhalt.
 
 ## Weiterführende Hilfe

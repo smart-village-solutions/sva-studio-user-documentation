@@ -114,6 +114,7 @@ export default defineConfig({
         { text: 'Zugang und Verwaltung', items: [
           { text: 'Rechte, Rollen und Gruppen', link: '/concepts/module-und-berechtigungen' },
           { text: 'Accounts und Organisationen', link: '/concepts/accounts-und-organisationen' },
+          { text: 'Keycloak und SVA Studio', link: '/concepts/keycloak-und-studio' },
           { text: 'Scopes von Berechtigungen', link: '/concepts/scopes-von-berechtigungen' },
           { text: 'Die Rolle „System-Administrator“', link: '/concepts/system-admin' },
           { text: 'Konto und Datenschutz', link: '/concepts/konto-und-datenschutz' },
