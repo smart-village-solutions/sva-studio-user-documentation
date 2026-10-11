@@ -26,4 +26,12 @@ Die [Seitenhilfe zum Anlegen](/pages/admin.users.create) erläutert alle Felder.
 4. Öffnen Sie **Berechtigungen**. Dort sehen Sie die wirksamen Rechte und deren Herkunft. Ein Bereich kann freigeschaltet sein, ohne dass die Person jede Aktion darin ausführen darf.
 5. Speichern Sie Änderungen und kontrollieren Sie die Rückmeldung. Prüfen Sie danach die Berechtigungen erneut.
 
+## Wenn eine Aktion weiterhin fehlt
+
+Beispiel: Eine Person sieht **Nachrichten**, kann aber keine Nachricht anlegen. Prüfen Sie zuerst in den **Benutzerdetails**, ob ihre Gruppe aktiv und zugewiesen ist. Öffnen Sie dann die Gruppe und prüfen Sie ihre Rollen. In den Rollendetails sehen Sie, welche Berechtigungen die Rolle enthält. Prüfen Sie anschließend im Reiter **Berechtigungen** der Person, ob das benötigte Recht wirksam ist und aus welcher Zuweisung es stammt. Dort werden auch nicht wirksame Quellen angezeigt. Falls die Arbeit für eine Organisation erfolgen soll, prüfen Sie zudem die Mitgliedschaft und den gewählten Arbeitsbereich. Eine direkte Rolle ist nur für einen begründeten Sonderfall sinnvoll; Änderungen an einer Gruppe können mehrere Personen betreffen.
+
+## Zugriff befristet vergeben
+
+Wenn jemand nur vorübergehend eine Aufgabe übernehmen soll, öffnen Sie die [Gruppendetails](/pages/admin.groups.detail). Dort können Sie beim Hinzufügen einer Mitgliedschaft **Gültig ab** und **Gültig bis** angeben. Für die Zuordnung verlangt das Studio das Feld **Keycloak-Subject**. Lassen Sie die passende Kennung durch Ihre Administration ermitteln, wenn sie Ihnen nicht vorliegt; verwenden Sie dafür nicht einfach die E-Mail-Adresse. Prüfen Sie nach dem Speichern den Zeitraum in der Mitgliedschaftsliste und das wirksame Recht in den Benutzerdetails. Nach Ablauf der Mitgliedschaft entfallen Rechte, die ausschließlich aus dieser Gruppe stammen.
+
 Wenn Sie ein Konto deaktivieren oder löschen möchten, prüfen Sie vorher seine Aufgaben und zugeordneten Inhalte. Für das eigene Konto und den letzten aktiven System-Administrator gelten Schutzregeln. Die [Benutzerseite](/pages/admin.users.list) beschreibt außerdem die Grenzen für Sammelaktionen.

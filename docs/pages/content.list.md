@@ -15,7 +15,7 @@ Hier finden Sie die Inhalte Ihrer Arbeitsumgebung, zum Beispiel Nachrichten, Ver
 3. Sortieren Sie die Treffer, wenn Sie etwa die zuletzt geänderten Inhalte zuerst sehen möchten.
 4. Öffnen Sie den gewünschten Eintrag über die angebotene Aktion.
 
-Über **Neu** wählen Sie einen Inhaltstyp und gelangen zum passenden Formular. Für mehrere markierte Inhalte können zusätzliche Aktionen erscheinen. Lesen Sie vor dem Bestätigen genau, ob die Aktion nur die Auswahl, die aktuelle Seite oder alle gefilterten Treffer betrifft.
+Über **Neu** wählen Sie einen Inhaltstyp und gelangen zum passenden Formular. Wenn Sie mehrere Einträge ausdrücklich auswählen, können Aktionen wie Archivieren oder Löschen erscheinen. Diese Aktionen betreffen nur die ausgewählten Einträge, nicht alle Treffer Ihrer Suche oder Ihres Filters. Prüfen Sie die Auswahl vor dem Bestätigen.
 
 ## Wenn etwas fehlt
 

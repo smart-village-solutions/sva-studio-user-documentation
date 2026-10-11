@@ -17,6 +17,13 @@ Sie sind im Studio angemeldet. Der gewünschte Inhaltstyp ist freigeschaltet und
 
 **Ergebnis:** Der Eintrag ist in der Inhaltsliste auffindbar. Sein Status und seine Angaben entsprechen Ihrer Auswahl.
 
+## Vor der Veröffentlichung prüfen
+
+- Versteht jemand ohne Vorwissen schon aus Überschrift und ersten Sätzen, worum es geht?
+- Beschreiben Links ihr Ziel verständlich? Haben wichtige Bilder einen passenden Alternativtext und dürfen Sie diese Bilder verwenden?
+- Stimmen Kategorie, Sichtbarkeit und gegebenenfalls Veröffentlichungszeitpunkt?
+- Sind Pflichtangaben und Kontaktdaten aktuell? Öffnen Sie den gespeicherten Inhalt noch einmal und kontrollieren Sie das Ergebnis.
+
 ## Wenn etwas nicht klappt
 
 - Fehlt ein Typ oder eine Aktion, fragen Sie Ihre Administration nach Freischaltung und Rechten.

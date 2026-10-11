@@ -23,9 +23,11 @@ Kategorien ordnen Inhalte in einer Baumstruktur. Eine Unterkategorie gehört zu 
 
 ## Löschen und Status ändern
 
-Eine Statusänderung kann eine Bestätigung verlangen. Prüfen Sie diese vor dem Fortfahren. Beim Löschen zeigt das Studio einen Bestätigungsdialog; kontrollieren Sie, ob die richtige Kategorie ausgewählt ist. Falls eine Aktion fehlt, kann Ihre Berechtigung oder die Anbindung sie nicht erlauben.
+Wenn Sie den Aktivstatus einer Kategorie mit Unterkategorien ändern, kann das Studio eine Bestätigung für die betroffenen Unterkategorien verlangen. Lesen Sie die angezeigte Anzahl, bevor Sie fortfahren.
+
+Beim Löschen zeigt das Studio einen Bestätigungsdialog. Wird die Kategorie noch verwendet, bleibt sie erhalten und der Dialog zeigt die Verwendungen nach Art und Anzahl an. Prüfen Sie diese Zuordnungen, statt den Löschversuch zu wiederholen. Falls eine Aktion fehlt oder deaktiviert ist, kann Ihre Berechtigung oder die Anbindung sie nicht erlauben.
 
 ## Weiterführende Hilfe
 
 - [Inhalt anlegen](/pages/content.create)
-- [Seitenübergreifende Anleitungen](/guides/)
+- [Anleitung: Kategorien pflegen](/guides/kategorien-pflegen)

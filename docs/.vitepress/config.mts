@@ -57,6 +57,12 @@ export default defineConfig({
           { text: 'Nachricht vorbereiten und veröffentlichen', link: '/guides/nachricht-veroeffentlichen' },
           { text: 'Medien hochladen und verwenden', link: '/guides/medien-hochladen-und-verwenden' },
           { text: 'Veranstaltung mit Ort anlegen', link: '/guides/veranstaltung-mit-ort-anlegen' },
+          { text: 'Ort mit Öffnungszeiten anlegen', link: '/guides/ort-mit-oeffnungszeiten-anlegen' },
+          { text: 'Kategorien pflegen', link: '/guides/kategorien-pflegen' },
+        ] },
+        { text: 'Fachbereiche', items: [
+          { text: 'Umfrage vorbereiten und Ergebnisse prüfen', link: '/guides/umfrage-vorbereiten-und-ergebnisse-pruefen' },
+          { text: 'Abfalltouren planen und veröffentlichen', link: '/guides/abfalltouren-planen' },
         ] },
         { text: 'Konto und Verwaltung', items: [
           { text: 'Benutzer und Zugriff verwalten', link: '/guides/benutzer-und-zugriff-verwalten' },

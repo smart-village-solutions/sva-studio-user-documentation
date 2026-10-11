@@ -13,11 +13,11 @@ Hier prüfen und ändern Sie Aufbau, Fragen und Einstellungen einer vorhandenen 
 1. Kontrollieren Sie Titel, Laufzeit, Beschreibung und Teilnahmebedingungen.
 2. Prüfen Sie die Fragen und Antwortmöglichkeiten, bevor Teilnehmende sie sehen.
 3. In **Ergebnisse** sehen Sie Teilnahmezahlen und zusammengefasste Antworten, sofern Daten und Rechte vorliegen.
-4. In **Moderation** können Sie Freitextantworten lesen. Das Freigeben, Ausblenden oder Löschen einzelner Antworten ist in dieser Ansicht derzeit nicht möglich.
-5. Nutzen Sie einen Export nur, wenn Sie die Daten für Ihre Aufgabe benötigen.
+4. In **Moderation** können Sie Freitextantworten lesen.
 
-Für Moderation und Export können zusätzliche Rechte nötig sein. Ein Export mit Freitexten kann Namen oder andere persönliche Angaben enthalten; prüfen Sie vor dem Weitergeben, ob diese benötigt werden. Die Historie zeigt Änderungen aus dem Studio.
+Die Moderationsansicht zeigt Freitextantworten derzeit nur zum Lesen. Eine Exportfunktion ist im aktuellen Umfrage-Editor nicht verfügbar. Die Historie zeigt Änderungen aus dem Studio.
 
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
+- [Umfrage vorbereiten und Ergebnisse prüfen](/guides/umfrage-vorbereiten-und-ergebnisse-pruefen)
