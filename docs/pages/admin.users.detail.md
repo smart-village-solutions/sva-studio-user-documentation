@@ -34,4 +34,6 @@ Die Detailseite führt persönliche Daten, Verwaltung, Organisationen, effektive
 - [Benutzer verwalten](/pages/admin.users.list)
 - [Organisationen verwalten](/pages/admin.organizations.list)
 - [IAM-Cockpit](/pages/admin.iam.overview)
+- [Instanzen, Module und Berechtigungen](/concepts/instanzen-module-berechtigungen)
+- [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Seitenübergreifende Anleitungen](/guides/)

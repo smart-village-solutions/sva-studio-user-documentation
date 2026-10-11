@@ -31,4 +31,5 @@ Die Benutzerliste bündelt Kontostatus, Keycloak-Zuordnung und Verwaltungsaktion
 
 - [Benutzer anlegen](/pages/admin.users.create)
 - [Benutzer bearbeiten](/pages/admin.users.detail)
+- [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Seitenübergreifende Anleitungen](/guides/)

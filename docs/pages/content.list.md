@@ -32,4 +32,5 @@ Die gemeinsame Inhaltsliste bündelt generische und plugin-spezifische redaktion
 
 - [Inhalt anlegen](/pages/content.create)
 - [Inhalt bearbeiten](/pages/content.detail)
+- [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
 - [Seitenübergreifende Anleitungen](/guides/)

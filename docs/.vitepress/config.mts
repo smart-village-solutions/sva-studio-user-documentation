@@ -23,6 +23,20 @@ export default defineConfig({
     ],
     search: { provider: 'local' },
     sidebar: {
+      '/guides/': [
+        { text: 'Anleitungen', items: [
+          { text: 'Überblick', link: '/guides/' },
+          { text: 'Inhalt anlegen und bearbeiten', link: '/guides/inhalt-anlegen-und-bearbeiten' },
+          { text: 'Benutzer und Zugriff verwalten', link: '/guides/benutzer-und-zugriff-verwalten' },
+        ] },
+      ],
+      '/concepts/': [
+        { text: 'Konzepte', items: [
+          { text: 'Überblick', link: '/concepts/' },
+          { text: 'Instanzen, Module und Berechtigungen', link: '/concepts/instanzen-module-berechtigungen' },
+          { text: 'Inhalte und Veröffentlichung', link: '/concepts/inhalte-und-veroeffentlichung' },
+        ] },
+      ],
       '/pages/': [
         {
           text: 'Studio-Seiten',

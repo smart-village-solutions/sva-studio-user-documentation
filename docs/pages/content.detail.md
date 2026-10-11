@@ -31,4 +31,6 @@ Hier bearbeiten Sie Kernmetadaten und freie Zusatzdaten eines generischen Inhalt
 ## Weiterführende Hilfe
 
 - [Inhalte verwalten](/pages/content.list)
+- [Inhalte und Veröffentlichung](/concepts/inhalte-und-veroeffentlichung)
+- [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
 - [Seitenübergreifende Anleitungen](/guides/)

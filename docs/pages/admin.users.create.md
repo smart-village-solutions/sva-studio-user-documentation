@@ -32,4 +32,5 @@ Hier erstellen Sie ein neues Konto in Keycloak und IAM und vergeben geeignete St
 
 - [Benutzer verwalten](/pages/admin.users.list)
 - [Gruppen verwalten](/pages/admin.groups.list)
+- [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Seitenübergreifende Anleitungen](/guides/)

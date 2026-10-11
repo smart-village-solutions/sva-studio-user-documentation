@@ -31,4 +31,5 @@ Wählen Sie zuerst den passenden Inhaltstyp und öffnen Sie anschließend dessen
 - [Inhalte verwalten](/pages/content.list)
 - [Nachricht anlegen](/pages/news.content.create)
 - [Veranstaltung anlegen](/pages/events.content.create)
+- [Anleitung: Inhalt anlegen und bearbeiten](/guides/inhalt-anlegen-und-bearbeiten)
 - [Seitenübergreifende Anleitungen](/guides/)

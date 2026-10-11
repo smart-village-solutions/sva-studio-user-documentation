@@ -3,6 +3,18 @@
 Dieses Repository veröffentlicht die aktuelle Anwenderdokumentation des SVA Studios als
 eigenständige statische Website und als Laufzeitquelle für die kontextbezogene Hilfe im Studio.
 
+## Dokumentation finden
+
+| Aufgabe | Einstieg |
+| --- | --- |
+| Studio benutzen und fachliche Abläufe verstehen | [Anwenderdokumentation](https://smart-village-solutions.github.io/sva-studio-user-documentation/) mit [Anleitungen](https://smart-village-solutions.github.io/sva-studio-user-documentation/guides/), [Konzepten](https://smart-village-solutions.github.io/sva-studio-user-documentation/concepts/) und Hilfe zu einzelnen Studio-Seiten |
+| Studio selbst betreiben oder installieren | [Betriebsdokumentation im Studio-Repository](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/operations/README.md) und [Deployment-Übersicht](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/operations/deployment-overview.md) |
+| Studio weiterentwickeln oder aktualisieren | [Entwicklungsdokumentation](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/development/README.md) und [Architekturübersicht](https://github.com/smart-village-solutions/sva-studio/blob/main/docs/architecture/README.md) |
+| Mitwirken, Lizenz oder Sicherheitsmeldung klären | [Mitwirken](https://github.com/smart-village-solutions/sva-studio/blob/main/CONTRIBUTING.md), [Lizenz des Studio-Repositories](https://github.com/smart-village-solutions/sva-studio/blob/main/LICENSE) und [Sicherheitsrichtlinie](https://github.com/smart-village-solutions/sva-studio/blob/main/SECURITY.md) |
+
+Die Seitenhilfe erklärt die jeweilige Ansicht. Konzepte erläutern Zusammenhänge einmal zentral;
+Anleitungen führen durch typische Aufgaben und verlinken auf die passenden Seitenhilfen.
+
 ## Neue Studio-Seiten übernehmen
 
 ```bash
