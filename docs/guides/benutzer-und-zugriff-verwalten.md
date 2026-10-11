@@ -6,7 +6,7 @@ Mit dieser Anleitung legen Sie ein persönliches Studio-Konto an und prüfen ans
 
 1. Öffnen Sie [Benutzerverwaltung](/pages/admin.users.list).
 2. Suchen Sie nach der E-Mail-Adresse oder dem Namen. Prüfen Sie auch den Statusfilter: Ein inaktives Konto muss nicht neu angelegt werden.
-3. Klären Sie, welche Aufgaben die Person übernehmen soll. Daraus ergeben sich die passenden Gruppen. [Module und Berechtigungen](/concepts/module-und-berechtigungen) erklärt den Unterschied zwischen sichtbaren Bereichen und erlaubten Aktionen.
+3. Klären Sie, welche Aufgaben die Person übernehmen soll. Daraus ergeben sich die passenden Gruppen. [Rechte, Rollen und Gruppen](/concepts/module-und-berechtigungen) erklärt den Unterschied zwischen sichtbaren Bereichen und erlaubten Aktionen.
 
 ## Konto anlegen und einladen
 
@@ -17,6 +17,8 @@ Mit dieser Anleitung legen Sie ein persönliches Studio-Konto an und prüfen ans
 5. Prüfen Sie dort die Rückmeldung zur Einladung. Ist der Versand fehlgeschlagen, prüfen Sie zuerst das angelegte Konto. Sie können die E-Mail auf der Detailseite erneut senden.
 
 Die [Seitenhilfe zum Anlegen](/pages/admin.users.create) erläutert alle Felder. Falls Sie den Wortlaut der Einladungs-E-Mail betreuen, finden Sie ihn unter [Konto-Einladung anpassen](/pages/admin.users.invitation-template).
+
+Wie Keycloak die Anmeldung und das Passwortsetzen übernimmt und wie sich Keycloak-Rollen von Studio-Rechten unterscheiden, erklärt [Keycloak und SVA Studio](/concepts/keycloak-und-studio).
 
 ## Zugriff prüfen oder ändern
 

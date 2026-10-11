@@ -15,6 +15,7 @@ Wenn Sie eine konkrete Aufgabe erledigen möchten, nutzen Sie die [Anleitungen](
 
 - [Rechte, Rollen und Gruppen](/concepts/module-und-berechtigungen)
 - [Accounts und Organisationen](/concepts/accounts-und-organisationen)
+- [Keycloak und SVA Studio](/concepts/keycloak-und-studio)
 - [Scopes von Berechtigungen](/concepts/scopes-von-berechtigungen)
 - [Die Rolle „System-Administrator“](/concepts/system-admin)
 - [Konto und Datenschutz](/concepts/konto-und-datenschutz)
