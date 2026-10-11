@@ -8,6 +8,8 @@ Beispiel: Sie bereiten eine Nachricht für nächste Woche vor. Speichern Sie sie
 
 In der [Inhaltsliste](/pages/content.list) finden Sie Einträge wieder. Welche Inhalte und Aktionen Sie sehen, hängt von Ihren Rechten ab. Prüfen Sie bei Aktionen für mehrere Einträge den angezeigten Umfang vor dem Bestätigen.
 
+Wer für einen Inhalt zuständig ist, zeigt der Bereich **Inhaber** auf unterstützten Detailseiten. Falls diese Zuständigkeit wechseln soll, lesen Sie [Übertragung von Inhalten](/concepts/uebertragung-von-inhalten). Warum manche Listen einen älteren Stand zeigen können, erklärt [Studio und SVA Mainserver](/concepts/studio-und-sva-mainserver).
+
 ## Weiterführende Hilfe
 
 - [Inhaltstypen und Kategorien](/concepts/inhaltstypen-und-kategorien)

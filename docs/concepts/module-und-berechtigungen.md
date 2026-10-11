@@ -1,18 +1,19 @@
-# Module und Berechtigungen
+# Rechte, Rollen und Gruppen
 
-Ein **Modul** stellt einen Fachbereich im Studio bereit, etwa die Arbeit mit Nachrichten. Eine **Berechtigung** legt fest, welche Aktion Sie dort ausführen dürfen, zum Beispiel Inhalte lesen oder bearbeiten. Ein sichtbarer Bereich bedeutet daher nicht, dass Sie alle seine Einträge ändern können.
+Im Studio beschreibt ein **Recht** (auch *Berechtigung* oder *Permission*), welche Aktion eine Person ausführen darf: zum Beispiel Inhalte lesen, anlegen oder bearbeiten. Ein **Modul** stellt einen Fachbereich bereit, etwa Nachrichten. Ein verfügbares Modul allein gibt noch kein Recht, alle seine Inhalte zu ändern.
 
-**Rollen** fassen Berechtigungen zusammen. **Gruppen** fassen Rollen und Mitglieder zusammen. Ihre Zuordnung zu einer **Organisation** kann zusätzlich beeinflussen, welche Daten Sie bearbeiten dürfen. Diese Begriffe beschreiben unterschiedliche Teile Ihres Zugangs innerhalb Ihrer Arbeitsumgebung.
+## Wie kommen Rechte bei einer Person an?
 
-Wenn Sie mehreren Organisationen angehören, können Sie im Kontomenü zwischen verfügbaren Organisationen wechseln. Der persönliche Arbeitsbereich wird nur angezeigt, wenn er für Sie vorgesehen ist. Prüfen Sie vor dem Bearbeiten eines Inhalts, in wessen Namen Sie gerade arbeiten. Die Mitgliedschaft in einer Organisation und der gewählte Arbeitsbereich allein erlauben noch keine Änderung: Dafür benötigen Sie auch das passende Recht. Ein **Default-Kontext** kann für Sie voreingestellt werden.
+Eine **Rolle** bündelt Rechte. Eine Rolle kann einem Benutzerkonto direkt zugewiesen sein oder über eine **Gruppe** gelten. Gruppen bündeln Rollen und Mitglieder: Wer Mitglied einer aktiven Gruppe ist, kann die Rechte ihrer Rollen erhalten. In der **Benutzerverwaltung** zeigt der Bereich **Berechtigungen**, welche Rechte derzeit gelten und aus welcher Rolle oder Gruppe sie stammen. Auch nicht wirksame Zuweisungen lassen sich dort prüfen.
 
-Beispiel: Sie sehen die Nachrichtenliste, aber die Schaltfläche zum Anlegen fehlt. Der Bereich ist verfügbar; für das Anlegen fehlt Ihnen möglicherweise die passende Berechtigung. Eine Person mit Verwaltungsrechten kann Ihre [Benutzerdetails](/pages/admin.users.detail), die zugeordneten [Gruppen](/pages/admin.groups.list) und deren [Rollen](/pages/admin.roles.list) prüfen. Fehlt der ganze Bereich, kann auch das Modul nicht verfügbar sein.
+Beispiel: Sie sehen die Nachrichtenliste, aber die Schaltfläche zum Anlegen fehlt. Möglicherweise fehlt das Recht zum Anlegen. Eine Person mit Verwaltungsrechten kann in den [Benutzerdetails](/pages/admin.users.detail) die gültigen Rechte prüfen, dann die [Gruppen](/pages/admin.groups.list) und [Rollen](/pages/admin.roles.list) ansehen. Fehlt der ganze Bereich, kann das Modul nicht verfügbar sein.
 
-Wenn Sie eine Aufgabe nicht ausführen können, nennen Sie Ihrer Administration den betroffenen Bereich und die gewünschte Aktion. Änderungen an Gruppen können die Rechte mehrerer Personen betreffen.
+Die Mitgliedschaft in einer [Organisation](/concepts/accounts-und-organisationen) ersetzt kein Recht. Bei manchen Rechten entscheidet zusätzlich der [Scope](/concepts/scopes-von-berechtigungen), auf welche Inhalte das Recht wirkt.
+
+Änderungen an einer Gruppe können mehrere Mitglieder zugleich betreffen. Wenn Sie eine Aufgabe nicht ausführen können, nennen Sie Ihrer Administration den Bereich, die gewünschte Aktion und möglichst den betroffenen Inhalt.
 
 ## Weiterführende Hilfe
 
 - [Anleitung: Benutzer und Zugriff verwalten](/guides/benutzer-und-zugriff-verwalten)
 - [Rollenverwaltung](/pages/admin.roles.list)
 - [Gruppenverwaltung](/pages/admin.groups.list)
-- [Organisationsverwaltung](/pages/admin.organizations.list)
