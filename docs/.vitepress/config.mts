@@ -37,6 +37,7 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     siteTitle: 'SVA Studio',
+    outline: { label: 'Auf dieser Seite' },
     nav: [
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
