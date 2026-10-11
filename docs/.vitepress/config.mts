@@ -38,6 +38,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'SVA Studio',
     outline: { label: 'Auf dieser Seite' },
+    docFooter: { prev: 'Vorherige Seite', next: 'Nächste Seite' },
     nav: [
       { text: 'Anleitungen', link: '/guides/' },
       { text: 'Konzepte', link: '/concepts/' },
