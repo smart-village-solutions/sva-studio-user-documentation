@@ -34,6 +34,14 @@
       }
     },
     {
+      "id": "admin.app-translations",
+      "path": "/admin/app-translations",
+      "pageType": "overview",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
       "id": "admin.groups.create",
       "path": "/admin/groups/new",
       "pageType": "create",
@@ -154,6 +162,14 @@
       }
     },
     {
+      "id": "admin.users.authentication-policy",
+      "path": "/admin/users/authentication-policy",
+      "pageType": "detail",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
       "id": "admin.users.create",
       "path": "/admin/users/new",
       "pageType": "create",
@@ -183,6 +199,15 @@
       "pageType": "list",
       "owner": {
         "kind": "host"
+      }
+    },
+    {
+      "id": "app-translations.catalogs",
+      "path": "/plugins/app-translations",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "app-translations"
       }
     },
     {
@@ -220,6 +245,26 @@
         "pluginId": "cockpit-cards"
       },
       "titleKey": "cockpit-cards.navigation.title"
+    },
+    {
+      "id": "construction-sites.content.create",
+      "path": "/admin/construction-sites/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "construction-sites"
+      },
+      "titleKey": "construction-sites.navigation.title"
+    },
+    {
+      "id": "construction-sites.content.detail",
+      "path": "/admin/construction-sites/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "construction-sites"
+      },
+      "titleKey": "construction-sites.navigation.title"
     },
     {
       "id": "content.create",
@@ -360,6 +405,14 @@
       }
     },
     {
+      "id": "mobile-app.texts",
+      "path": "/app-texts",
+      "pageType": "overview",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
       "id": "monitoring.job-detail",
       "path": "/monitoring/jobs/$jobId",
       "pageType": "detail",
@@ -471,6 +524,26 @@
         "pluginId": "surveys"
       },
       "titleKey": "surveys.navigation.title"
+    },
+    {
+      "id": "vouchers.content.create",
+      "path": "/admin/vouchers/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "vouchers"
+      },
+      "titleKey": "vouchers.navigation.title"
+    },
+    {
+      "id": "vouchers.content.detail",
+      "path": "/admin/vouchers/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "vouchers"
+      },
+      "titleKey": "vouchers.navigation.title"
     },
     {
       "id": "waste-management.overview",
