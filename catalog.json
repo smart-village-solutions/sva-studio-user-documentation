@@ -34,6 +34,14 @@
       }
     },
     {
+      "id": "admin.app-translations",
+      "path": "/admin/app-translations",
+      "pageType": "overview",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
       "id": "admin.groups.create",
       "path": "/admin/groups/new",
       "pageType": "create",
@@ -154,6 +162,14 @@
       }
     },
     {
+      "id": "admin.users.authentication-policy",
+      "path": "/admin/users/authentication-policy",
+      "pageType": "detail",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
       "id": "admin.users.create",
       "path": "/admin/users/new",
       "pageType": "create",
@@ -186,16 +202,43 @@
       }
     },
     {
-      "id": "app.overview",
-      "path": "/app",
+      "id": "app-translations.catalogs",
+      "path": "/plugins/app-translations",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "app-translations"
+      }
+    },
+    {
+      "id": "application-workspace.overview",
+      "path": "/plugins/application-workspace",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "application-workspace"
+      }
+    },
+    {
+      "id": "application-workspace.settings",
+      "path": "/plugins/application-workspace/settings",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "application-workspace"
+      }
+    },
+    {
+      "id": "categories.overview",
+      "path": "/categories",
       "pageType": "overview",
       "owner": {
         "kind": "host"
       }
     },
     {
-      "id": "categories.overview",
-      "path": "/categories",
+      "id": "changelog.overview",
+      "path": "/changelog",
       "pageType": "overview",
       "owner": {
         "kind": "host"
@@ -220,6 +263,26 @@
         "pluginId": "cockpit-cards"
       },
       "titleKey": "cockpit-cards.navigation.title"
+    },
+    {
+      "id": "construction-sites.content.create",
+      "path": "/admin/construction-sites/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "construction-sites"
+      },
+      "titleKey": "construction-sites.navigation.title"
+    },
+    {
+      "id": "construction-sites.content.detail",
+      "path": "/admin/construction-sites/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "construction-sites"
+      },
+      "titleKey": "construction-sites.navigation.title"
     },
     {
       "id": "content.create",
@@ -344,6 +407,35 @@
       "titleKey": "shell.sidebar.media"
     },
     {
+      "id": "ivcampus.settings",
+      "path": "/plugins/ivcampus/settings",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ivcampus"
+      }
+    },
+    {
+      "id": "jobs.content.create",
+      "path": "/admin/jobs/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "jobs"
+      },
+      "titleKey": "jobs.navigation.title"
+    },
+    {
+      "id": "jobs.content.detail",
+      "path": "/admin/jobs/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "jobs"
+      },
+      "titleKey": "jobs.navigation.title"
+    },
+    {
       "id": "media.overview",
       "path": "/media",
       "pageType": "overview",
@@ -355,6 +447,22 @@
       "id": "media.usage",
       "path": "/admin/media/$mediaId/usage",
       "pageType": "usage",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
+      "id": "mobile-app.configuration",
+      "path": "/app-configuration",
+      "pageType": "overview",
+      "owner": {
+        "kind": "host"
+      }
+    },
+    {
+      "id": "mobile-app.texts",
+      "path": "/app-texts",
+      "pageType": "overview",
       "owner": {
         "kind": "host"
       }
@@ -444,8 +552,98 @@
       "titleKey": "projects.navigation.title"
     },
     {
-      "id": "ssf.tenant-configuration",
-      "path": "/plugins/ssf/configuration",
+      "id": "search.results",
+      "path": "/plugins/search",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "search"
+      }
+    },
+    {
+      "id": "ssf.system-default-configuration",
+      "path": "/plugins/ssf/system/default-configuration",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.system-default-content",
+      "path": "/plugins/ssf/system/default-content",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.system-overview",
+      "path": "/plugins/ssf/system/overview",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-access-transfers",
+      "path": "/plugins/ssf/access-transfers",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-appearance",
+      "path": "/plugins/ssf/appearance",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-feedback",
+      "path": "/plugins/ssf/feedback",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-languages",
+      "path": "/plugins/ssf/languages",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-organisation-keys",
+      "path": "/plugins/ssf/organisation-keys",
+      "pageType": "setup",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-overview",
+      "path": "/plugins/ssf/overview",
+      "pageType": "overview",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "ssf"
+      }
+    },
+    {
+      "id": "ssf.tenant-recordings",
+      "path": "/plugins/ssf/recordings",
       "pageType": "setup",
       "owner": {
         "kind": "plugin",
@@ -471,6 +669,65 @@
         "pluginId": "surveys"
       },
       "titleKey": "surveys.navigation.title"
+    },
+    {
+      "id": "tours.content.create",
+      "path": "/admin/tours/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "tours"
+      },
+      "titleKey": "tours.title"
+    },
+    {
+      "id": "tours.content.detail",
+      "path": "/admin/tours/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "tours"
+      },
+      "titleKey": "tours.title"
+    },
+    {
+      "id": "tours.content.list",
+      "path": "/admin/tours",
+      "pageType": "list",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "tours"
+      },
+      "titleKey": "tours.title"
+    },
+    {
+      "id": "vouchers.content.create",
+      "path": "/admin/vouchers/new",
+      "pageType": "create",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "vouchers"
+      },
+      "titleKey": "vouchers.navigation.title"
+    },
+    {
+      "id": "vouchers.content.detail",
+      "path": "/admin/vouchers/$id",
+      "pageType": "detail",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "vouchers"
+      },
+      "titleKey": "vouchers.navigation.title"
+    },
+    {
+      "id": "waste-management.email-monitoring",
+      "path": "/plugins/waste-management/email-monitoring",
+      "pageType": "list",
+      "owner": {
+        "kind": "plugin",
+        "pluginId": "waste-management"
+      }
     },
     {
       "id": "waste-management.overview",
